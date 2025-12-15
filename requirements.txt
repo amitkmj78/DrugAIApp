@@ -1,0 +1,29 @@
+# Streamlit
+streamlit>=1.32
+
+# LangChain (modern stack)
+langchain>=0.3
+langchain-core>=1.1
+langchain-community>=0.3
+
+# LLM providers
+langchain-openai
+langchain-groq
+langchain-ollama
+openai
+
+# Data / utils
+requests>=2.31
+python-dotenv>=1.0
+
+# UI extras
+streamlit-mic-recorder>=0.0.4
+
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-ollama
+openai
+
