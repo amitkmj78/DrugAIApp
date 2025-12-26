@@ -1,4 +1,7 @@
-def formulation_cost_estimate(drug, route, dosage_form):
+from typing import Dict
+
+
+def formulation_cost_estimate(drug, route: str, dosage_form: str) -> Dict[str, any] :
     """
     Detailed CMC / formulation cost estimation (USD millions).
     Intended for US IND / ANDA / 505(b)(2) planning.

@@ -209,9 +209,9 @@ st.sidebar.selectbox(
     key="selected_patent",
 )
 
-st.sidebar.subheader("Formulation Inputs")
-route_in = st.sidebar.selectbox("Route", ["Oral", "Injectable", "Topical", "Inhaled"], key="route_in")
-dosage_form_in = st.sidebar.text_input("Dosage form / notes", key="dosage_form_in")
+# st.sidebar.subheader("Formulation Inputs")
+# route_in = st.sidebar.selectbox("Route", ["Oral", "Injectable", "Topical", "Inhaled"], key="route_in")
+# dosage_form_in = st.sidebar.text_input("Dosage form / notes", key="dosage_form_in")
 
 if st.sidebar.button(
     "🔍 Analyze",
@@ -219,10 +219,10 @@ if st.sidebar.button(
     disabled=not bool(st.session_state.selected_drug),
     key="analyze_btn",
 ):
-    st.session_state.route = route_in
-    st.session_state.dosage_form = dosage_form_in
+    #st.session_state.route = route_in
+    #st.session_state.dosage_form = dosage_form_in
     st.session_state.cost = formulation_cost_estimate(
-        st.session_state.selected_drug, route_in, dosage_form_in
+    st.session_state.selected_drug, st.session_state.route or "", st.session_state.dosage_form or ""
     )
     st.session_state.run_id = str(uuid.uuid4())
     st.session_state.ai_summary = None
@@ -314,7 +314,6 @@ overview_tab, ege_tab, strategy_tab, ai_tab, data_upload = st.tabs(
     ["🏠 Executive Overview", "⏳ Generic Entry (EGE)", "📊 Strategy", "🧠 AI Analysis", "📂 Data Upload"]
 )
 
-
 # =====================================================
 # OVERVIEW TAB
 # =====================================================
@@ -381,7 +380,6 @@ with overview_tab:
         f"${cost['low']}–{cost['high']}M" if cost else "—",
     )
     c5.metric("Competition", f"{comp_level} ({comp_count})")
-
     st.divider()
 
     # ----------------------------
@@ -395,9 +393,7 @@ with overview_tab:
         st.write(f"**Salt / Form:** {overview.get('salt_or_form', '—')}")
         st.write(f"**Dosage Form:** {overview.get('dosage_form', '—')}")
         st.write(f"**Route:** {overview.get('route', '—')}")
-       
-
-
+    
     with col2:
         st.markdown("### Regulatory (FDA)")
         reg = overview.get("regulatory", {}) or {}
@@ -408,10 +404,7 @@ with overview_tab:
             st.markdown("### Risk Signals")
             for r in overview["risk_signals"]:
                 st.warning(r)
-
-    with st.expander("Data Sources & Provenance"):
-        st.json(overview.get("data_sources", {}))
-
+   
     # ----------------------------
     # Chemical composition
     # ----------------------------
@@ -422,7 +415,7 @@ with overview_tab:
     if ob_data.get("products") is not None:
         api_name = extract_api_from_orange_book(ob_data["products"])
         chem = extract_chemical_profile(ob_data["products"])
-    st.write(chem)
+    
     if chem:
         st.write(f"**API:** {api_name}")
         st.write(f"**Salt/Form:** {chem.get('Salt / Form', 'Unknown')}")
@@ -470,14 +463,11 @@ with overview_tab:
 # =================================================
 # 🧾 Board Summary (3 sentences, cached)
 # =================================================
-    st.markdown("### 🧾 Board Summary")
-
     st.session_state.setdefault("board_summary", None)
     st.session_state.setdefault("board_summary_run_id", None)
-
     can_generate = bool(st.session_state.get("run_id"))
-
     if can_generate:
+        st.markdown("### 🧾 Board Summary")
         # Reset ONLY when Analyze is clicked
         if st.session_state.board_summary_run_id != st.session_state.run_id:
             st.session_state.board_summary = None
@@ -531,32 +521,32 @@ with overview_tab:
     # ---------
     # Audience-specific expansions
     # ---------
-    with st.expander("🎯 Audience-Specific Positioning"):
+    # with st.expander("🎯 Audience-Specific Positioning"):
         
-        st.markdown("#### 🟣 Venture Capital (Platform & Scale)")
-        st.write(
-            "We are building a scalable decision intelligence platform that transforms FDA Orange "
-            "Book data into a repeatable pipeline of high-conviction generic drug opportunities. "
-            "By combining IP timing, formulation risk, competitive dynamics, and cost modeling, "
-            "the platform surfaces asymmetric upside earlier than traditional diligence processes—"
-            "creating a defensible data moat for generic drug investing."
-        )
+    #     st.markdown("#### 🟣 Venture Capital (Platform & Scale)")
+    #     st.write(
+    #         "We are building a scalable decision intelligence platform that transforms FDA Orange "
+    #         "Book data into a repeatable pipeline of high-conviction generic drug opportunities. "
+    #         "By combining IP timing, formulation risk, competitive dynamics, and cost modeling, "
+    #         "the platform surfaces asymmetric upside earlier than traditional diligence processes—"
+    #         "creating a defensible data moat for generic drug investing."
+    #     )
 
-        st.markdown("#### 🔵 Private Equity (Risk-Adjusted Returns)")
-        st.write(
-            "This platform functions as a risk-adjusted screening engine for generic drug investments, "
-            "allowing sponsors to systematically evaluate ROI, development risk, and time-to-market. "
-            "By eliminating low-quality opportunities early, it reduces capital leakage and improves "
-            "probability-weighted returns across a diversified portfolio."
-        )
+    #     st.markdown("#### 🔵 Private Equity (Risk-Adjusted Returns)")
+    #     st.write(
+    #         "This platform functions as a risk-adjusted screening engine for generic drug investments, "
+    #         "allowing sponsors to systematically evaluate ROI, development risk, and time-to-market. "
+    #         "By eliminating low-quality opportunities early, it reduces capital leakage and improves "
+    #         "probability-weighted returns across a diversified portfolio."
+    #     )
 
-        st.markdown("#### 🟢 Corporate BD / Pharma Strategy (Execution & Alignment)")
-        st.write(
-            "This platform enables pharmaceutical organizations to prioritize generic development "
-            "programs using a unified, data-driven framework grounded in FDA Orange Book intelligence. "
-            "By aligning BD, regulatory, R&D, and commercial teams around shared signals, it accelerates "
-            "go/no-go decisions and improves execution confidence across the pipeline."
-        )
+    #     st.markdown("#### 🟢 Corporate BD / Pharma Strategy (Execution & Alignment)")
+    #     st.write(
+    #         "This platform enables pharmaceutical organizations to prioritize generic development "
+    #         "programs using a unified, data-driven framework grounded in FDA Orange Book intelligence. "
+    #         "By aligning BD, regulatory, R&D, and commercial teams around shared signals, it accelerates "
+    #         "go/no-go decisions and improves execution confidence across the pipeline."
+    #     )
     st.divider()
     st.markdown("### 🚀 Next-Level Execution Plan")
 
