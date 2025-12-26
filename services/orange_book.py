@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 import pandas as pd
 import streamlit as st
+from services.generic_entry import earliest_generic_entry
 
 DATA_DIR = Path("data/orange_book")
 
@@ -280,3 +281,45 @@ def join_products_patents_exclus(
     )
 
     return out
+
+# -------------------------------------------------
+# EGE builder (cached) — IMPORTANT: no DataFrame args
+# -------------------------------------------------
+@st.cache_data(show_spinner=False)
+def build_ege_table_cached(max_drugs: int = 800) -> pd.DataFrame:
+    """
+    Builds EGE table using lookup_by_drug() + earliest_generic_entry().
+    Cached with stable arguments (ints only) to avoid infinite recompute.
+
+    max_drugs prevents UI freeze for huge datasets.
+    """
+    rows = []
+    today = pd.Timestamp.today()
+
+    products_local = load_orange_book_products()
+    drug_names = products_local["DrugName"].dropna().unique().tolist()
+
+    # Bound runtime
+    drug_names = drug_names[:max_drugs]
+
+    for drug in drug_names:
+        ob = lookup_by_drug(drug)
+        if not ob:
+            continue
+
+        ege_info = earliest_generic_entry(ob)
+        ege_date = ege_info.get("earliest_date") if ege_info else None
+
+        years_to_entry = (
+            round((ege_date - today).days / 365, 1)
+            if ege_date else 0.0
+        )
+
+        rows.append({
+            "Drug": drug,
+            "EGE Date": ege_date.date() if ege_date else "Open",
+            "Years to Entry": years_to_entry,
+            "Status": "Open" if ege_date is None else "Blocked",
+        })
+
+    return pd.DataFrame(rows)

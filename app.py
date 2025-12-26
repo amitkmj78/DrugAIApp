@@ -1,7 +1,9 @@
 import uuid
+import os
 import pandas as pd
 import streamlit as st
 from datetime import datetime
+
 from services.chemical_profile import extract_chemical_profile
 from services.excel_loader import read_file_dynamic
 from services.extract_chemical_profile import extract_api_from_orange_book
@@ -11,9 +13,10 @@ from services.llm_setup import init_llms
 from services.generic_entry import earliest_generic_entry
 from services.recommendation import recommendation_flag
 from services.competition import competitive_density_score
-from services.formulation_intelligence import infer_formulation_type, is_high_value_complex
+from services.formulation_intelligence import compute_formulation_risk, infer_formulation_type, is_high_value_complex
 
 from services.orange_book import (
+    build_ege_table_cached,
     lookup_by_drug,
     lookup_by_patent,
     get_drug_dropdown_list,
@@ -30,19 +33,19 @@ from services.market_insights import (
 
 from services.opportunities import rank_top_orange_book_opportunities
 
+
+
+# =====================================================
+# Reload helper
+# =====================================================
 def reload_app_after_upload():
-    """
-    Clears caches and forces a clean app reload
-    after Orange Book data is updated.
-    """
-    # Clear cached data + resources
     st.cache_data.clear()
     st.cache_resource.clear()
 
-    # Reset critical session state
     for key in [
         "selected_drug",
         "selected_patent",
+        "selected_opportunity_drug",
         "ege_master_df",
         "top20_opportunities",
         "top20_computed",
@@ -50,29 +53,35 @@ def reload_app_after_upload():
         "board_summary",
         "run_id",
     ]:
-        if key in st.session_state:
-            del st.session_state[key]
+        st.session_state.pop(key, None)
 
-    # Force rerun
     st.rerun()
 
+
+# =====================================================
 # Optional Meta-Agent
+# =====================================================
 try:
     from Agent.meta_agent import build_agent
 except Exception:
     build_agent = None
+
+
 # =====================================================
 # Page setup
 # =====================================================
 st.set_page_config(page_title="Pharma Commercial Decision Engine", layout="wide")
 st.title("🧪 Pharma Commercial Decision Engine")
 st.caption("Orange Book–driven generic drug opportunity intelligence • Not legal or financial advice")
+
+
 # =====================================================
-# Session state defaults
+# Session defaults
 # =====================================================
 DEFAULTS = {
     "selected_drug": "",
     "selected_patent": "",
+    "selected_opportunity_drug": "",
     "run_id": None,
     "ai_summary": None,
     "board_summary": None,
@@ -88,10 +97,17 @@ DEFAULTS = {
 for k, v in DEFAULTS.items():
     st.session_state.setdefault(k, v)
 
+DEFAULTS.update({
+    "next_plan_text": None,
+    "next_plan_run_id": None,
+    "next_plan_style": "Corporate BD / IC Memo",  # default
+})
+
 
 def on_drug_change():
     for k in ["selected_patent", "run_id", "ai_summary", "board_summary", "route", "dosage_form", "cost"]:
         st.session_state[k] = None if k != "selected_patent" else ""
+
 
 # =====================================================
 # Load LLMs
@@ -101,18 +117,14 @@ if not llm_labels:
     st.error("No LLMs available.")
     st.stop()
 
-model_choice = st.sidebar.selectbox("AI Model", llm_labels)
+model_choice = st.sidebar.selectbox("AI Model", llm_labels, key="model_choice")
 
-if model_choice.startswith("OpenAI"):
-    llm = llm_openai
-elif model_choice.startswith("Groq"):
-    llm = llm_groq
-else:
-    llm = llm_ollama
+llm = (
+    llm_openai if model_choice.startswith("OpenAI")
+    else llm_groq if model_choice.startswith("Groq")
+    else llm_ollama
+)
 
-# =====================================================
-# Build Meta-Agent (safe)
-# =====================================================
 if build_agent and (
     st.session_state.meta_agent is None
     or st.session_state.meta_agent_model != model_choice
@@ -123,24 +135,90 @@ if build_agent and (
     except Exception:
         st.session_state.meta_agent = None
 
-# =====================================================
-# Sidebar controls
-# =====================================================
-st.sidebar.subheader("Selection")
-drug_list = get_drug_dropdown_list()
-st.sidebar.selectbox(
-    "Drug (FDA Orange Book)",
-    [""] + drug_list,
-    key="selected_drug",
-    on_change=on_drug_change,
-)
-patent_options = get_patents_for_drug(st.session_state.selected_drug) if st.session_state.selected_drug else []
-st.sidebar.selectbox("Patent (optional)", [""] + patent_options, key="selected_patent")
-st.sidebar.subheader("Formulation Inputs")
-route_in = st.sidebar.selectbox("Route", ["Oral", "Injectable", "Topical", "Inhaled"])
-dosage_form_in = st.sidebar.text_input("Dosage form / notes")
 
-if st.sidebar.button("🔍 Analyze", type="primary", disabled=not bool(st.session_state.selected_drug)):
+# =====================================================
+# Cached opportunity dropdown
+# =====================================================
+@st.cache_data(show_spinner=False)
+def build_top_opportunity_dropdown(max_drugs=1500, top_n=1000):
+    products = load_orange_book_products()
+    patents = load_orange_book_patents()
+    exclus = load_orange_book_exclusivities()
+
+    ranked = rank_top_orange_book_opportunities(
+        products=products,
+        patents=patents,
+        exclus=exclus,
+        top_n=top_n,
+        max_drugs=max_drugs,
+    )
+
+    if ranked is None or ranked.empty:
+        return []
+
+    col = "Ingredient" if "Ingredient" in ranked.columns else "Drug"
+    return ranked[col].dropna().unique().tolist()
+
+
+# =====================================================
+# Sidebar — Selection
+# =====================================================
+st.sidebar.subheader("Selection Mode")
+
+selection_mode = st.sidebar.radio(
+    "Choose selection source",
+    ["FDA Orange Book All", "🔥 Top Opportunities"],
+    key="selection_mode",
+)
+
+st.sidebar.divider()
+
+if selection_mode == "FDA Orange Book All":
+    drug_list = get_drug_dropdown_list()
+    st.sidebar.selectbox(
+        "Drug (FDA Orange Book)",
+        [""] + drug_list,
+        key="selected_drug",
+        on_change=on_drug_change,
+    )
+else:
+    with st.spinner("Loading top opportunities…"):
+        opp_list = build_top_opportunity_dropdown()
+
+    st.sidebar.selectbox(
+        "🔥 Top-1000 Opportunity Drugs",
+        [""] + opp_list,
+        key="selected_opportunity_drug",
+    )
+
+    if st.session_state.selected_opportunity_drug:
+        if st.session_state.selected_drug != st.session_state.selected_opportunity_drug:
+            st.session_state.selected_drug = st.session_state.selected_opportunity_drug
+            on_drug_change()
+
+
+patent_options = (
+    get_patents_for_drug(st.session_state.selected_drug)
+    if st.session_state.selected_drug
+    else []
+)
+
+st.sidebar.selectbox(
+    "Patent (optional)",
+    [""] + patent_options,
+    key="selected_patent",
+)
+
+st.sidebar.subheader("Formulation Inputs")
+route_in = st.sidebar.selectbox("Route", ["Oral", "Injectable", "Topical", "Inhaled"], key="route_in")
+dosage_form_in = st.sidebar.text_input("Dosage form / notes", key="dosage_form_in")
+
+if st.sidebar.button(
+    "🔍 Analyze",
+    type="primary",
+    disabled=not bool(st.session_state.selected_drug),
+    key="analyze_btn",
+):
     st.session_state.route = route_in
     st.session_state.dosage_form = dosage_form_in
     st.session_state.cost = formulation_cost_estimate(
@@ -150,11 +228,17 @@ if st.sidebar.button("🔍 Analyze", type="primary", disabled=not bool(st.sessio
     st.session_state.ai_summary = None
     st.session_state.board_summary = None
 
+
 # =====================================================
-# Load core data
+# Core data
 # =====================================================
 selected_drug = st.session_state.selected_drug
-ob_data = lookup_by_patent(st.session_state.selected_patent) if st.session_state.selected_patent else lookup_by_drug(selected_drug)
+
+ob_data = (
+    lookup_by_patent(st.session_state.selected_patent)
+    if st.session_state.selected_patent
+    else lookup_by_drug(selected_drug)
+)
 
 products = load_orange_book_products()
 patents = load_orange_book_patents()
@@ -162,57 +246,75 @@ exclus = load_orange_book_exclusivities()
 
 generic_df = find_all_generic_drugs(products, patents, exclus)
 expiring_df = pd.DataFrame(find_expiring_patents(patents, st.session_state.months_horizon))
-
-# -------------------------------------------------
-# EGE builder (cached) — IMPORTANT: no DataFrame args
-# -------------------------------------------------
-@st.cache_data(show_spinner=False)
-def build_ege_table_cached(max_drugs: int = 800) -> pd.DataFrame:
+def build_next_level_plan_text(
+    llm,
+    style: str,
+    drug: str,
+    formulation_type: str,
+    formulation_risk_level: str,
+    formulation_risk_score: int | None,
+    competition_level: str,
+    competition_count: int | None,
+    ege_years: float | None,
+    cmc_cost: dict | None,
+) -> str:
     """
-    Builds EGE table using lookup_by_drug() + earliest_generic_entry().
-    Cached with stable arguments (ints only) to avoid infinite recompute.
-
-    max_drugs prevents UI freeze for huge datasets.
+    LLM-generated execution plan section. Returns markdown text.
     """
-    rows = []
-    today = pd.Timestamp.today()
 
-    products_local = load_orange_book_products()
-    drug_names = products_local["DrugName"].dropna().unique().tolist()
+    ege_text = "Open now" if ege_years is None else f"{ege_years:.1f} years"
+    cost_text = "Unknown" if not cmc_cost else f"${cmc_cost.get('low')}–${cmc_cost.get('high')}M"
 
-    # Bound runtime
-    drug_names = drug_names[:max_drugs]
+    # Tone control
+    style_map = {
+        "VC Pitch": "VC pitch: concise, value-creation, milestone-driven, speed-focused.",
+        "PE Diligence": "PE diligence: risk controls, cost certainty, execution gates, downside protection.",
+        "Corporate BD / IC Memo": "Corporate BD / IC memo: strategic fit, regulatory path, operational readiness, partnership angles.",
+    }
+    style_instr = style_map.get(style, style_map["Corporate BD / IC Memo"])
 
-    for drug in drug_names:
-        ob = lookup_by_drug(drug)
-        if not ob:
-            continue
+    prompt = f"""
+You are a US pharma commercialization strategy lead.
 
-        ege_info = earliest_generic_entry(ob)
-        ege_date = ege_info.get("earliest_date") if ege_info else None
+Write a section titled:
+"Next-Level Execution Plan (Commercial-Scale Readiness)"
 
-        years_to_entry = (
-            round((ege_date - today).days / 365, 1)
-            if ege_date else 0.0
-        )
+Audience style:
+{style_instr}
 
-        rows.append({
-            "Drug": drug,
-            "EGE Date": ege_date.date() if ege_date else "Open",
-            "Years to Entry": years_to_entry,
-            "Status": "Open" if ege_date is None else "Blocked",
-        })
+Context (do NOT invent facts or numbers):
+- Drug: {drug}
+- Formulation type: {formulation_type}
+- Formulation risk: {formulation_risk_level}{f" ({formulation_risk_score}/100)" if formulation_risk_score is not None else ""}
+- Competition: {competition_level}{f" ({competition_count})" if competition_count is not None else ""}
+- Earliest Generic Entry (EGE): {ege_text}
+- Estimated CMC cost: {cost_text}
 
-    return pd.DataFrame(rows)
+Required structure (use numbered headings 1–5):
+1) Formulation stability & scale-up validation
+2) Supply-chain lock-in & cost certainty
+3) Market access & pricing optimization
+4) Regulatory & exclusivity leverage (mention 180-day exclusivity only as feasibility evaluation, not a claim)
+5) Rapid-launch operational plan
 
+Constraints:
+- No legal advice
+- No fabricated dates, market sizes, or pricing numbers
+- Keep it 120–200 words total
+- Use crisp, executive language
+Return markdown only (no code fences).
+"""
+
+    return llm.invoke(prompt).content.strip()
 
 # =====================================================
 # Tabs
 # =====================================================
 overview_tab, ege_tab, strategy_tab, ai_tab, data_upload = st.tabs(
-    ["🏠 Executive Overview", "⏳ Generic Entry (EGE)",
-      "📊 Strategy", "🧠 AI Analysis","📂 Data Upload"]
+    ["🏠 Executive Overview", "⏳ Generic Entry (EGE)", "📊 Strategy", "🧠 AI Analysis", "📂 Data Upload"]
 )
+
+
 # =====================================================
 # OVERVIEW TAB
 # =====================================================
@@ -247,6 +349,13 @@ with overview_tab:
         "formulation_type": "Unknown",
         "risk_level": "Unknown",
     }
+    # ----------------------------
+    # Formulation Risk (computed)
+    # ----------------------------
+    formulation_risk = compute_formulation_risk(
+        formulation=formulation,
+        route=st.session_state.get("route"),
+    )
 
     comp_count, comp_level = competitive_density_score(ob_data) if ob_data else (0, "Unknown")
 
@@ -279,14 +388,14 @@ with overview_tab:
     # Summary + Regulatory
     # ----------------------------
     col1, col2 = st.columns(2)
-
+    
     with col1:
         st.markdown("### Summary")
         st.write(f"**Drug Class:** {overview.get('drug_class', '—')}")
         st.write(f"**Salt / Form:** {overview.get('salt_or_form', '—')}")
         st.write(f"**Dosage Form:** {overview.get('dosage_form', '—')}")
         st.write(f"**Route:** {overview.get('route', '—')}")
-        st.write(f"**Company:** {overview.get('company_name', '—')}")  # ✅ NEW
+       
 
 
     with col2:
@@ -294,7 +403,7 @@ with overview_tab:
         reg = overview.get("regulatory", {}) or {}
         st.write(f"**Application Type:** {reg.get('application_type', '—')}")
         st.write(f"**Application No:** {reg.get('application_number', '—')}")
-
+        st.write(f"**Company:** {reg.get('company_name', '—')}")  
         if overview.get("risk_signals"):
             st.markdown("### Risk Signals")
             for r in overview["risk_signals"]:
@@ -313,7 +422,7 @@ with overview_tab:
     if ob_data.get("products") is not None:
         api_name = extract_api_from_orange_book(ob_data["products"])
         chem = extract_chemical_profile(ob_data["products"])
-
+    st.write(chem)
     if chem:
         st.write(f"**API:** {api_name}")
         st.write(f"**Salt/Form:** {chem.get('Salt / Form', 'Unknown')}")
@@ -335,9 +444,6 @@ with overview_tab:
                 or "Unknown"
             )
         st.write(f"**Route:** {route_display}")
-
-        
-
     else:
         st.write("Chemical composition unavailable.")
 
@@ -361,9 +467,6 @@ with overview_tab:
     if is_high_value_complex(formulation.get("risk_level"), comp_level, ege_years):
         st.info("💎 **High-Value Complex Generic Opportunity Identified**")
 
-    # ==============================
-    # BOARD SUMMARY (FIXED INDENT)
-    # ==============================
 # =================================================
 # 🧾 Board Summary (3 sentences, cached)
 # =================================================
@@ -400,25 +503,115 @@ with overview_tab:
                 st.session_state.board_summary = llm.invoke(prompt).content.strip()
 
     st.write(st.session_state.board_summary or "—")
+
     # ==============================
-    # INVESTOR SNAPSHOT (FIXED)
+    # INVESTOR SNAPSHOT (ALL AUDIENCES)
     # ==============================
     st.divider()
     st.markdown("### 🏦 Investor Pitch Snapshot")
 
     colL, colR = st.columns([2, 1])
 
+    # ---------
+    # Universal Snapshot (default)
+    # ---------
     with colL:
         st.write(
-            "This platform transforms FDA Orange Book complexity into ranked, investable "
-            "generic drug opportunities. It integrates IP timing, formulation risk, "
-            "competition density, and CMC cost to reduce capital misallocation."
+            "This platform converts FDA Orange Book regulatory data into a ranked pipeline of "
+            "high-confidence generic drug development opportunities. By integrating IP timing, "
+            "formulation complexity, competitive intensity, and estimated CMC cost, it enables "
+            "disciplined capital allocation and earlier identification of commercially viable programs."
         )
 
     with colR:
         st.metric("EGE", "Open" if ege_years is None else f"{ege_years:.1f}y")
-        st.metric("Risk", formulation.get("risk_level"))
+        st.metric("Formulation Risk", formulation.get("risk_level"))
         st.metric("Competition", comp_level)
+
+    # ---------
+    # Audience-specific expansions
+    # ---------
+    with st.expander("🎯 Audience-Specific Positioning"):
+        
+        st.markdown("#### 🟣 Venture Capital (Platform & Scale)")
+        st.write(
+            "We are building a scalable decision intelligence platform that transforms FDA Orange "
+            "Book data into a repeatable pipeline of high-conviction generic drug opportunities. "
+            "By combining IP timing, formulation risk, competitive dynamics, and cost modeling, "
+            "the platform surfaces asymmetric upside earlier than traditional diligence processes—"
+            "creating a defensible data moat for generic drug investing."
+        )
+
+        st.markdown("#### 🔵 Private Equity (Risk-Adjusted Returns)")
+        st.write(
+            "This platform functions as a risk-adjusted screening engine for generic drug investments, "
+            "allowing sponsors to systematically evaluate ROI, development risk, and time-to-market. "
+            "By eliminating low-quality opportunities early, it reduces capital leakage and improves "
+            "probability-weighted returns across a diversified portfolio."
+        )
+
+        st.markdown("#### 🟢 Corporate BD / Pharma Strategy (Execution & Alignment)")
+        st.write(
+            "This platform enables pharmaceutical organizations to prioritize generic development "
+            "programs using a unified, data-driven framework grounded in FDA Orange Book intelligence. "
+            "By aligning BD, regulatory, R&D, and commercial teams around shared signals, it accelerates "
+            "go/no-go decisions and improves execution confidence across the pipeline."
+        )
+    st.divider()
+    st.markdown("### 🚀 Next-Level Execution Plan")
+
+    # Style selector (VC / PE / BD)
+    style = st.selectbox(
+        "Output style",
+        ["VC Pitch", "PE Diligence", "Corporate BD / IC Memo"],
+        key="next_plan_style",
+    )
+
+    # Only generate after Analyze (same rule as your board summary)
+    can_generate = bool(st.session_state.get("run_id"))
+
+    # Reset cache if new Analyze OR style changed
+    current_signature = f"{st.session_state.get('run_id')}::{style}"
+    if st.session_state.get("next_plan_run_id") != current_signature:
+        st.session_state.next_plan_text = None
+        st.session_state.next_plan_run_id = current_signature
+
+    if not can_generate:
+        st.info("Run **Analyze** from the sidebar to generate the execution plan.")
+    else:
+        if st.session_state.next_plan_text is None:
+            with st.spinner("Generating next-level execution plan…"):
+                try:
+                    # If you implemented compute_formulation_risk()
+                    formulation_risk_level = formulation_risk.get("level") if isinstance(formulation_risk, dict) else formulation.get("risk_level", "Unknown")
+                    formulation_risk_score = formulation_risk.get("score") if isinstance(formulation_risk, dict) else None
+
+                    st.session_state.next_plan_text = build_next_level_plan_text(
+                        llm=llm,
+                        style=style,
+                        drug=selected_drug,
+                        formulation_type=formulation.get("formulation_type", "Unknown"),
+                        formulation_risk_level=formulation_risk_level or "Unknown",
+                        formulation_risk_score=formulation_risk_score,
+                        competition_level=comp_level or "Unknown",
+                        competition_count=comp_count,
+                        ege_years=ege_years,
+                        cmc_cost=cost,
+                    )
+                except Exception as e:
+                    # Safe fallback (static) if LLM fails
+                    st.session_state.next_plan_text = (
+                        "**Next-Level Execution Plan (Commercial-Scale Readiness)**\n\n"
+                        "1) **Formulation stability & scale-up validation:** Run focused stability and scale-up studies to confirm performance at commercial batch size.\n"
+                        "2) **Supply-chain lock-in & cost certainty:** Secure supply agreements and price frameworks for critical raw materials to protect margins.\n"
+                        "3) **Market access & pricing optimization:** Map reimbursement pathways and define pricing tiers to support adoption.\n"
+                        "4) **Regulatory & exclusivity leverage:** Evaluate feasibility of a limited-duration exclusivity strategy (e.g., 180-day exclusivity) without assuming eligibility.\n"
+                        "5) **Rapid-launch operational plan:** Prepare manufacturing, quality release, distribution, and launch readiness to capture the current low-competition window.\n\n"
+                        f"_Note: Auto-generation failed ({e}). Showing fallback text._"
+                    )
+
+        st.markdown(st.session_state.next_plan_text)
+
 # =================================================
 # EGE TAB
 # =================================================

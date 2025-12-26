@@ -27,31 +27,15 @@ def get_local_ollama_models():
 
 def init_llms():
     """
-    Initialize OpenAI + Groq + Ollama safely.
+    Initialize  + Groq + OpenAI+ Ollama safely.
     Returns:
-        llm_openai, llm_groq, llm_ollama, llm_labels
+         llm_groq,llm_openai, llm_ollama, llm_labels
     """
-    llm_openai = None
+
     llm_groq = None
+    llm_openai = None
     llm_ollama = None
     llm_labels = []
-
-    # ----------------------------
-    # OPENAI
-    # ----------------------------
-    openai_key = os.getenv("OPENAI_API_KEY")
-    if openai_key:
-        try:
-            llm_openai = ChatOpenAI(
-                model="gpt-4o-mini",
-                temperature=0.3,
-                timeout=20,
-            )
-            llm_labels.append("OpenAI · GPT-4o mini")
-        except Exception as e:
-            print("❌ OpenAI init failed:", e)
-    else:
-        print("⚠️ OPENAI_API_KEY not found. Skipping OpenAI models.")
 
     # ----------------------------
     # GROQ
@@ -70,6 +54,23 @@ def init_llms():
             llm_groq = None
     else:
         print("⚠️ GROQ_API_KEY not found. Skipping Groq models.")
+
+    # ----------------------------
+    # OPENAI
+    # ----------------------------
+    openai_key = os.getenv("OPENAI_API_KEY")
+    if openai_key:
+        try:
+            llm_openai = ChatOpenAI(
+                model="gpt-4o-mini",
+                temperature=0.3,
+                timeout=20,
+            )
+            llm_labels.append("OpenAI · GPT-4o mini")
+        except Exception as e:
+            print("❌ OpenAI init failed:", e)
+    else:
+        print("⚠️ OPENAI_API_KEY not found. Skipping OpenAI models.")
 
     # ----------------------------
     # OLLAMA (LOCAL)

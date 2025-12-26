@@ -86,8 +86,6 @@ def _safe_first_any(df, candidates):
                 if s:
                     return s
     return None
-
-
 def _unknown(route=None, dosage=None):
     return {
         "route": route or "Unknown",
@@ -164,3 +162,82 @@ def is_high_value_complex(
         if ege_years is None or ege_years <= 3:
             return True
     return False
+
+def compute_formulation_risk(formulation: dict, route: str | None = None) -> dict:
+    """
+    Returns formulation risk score and label based on complexity signals.
+    Output:
+      {
+        "score": int (0–100),
+        "level": "Low" | "Medium" | "High",
+        "drivers": [list of strings]
+      }
+    """
+
+    if not formulation:
+        return {
+            "score": 50,
+            "level": "Medium",
+            "drivers": ["Insufficient formulation data"],
+        }
+
+    score = 0
+    drivers = []
+
+    form_type = formulation.get("formulation_type", "").lower()
+    risk_level = formulation.get("risk_level", "").lower()
+
+    # -------------------------
+    # Route-based risk
+    # -------------------------
+    if route:
+        r = route.lower()
+        if r in ["injectable", "inhaled"]:
+            score += 35
+            drivers.append(f"{route} delivery complexity")
+        elif r == "topical":
+            score += 20
+            drivers.append("Topical formulation variability")
+        elif r == "oral":
+            score += 10
+
+    # -------------------------
+    # Dosage / formulation cues
+    # -------------------------
+    high_risk_terms = [
+        "liposome", "depot", "suspension", "emulsion",
+        "extended", "modified", "controlled", "complex",
+        "lyophil", "nanoparticle", "device"
+    ]
+
+    for term in high_risk_terms:
+        if term in form_type:
+            score += 15
+            drivers.append(f"Complex formulation: {term}")
+
+    # -------------------------
+    # Orange Book inferred risk
+    # -------------------------
+    if risk_level == "high":
+        score += 30
+        drivers.append("Orange Book formulation risk")
+    elif risk_level == "medium":
+        score += 15
+
+    # -------------------------
+    # Clamp + label
+    # -------------------------
+    score = min(score, 100)
+
+    if score >= 65:
+        level = "High"
+    elif score >= 35:
+        level = "Medium"
+    else:
+        level = "Low"
+
+    return {
+        "score": score,
+        "level": level,
+        "drivers": drivers,
+    }
