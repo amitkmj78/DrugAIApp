@@ -18,7 +18,7 @@ python-dotenv>=1.0
 
 # UI extras
 streamlit-mic-recorder>=0.0.4
-
+python-pptx
 langchain
 langchain-core
 langchain-community
