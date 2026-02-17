@@ -1,0 +1,1001 @@
+plant_id,Scientific_Name,Common_Name,Family,Traditional_System,Primary_Use,Toxicity_Level,Evidence_Level
+a89e9efe-155f-49d3-b43b-1374f55a874c,Valeriana hvgkrhn,Silver Mediterranean Valeriana Powder (Skin),Asteraceae,Amazonian,Sleep,Low,Preclinical
+c2743366-2414-4025-84e2-e48d9ba99134,Withania tgnguqw,Golden Andean Withania Seed (Cognitive),Apiaceae,Ayurveda,Liver,Low,Traditional
+d75cbb5b-96d4-45ba-90b0-a9e86d9aee78,Phyllanthus puxxujq,Fragrant Atlas Phyllanthus Resin (Sleep),Euphorbiaceae,TCM,Sleep,High,Preclinical
+bc6e11c8-569b-4ac6-b011-74e8c442d546,Rauwolfia yrymqjd,Bitter Atlas Rauwolfia Bark (Liver),Solanaceae,Amazonian,Metabolic,High,Preclinical
+a088f345-00f2-471e-bec1-af9d062857f9,Silybum wafqfge,Fragrant Kerala Silybum Powder (Diabetes),Poaceae,Unani,Sleep,Moderate,Clinical
+48942c76-d8e6-4c65-86bf-6e7de4f1ee58,Azadirachta oisrdgq,Black Amazon Azadirachta Root (Skin),Asteraceae,Western Herbal,Cardiovascular,Low,Preclinical
+3e540fde-a2f7-4039-b0ae-d01f9b8cba3f,Aloe vjjmryz,Purifying Andean Aloe Infusion (Inflammation),Euphorbiaceae,African Traditional,Metabolic,High,Preclinical
+1c0551a7-91ff-4a12-87bc-2c436b74c9f9,Withania knsbsvi,Desert Andean Withania Leaf (Diabetes),Poaceae,TCM,Cognitive,Low,Clinical
+e145502f-adf9-4c6b-a85f-c550456ac065,Harpagophytum qchiudn,Purifying Kerala Harpagophytum Resin (Liver),Zingiberaceae,African Traditional,Cardiovascular,Moderate,Clinical
+89987a32-6835-4b5c-a847-84deea9a6b7c,Lavandula drhdqla,Rare Andean Lavandula Flower (Liver),Poaceae,TCM,Cognitive,Moderate,Traditional
+5efdb651-b1d6-4848-9c3e-688597f381c4,Trigonella hvvwxns,White Nile Trigonella Extract (Inflammation),Asteraceae,Ayurveda,Sleep,High,Preclinical
+6190a7d2-a783-4359-9a04-4a39bbdd2602,Ficus juwinyp,Forest Himalayan Ficus Flower (Inflammation),Rosaceae,Amazonian,Respiratory,Low,Traditional
+2ef8a108-d4e5-4c1c-9fa6-f8611c503f6e,Panax zhvqhgl,Wild Bengal Panax Elixir (Immune),Poaceae,Amazonian,Digestive,Moderate,Traditional
+c8db00ce-10ec-4dfb-ba37-62c752d1f1c1,Gymnema afosiir,Mountain Atlas Gymnema Rhizome (Diabetes),Zingiberaceae,Unani,Skin,Moderate,Clinical
+fad5c16a-a638-4b87-8d6a-7afdb8fac33a,Achillea vsxoqzx,Sacred Andean Achillea Fruit (Diabetes),Poaceae,Western Herbal,Immune,Moderate,Preclinical
+8859b3a6-1ce6-45ee-b6bb-e6c3654a0a34,Angelica cjfutve,White Mediterranean Angelica Rhizome (Inflammation),Apiaceae,African Traditional,Cardiovascular,Low,Traditional
+e2083a0d-4514-4faa-8f3d-227e7958bddb,Inula ifquhjl,Rare Kerala Inula Resin (Cardiovascular),Araliaceae,Ayurveda,Cardiovascular,Moderate,Preclinical
+909e4b2a-ce07-4fce-83b9-4eca2c2366d3,Achillea wuljnfl,Silver Bengal Achillea Infusion (Skin),Rosaceae,TCM,Sleep,High,Clinical
+782a12f2-6c3f-44cc-8b15-179c62fcb518,Scutellaria khvcvge,Sacred Balkan Scutellaria Root (Inflammation),Poaceae,Amazonian,Skin,Moderate,Traditional
+6c3894f3-9dc7-497e-9bb2-9cc210bf557e,Salvia zhtunhd,Sacred Amazon Salvia Seed (Diabetes),Araliaceae,Amazonian,Cardiovascular,Moderate,Traditional
+e7082e9a-a8bd-4675-a33a-e965e3b53b37,Glycyrrhiza kfbtbcd,Sacred Amazon Glycyrrhiza Powder (Sleep),Euphorbiaceae,Unani,Diabetes,High,Clinical
+f616c62f-51e8-4386-aa43-9148546a9104,Terminalia hpcqnqa,Vital Andean Terminalia Essence (Skin),Apiaceae,Unani,Cognitive,High,Preclinical
+2bf4977c-d299-4f8f-9f5f-47ca09ccbe33,Passiflora ojtvifd,Purifying Kerala Passiflora Rhizome (Cardiovascular),Zingiberaceae,Western Herbal,Liver,High,Traditional
+ae8eab85-315d-43c6-bb63-f1a88c9c37d6,Polygonum zritoli,Resilient Andean Polygonum Powder (Diabetes),Rutaceae,Western Herbal,Cardiovascular,Moderate,Clinical
+5d56f617-16a3-406e-9e17-43884953bf54,Plantago jurmraw,Gentle Amazon Plantago Tonic (Cognitive),Solanaceae,Unani,Skin,Moderate,Clinical
+eb511194-5af7-4360-99f6-e632ff317d83,Salvia ruhfkhp,Purifying Amazon Salvia Flower (Diabetes),Zingiberaceae,Ayurveda,Cardiovascular,High,Traditional
+56777bff-722f-4f8d-80e0-b30b0bd673df,Trigonella nivzpbd,Calming Balkan Trigonella Infusion (Immune),Araliaceae,Unani,Respiratory,Moderate,Preclinical
+26a48441-5a06-45b1-a5b0-849183d05125,Boswellia vivtypz,Green Mediterranean Boswellia Essence (Skin),Rosaceae,Amazonian,Cardiovascular,Moderate,Preclinical
+6c7fb3e5-164c-48e7-996e-3ba82baee477,Boswellia kxxroqb,River Bengal Boswellia Leaf (Immune),Apiaceae,African Traditional,Inflammation,High,Traditional
+add29bf9-ed9f-4d07-8994-149ec1c34212,Valeriana qhrujix,Silver Atlas Valeriana Root (Stress),Poaceae,African Traditional,Sleep,High,Traditional
+39c997e7-aa7e-4518-9024-2e831983982f,Uncaria rogndtn,Cooling Saharan Uncaria Root (Immune),Apiaceae,TCM,Inflammation,Moderate,Clinical
+3cf4cc35-0934-4d8c-967b-41a8682c5d34,Silybum rndkzlc,Restorative Kerala Silybum Extract (Respiratory),Asteraceae,TCM,Respiratory,High,Preclinical
+03720fc6-591c-49fc-8f0b-4a6769480681,Angelica qbtopqc,Red Saharan Angelica Tonic (Digestive),Rutaceae,Unani,Sleep,Moderate,Preclinical
+3ee3ca32-a7a9-4513-8d62-707aef2f5ec8,Silybum wzjjdmx,Black Kerala Silybum Essence (Respiratory),Rosaceae,Ayurveda,Cognitive,Moderate,Clinical
+3bff7360-44c8-49ba-8b6a-87da490c3f46,Terminalia mgdedzt,Restorative Sichuan Terminalia Fruit (Digestive),Araliaceae,TCM,Inflammation,Moderate,Clinical
+7dc37541-2ec9-4eb0-bad6-a0b1caf4f0a5,Plantago twwrvhl,Black Balkan Plantago Fruit (Diabetes),Lamiaceae,Ayurveda,Metabolic,High,Traditional
+1d661021-28a0-4877-b525-4e37caa4ce16,Inula rqbrwir,Green Himalayan Inula Elixir (Cardiovascular),Araliaceae,Amazonian,Diabetes,Moderate,Clinical
+f89361c5-1685-4d09-99b0-dcc5a76f7f70,Passiflora iwtfcnb,Golden Balkan Passiflora Root (Diabetes),Araliaceae,Unani,Immune,High,Preclinical
+4312234c-682a-4281-85df-194d978f30e9,Angelica uymxmyv,Ancient Mediterranean Angelica Flower (Sleep),Araliaceae,Amazonian,Immune,Low,Preclinical
+7cb07fe9-30fb-443f-96f1-09e4c62213eb,Harpagophytum xuldrrs,Green Sichuan Harpagophytum Tonic (Sleep),Solanaceae,African Traditional,Cognitive,Moderate,Traditional
+1d321209-1611-4d57-8408-6385a1d37250,Hypericum dvivuab,Black Balkan Hypericum Bark (Skin),Apiaceae,Unani,Skin,High,Clinical
+7887fd87-6018-4d93-be62-d92cca4e4098,Silybum qeaoded,Silver Bengal Silybum Bark (Respiratory),Rutaceae,African Traditional,Inflammation,High,Preclinical
+f3814030-dc27-44c1-a458-046c4880684a,Harpagophytum kgszjqi,Calming Mediterranean Harpagophytum Elixir (Metabolic),Solanaceae,Unani,Immune,Low,Preclinical
+cb8737c0-cca6-4e90-90ec-2f123546d917,Plantago dwjqhyp,Restorative Saharan Plantago Extract (Immune),Rosaceae,African Traditional,Cognitive,High,Preclinical
+538a48b3-0917-4b59-aaab-65680fd97f6a,Plantago vqdtqeb,Sacred Bengal Plantago Bark (Inflammation),Rosaceae,Ayurveda,Immune,Low,Clinical
+3ba13364-3ecc-4cf8-8df0-dc6f2e62737f,Uncaria fzpxqyo,Rare Nile Uncaria Root (Cardiovascular),Asteraceae,African Traditional,Immune,Low,Traditional
+a904194c-2936-4652-ad6a-155d02877109,Aegle ehvakja,Healing Bengal Aegle Fruit (Digestive),Zingiberaceae,Amazonian,Stress,High,Preclinical
+dd534bd4-96be-40e8-8d21-149fa5c90925,Polygonum cxwowoj,Cooling Nile Polygonum Root (Respiratory),Poaceae,Ayurveda,Diabetes,Moderate,Preclinical
+cc2d53b6-63ce-4338-a05b-ed00c2164f8f,Achillea ltebyjz,Wild Amazon Achillea Leaf (Stress),Zingiberaceae,Western Herbal,Skin,Low,Preclinical
+b49e2045-b854-418f-91a9-88c1875561b1,Centella znfdawy,River Atlas Centella Essence (Cardiovascular),Lamiaceae,Unani,Liver,Low,Traditional
+4053ba69-79ba-4d4e-aa6c-07140c5f4ca2,Centella hwfjgcy,Mountain Atlas Centella Fruit (Respiratory),Rosaceae,Amazonian,Liver,Moderate,Clinical
+a397b5a9-a80e-47e1-9a8b-b434b09614f4,Harpagophytum skvtltf,Fragrant Andean Harpagophytum Infusion (Digestive),Araliaceae,African Traditional,Immune,Low,Traditional
+860553cd-12e9-4983-a471-81a8348137c1,Asparagus jkxhxvt,Green Amazon Asparagus Bark (Sleep),Rutaceae,Ayurveda,Metabolic,Low,Preclinical
+07dcbd0e-68c8-48ee-b3ce-4c43ceca0c6b,Echinacea gfdmsks,Rare Nile Echinacea Rhizome (Skin),Solanaceae,Unani,Respiratory,High,Traditional
+be1896b0-3634-487a-8262-45aa6cb16c31,Alpinia pxnuvdi,Bright Bengal Alpinia Leaf (Inflammation),Lamiaceae,Ayurveda,Liver,Low,Preclinical
+c8c291a0-e5ce-4b78-a5d0-89327ceb91e0,Lavandula cocdhwa,Mountain Bengal Lavandula Seed (Metabolic),Euphorbiaceae,TCM,Metabolic,High,Preclinical
+ba5f0ea9-d3d7-4075-9c7e-252ebdb1df23,Andrographis eipvdgr,Forest Himalayan Andrographis Essence (Digestive),Solanaceae,Amazonian,Digestive,High,Traditional
+f295c7fd-a535-471a-a45e-78ca7e2cd92e,Glycyrrhiza fsfivwf,Bitter Atlas Glycyrrhiza Leaf (Skin),Zingiberaceae,TCM,Cardiovascular,High,Preclinical
+b2192fa0-f37c-426b-96eb-8a4cff7ef6ec,Rhodiola jduagsv,White Bengal Rhodiola Resin (Stress),Araliaceae,Ayurveda,Metabolic,Moderate,Traditional
+36f8990c-3c83-4c17-b384-a60a49ddd35b,Hypericum dmpadmr,Resilient Balkan Hypericum Essence (Skin),Lamiaceae,Ayurveda,Immune,Moderate,Preclinical
+6aac9580-30e5-4449-b94d-81b44283fdec,Andrographis myplhyw,Soothing Balkan Andrographis Tonic (Digestive),Poaceae,TCM,Inflammation,Moderate,Preclinical
+3cd31557-e571-4cc8-8a2f-48a0a2c0769c,Angelica exxkkir,Black Saharan Angelica Rhizome (Sleep),Poaceae,Amazonian,Skin,High,Clinical
+65a47a11-1970-4ae6-bda1-0111727f2af5,Harpagophytum ddroiyu,Soothing Yunnan Harpagophytum Flower (Cognitive),Apiaceae,TCM,Inflammation,High,Clinical
+c219ba6e-e72c-464f-b70d-ee6e3ff74548,Terminalia caqecri,Black Atlas Terminalia Rhizome (Inflammation),Poaceae,Ayurveda,Skin,High,Clinical
+8bc51c85-5517-4de7-9692-0cef4eb90dc9,Inula szbidxp,Black Sichuan Inula Flower (Diabetes),Fabaceae,Western Herbal,Metabolic,High,Preclinical
+89232d3a-b512-4349-90e5-ece40d856723,Artemisia lmcetnv,Wild Sichuan Artemisia Rhizome (Stress),Solanaceae,Ayurveda,Liver,Moderate,Clinical
+fdf1f6b6-9d4f-41bc-ba93-8d34af777637,Ficus uacxshz,Healing Bengal Ficus Infusion (Stress),Euphorbiaceae,TCM,Inflammation,High,Traditional
+62b67895-f51f-43d4-bf42-734c78ad52f0,Cinnamomum gdeuico,Calming Nile Cinnamomum Elixir (Cognitive),Poaceae,Ayurveda,Diabetes,Moderate,Preclinical
+6f47d6db-eaa2-45c5-8412-de02daa227fb,Andrographis ycqaduf,Golden Kerala Andrographis Root (Immune),Araliaceae,Ayurveda,Liver,Low,Clinical
+92fea03e-ce71-410c-a9db-6c05b0fa5808,Uncaria vsujdsf,Desert Sichuan Uncaria Essence (Inflammation),Poaceae,TCM,Digestive,Moderate,Traditional
+8220374d-17d9-440c-add0-833cc043a415,Terminalia afwowst,Forest Amazon Terminalia Fruit (Respiratory),Fabaceae,African Traditional,Skin,High,Preclinical
+abfc0982-4e68-4461-9da8-cc09557d82ce,Hypericum qbpxguf,Desert Amazon Hypericum Rhizome (Cardiovascular),Poaceae,Amazonian,Diabetes,High,Traditional
+ee00c67f-180d-455b-893f-0ee41ec13e0d,Tinospora ddevaxm,Forest Yunnan Tinospora Leaf (Metabolic),Lamiaceae,Western Herbal,Respiratory,Moderate,Traditional
+4959cdd6-d5a8-464e-bd1e-308955db94e6,Echinacea oydaohx,Wild Kerala Echinacea Rhizome (Skin),Araliaceae,Western Herbal,Sleep,High,Preclinical
+23cb1550-fd01-41cb-9f8a-b84202e1fea7,Curcuma jdolhmw,Black Bengal Curcuma Fruit (Metabolic),Zingiberaceae,African Traditional,Cognitive,High,Preclinical
+b6310083-e32e-47a6-a335-13cc9496d623,Panax ovmkeoj,River Balkan Panax Resin (Skin),Rosaceae,Unani,Digestive,Moderate,Traditional
+1c5f7bd8-bffb-4c54-b813-0fc3e14a46ba,Ficus oqbwvmc,Ancient Himalayan Ficus Powder (Digestive),Zingiberaceae,Amazonian,Stress,High,Traditional
+99f64e99-86db-4aa9-ba4a-d484530763d1,Scutellaria swxejch,Sacred Nile Scutellaria Fruit (Respiratory),Fabaceae,Unani,Metabolic,Moderate,Preclinical
+f5db0fc5-6c17-46ba-9c7b-6e4e45a540ab,Polygonum xihcqcl,Restorative Sichuan Polygonum Extract (Immune),Solanaceae,Unani,Stress,Low,Traditional
+0c5c21f4-f90c-48e8-9ac0-9e18df655364,Tinospora fbhezea,Fragrant Bengal Tinospora Rhizome (Skin),Rosaceae,TCM,Liver,High,Preclinical
+549c818d-eb89-49d7-81a4-7b1ea624b58a,Tinospora ckeqtav,Gentle Yunnan Tinospora Infusion (Immune),Lamiaceae,Western Herbal,Liver,Low,Clinical
+050fcfc2-7a73-4a36-91cd-4a96718ba672,Aloe euhnzad,Red Yunnan Aloe Resin (Skin),Solanaceae,Amazonian,Cardiovascular,High,Traditional
+1f12abdb-ec3d-46ac-8ee1-963e4b89ce60,Moringa ersbhgv,Fragrant Mediterranean Moringa Extract (Sleep),Apiaceae,Unani,Diabetes,Moderate,Preclinical
+de9f02db-d780-45be-8820-1ea5e0171063,Achillea wlnafkj,Red Nile Achillea Root (Metabolic),Fabaceae,Unani,Sleep,Low,Preclinical
+d4d98301-3d82-4323-82df-11fb0bf82102,Trigonella kqwksyo,Purifying Mediterranean Trigonella Elixir (Respiratory),Poaceae,Ayurveda,Metabolic,Moderate,Preclinical
+3c2ea429-8cc8-4ea9-ba0d-46ec9915d556,Rauwolfia yrbmkjf,Mountain Yunnan Rauwolfia Powder (Respiratory),Zingiberaceae,Amazonian,Immune,Low,Traditional
+d4b28985-c8df-4bfe-ad45-26c4bfadd275,Trigonella ajetxoc,Wild Bengal Trigonella Flower (Skin),Poaceae,African Traditional,Cognitive,Moderate,Traditional
+019fdfe6-b8ae-4e91-bd51-80c09bb684a8,Rhodiola zseewlj,Cooling Kerala Rhodiola Flower (Diabetes),Rosaceae,Western Herbal,Sleep,Moderate,Preclinical
+deeb4bf9-f8a9-4454-b9d0-8bb76623b28c,Ficus avyjire,Fragrant Amazon Ficus Elixir (Digestive),Rosaceae,Western Herbal,Metabolic,High,Preclinical
+9c90b57e-cd11-4628-bee3-b74beda03251,Ephedra eqfgkyh,Purifying Mediterranean Ephedra Infusion (Cardiovascular),Zingiberaceae,TCM,Stress,High,Traditional
+cf3ec939-70a2-4489-ae38-2b7eae602048,Calendula mysowzc,Bright Balkan Calendula Seed (Cardiovascular),Euphorbiaceae,TCM,Immune,High,Clinical
+d8601f1f-0284-4220-b677-af46a1580420,Gymnema alcztut,Golden Andean Gymnema Fruit (Diabetes),Lamiaceae,Western Herbal,Digestive,Low,Traditional
+46a36cab-994b-4315-ad8c-c060bef1b285,Andrographis hlzjjgz,Green Atlas Andrographis Extract (Immune),Apiaceae,Unani,Stress,Low,Preclinical
+71791925-a316-429b-9c82-3cf3d0674022,Asparagus ohdtlhc,Calming Atlas Asparagus Seed (Metabolic),Apiaceae,Unani,Respiratory,High,Clinical
+cba957a8-3a4d-42b8-94c7-7c2b89ed16ef,Ginkgo fxvjbfn,Soothing Amazon Ginkgo Powder (Liver),Apiaceae,Ayurveda,Cognitive,Moderate,Clinical
+5fd6ebf5-f589-49eb-b161-621e1d303303,Uncaria xbshiyh,Red Kerala Uncaria Flower (Diabetes),Lamiaceae,Western Herbal,Liver,High,Preclinical
+f7efcd4e-039d-4305-81e5-4d6d7f7ab40c,Camellia vxkcelo,Rare Balkan Camellia Flower (Stress),Araliaceae,African Traditional,Skin,High,Clinical
+43d61117-91b7-40a9-8941-7ce2524327b7,Hypericum nuxfnpi,Mountain Mediterranean Hypericum Resin (Inflammation),Solanaceae,Ayurveda,Liver,Low,Preclinical
+1145880f-22e8-42ad-bc24-40cfbd21fb82,Phyllanthus cffdslh,Restorative Kerala Phyllanthus Flower (Liver),Fabaceae,Ayurveda,Inflammation,Moderate,Traditional
+eb754e87-3ee6-460d-aeaa-b405687716f4,Adhatoda pmtfndd,Mountain Mediterranean Adhatoda Resin (Immune),Euphorbiaceae,Western Herbal,Skin,Low,Clinical
+fbce2f7d-ca20-4ded-a4ab-e2db33b3eff7,Inula dpxhbnk,Golden Sichuan Inula Root (Immune),Fabaceae,Ayurveda,Metabolic,Moderate,Clinical
+41b4ea58-b236-42f4-9f03-6eaf821182ff,Thymus duwydvg,Golden Amazon Thymus Essence (Cognitive),Zingiberaceae,African Traditional,Digestive,Low,Clinical
+1c66c008-f672-4159-8ed0-a058b5a8589c,Scutellaria xmnysta,Forest Mediterranean Scutellaria Tonic (Inflammation),Poaceae,African Traditional,Liver,High,Traditional
+12df3866-4244-4675-9863-b7d063d458c1,Harpagophytum hcenxzb,White Kerala Harpagophytum Leaf (Respiratory),Zingiberaceae,Ayurveda,Inflammation,Low,Traditional
+58928c8d-2889-4f68-a089-6a5b726f51bd,Acacia jqnxbul,Rare Atlas Acacia Fruit (Sleep),Fabaceae,African Traditional,Skin,High,Clinical
+d0ff2ff9-30d7-45a7-ab10-afcca8dbe244,Gymnema eyianak,Resilient Himalayan Gymnema Root (Diabetes),Rutaceae,TCM,Respiratory,High,Traditional
+1723a96a-0358-485f-b1e5-2d5e3b4d287d,Plantago fwzozza,Sacred Balkan Plantago Extract (Cognitive),Fabaceae,TCM,Liver,Moderate,Clinical
+7373cbf3-3280-4870-984c-0f3db4a2c07e,Rhodiola jfospik,Calming Bengal Rhodiola Flower (Immune),Asteraceae,Western Herbal,Digestive,High,Clinical
+5c758a8f-d712-48ec-bda6-cb91ee19d417,Boswellia htzlthu,Restorative Nile Boswellia Flower (Diabetes),Fabaceae,African Traditional,Metabolic,High,Preclinical
+8658faff-70ff-4514-bc2c-51814950138b,Camellia fmodwhe,Bitter Amazon Camellia Fruit (Sleep),Apiaceae,Unani,Immune,Moderate,Traditional
+be535a49-12b4-4e28-ae46-7da1b9855445,Trigonella jxjofhc,Ancient Sichuan Trigonella Fruit (Immune),Lamiaceae,Unani,Diabetes,High,Clinical
+8e07a623-7283-4a07-a723-e7146362ffb3,Valeriana ethhgfr,Fragrant Atlas Valeriana Bark (Stress),Asteraceae,Western Herbal,Inflammation,High,Traditional
+4e3734e8-1d0b-4647-9b19-b9e0f8e84865,Hypericum yltxxpz,River Mediterranean Hypericum Rhizome (Inflammation),Poaceae,TCM,Metabolic,Moderate,Preclinical
+abfa1e40-372f-48c6-a49a-882b97cdb090,Moringa hrmmwvv,Strong Andean Moringa Seed (Metabolic),Fabaceae,African Traditional,Inflammation,Low,Preclinical
+73dc62e7-d4d3-4cfc-8d15-8f88faaa5d81,Alpinia bdjvdel,Red Balkan Alpinia Powder (Immune),Solanaceae,Unani,Liver,Low,Clinical
+b64fe444-aec8-4e5f-9c48-e9093153b879,Cassia dhixmfb,Calming Mediterranean Cassia Rhizome (Diabetes),Lamiaceae,Unani,Skin,Moderate,Traditional
+f5ad8889-2241-45eb-888f-b1d6ee4b3ce2,Achillea uwnnvwb,Bitter Bengal Achillea Rhizome (Digestive),Apiaceae,TCM,Sleep,High,Traditional
+e447a141-e4dc-4048-9d47-fcbbc8cc4f95,Lavandula ghgzyha,Soothing Nile Lavandula Rhizome (Digestive),Solanaceae,Unani,Immune,High,Traditional
+d946fef8-4c21-467c-aca2-57cdbc8a2921,Alpinia bkuojsq,Bitter Balkan Alpinia Resin (Cognitive),Solanaceae,Unani,Diabetes,Low,Preclinical
+cba4e683-ab38-47de-9bb9-7bce65dc45ac,Tinospora gqtcsue,Silver Andean Tinospora Tonic (Stress),Euphorbiaceae,Amazonian,Metabolic,Moderate,Clinical
+3ef7407d-4a34-4d57-8237-79b8cf1f9129,Thymus fldiidn,Sacred Atlas Thymus Rhizome (Skin),Zingiberaceae,Unani,Sleep,High,Traditional
+e85d2919-aa3c-4b31-b8da-f0b170226945,Harpagophytum fmaroxg,Resilient Kerala Harpagophytum Tonic (Cardiovascular),Fabaceae,Western Herbal,Cardiovascular,High,Traditional
+ca9870f9-166d-49e5-9335-bf24eb621200,Ficus kzggefg,Vital Andean Ficus Seed (Diabetes),Rosaceae,Unani,Digestive,Low,Clinical
+c1628837-0895-44b1-8143-28eac73a34ec,Aloe vxzsngd,Restorative Himalayan Aloe Leaf (Metabolic),Zingiberaceae,TCM,Liver,High,Clinical
+754833a4-dd88-4106-833a-cecf098eef55,Gymnema crfcycu,Red Saharan Gymnema Essence (Inflammation),Apiaceae,TCM,Sleep,High,Preclinical
+76eafbb1-3596-4e5e-8eff-958103042bee,Alpinia xtcsbvg,Vital Atlas Alpinia Essence (Metabolic),Rosaceae,TCM,Stress,Low,Clinical
+aa441747-a38f-4a37-8077-a6f4ec1bdb43,Scutellaria vzlgnzt,Bright Atlas Scutellaria Resin (Stress),Poaceae,African Traditional,Skin,Low,Clinical
+bb9f4dca-954b-464e-b80b-086040df5b4a,Lavandula ooinznw,Mountain Amazon Lavandula Fruit (Digestive),Rutaceae,TCM,Skin,Low,Traditional
+3800c3f0-418c-4ae4-8e8f-aa75584f5154,Berberis hmvlkxw,Vital Amazon Berberis Fruit (Digestive),Asteraceae,TCM,Metabolic,Moderate,Traditional
+2a780287-62e6-4787-831f-b26e485cf382,Silybum gykmcku,Strong Kerala Silybum Leaf (Inflammation),Rutaceae,TCM,Liver,Low,Clinical
+ba49e441-ec6c-4c58-814a-b4855fe628d1,Acorus bbwobbo,Calming Himalayan Acorus Fruit (Cognitive),Apiaceae,African Traditional,Inflammation,Moderate,Traditional
+ed4f9cd1-21d1-449e-8194-97cc51266292,Valeriana eevfvur,Restorative Sichuan Valeriana Root (Stress),Poaceae,Western Herbal,Respiratory,Low,Traditional
+12c4d75e-4dd2-4e37-b8a8-7ffce4878d31,Terminalia lbrrapb,Gentle Sichuan Terminalia Tonic (Inflammation),Rosaceae,Ayurveda,Respiratory,Moderate,Clinical
+cfdd9b00-4d08-404c-899e-74d2d355b68b,Trigonella fhhtvdl,Bright Sichuan Trigonella Bark (Cardiovascular),Rutaceae,Unani,Cognitive,Low,Preclinical
+bce4d030-7354-4541-859d-0f447ecf2804,Asparagus slaadkx,Silver Bengal Asparagus Fruit (Metabolic),Apiaceae,Unani,Skin,Low,Clinical
+f35f8d30-4268-4594-a9d7-f3e56e779a4e,Artemisia uefrilp,Vital Andean Artemisia Tonic (Respiratory),Asteraceae,Ayurveda,Stress,High,Clinical
+daf79487-b6c0-4ebf-8d66-575244bb2eb3,Berberis ymhszpc,River Atlas Berberis Rhizome (Sleep),Rosaceae,Unani,Inflammation,Low,Traditional
+6fc2ffbe-a4bf-48a7-bebd-409fe10812f8,Withania rvydhvu,Ancient Balkan Withania Tonic (Liver),Rosaceae,TCM,Sleep,High,Traditional
+17ed4f9e-f2dc-4816-8b6e-d45f5538b8cd,Lavandula dtfxbbu,Healing Sichuan Lavandula Infusion (Immune),Poaceae,African Traditional,Cognitive,High,Clinical
+51c64bdf-2da8-49da-ac7b-b4ff7c8090aa,Artemisia gnxpldh,Resilient Saharan Artemisia Extract (Inflammation),Rutaceae,Unani,Respiratory,Moderate,Traditional
+b77e1edf-c248-4e16-a120-0f0febe66990,Plantago ptzcpts,Resilient Mediterranean Plantago Flower (Metabolic),Lamiaceae,Western Herbal,Sleep,Moderate,Traditional
+27e07d0b-fd91-4f02-8237-a9d2b2a54907,Adhatoda elydtgt,Forest Amazon Adhatoda Bark (Skin),Zingiberaceae,Amazonian,Inflammation,Low,Traditional
+ff51e151-e9e5-4780-bc77-27be6e57b0d5,Glycyrrhiza suckhud,Black Yunnan Glycyrrhiza Bark (Cognitive),Zingiberaceae,Western Herbal,Inflammation,Low,Traditional
+2b0b14c8-fa67-443a-9e18-1d459a18a500,Scutellaria bqywdtr,Vital Atlas Scutellaria Seed (Stress),Rutaceae,Western Herbal,Skin,High,Traditional
+19906a4e-7de8-467c-8a60-2a85a2c59c2f,Asparagus fnzttks,Strong Andean Asparagus Elixir (Sleep),Apiaceae,Western Herbal,Sleep,Low,Preclinical
+dda36de8-e684-40c4-a921-85fdb6aa14be,Ephedra zxbojsq,Black Saharan Ephedra Flower (Liver),Araliaceae,Ayurveda,Digestive,Low,Clinical
+6cf2b7bd-ff23-4604-a791-189a5b12103b,Boswellia umhsclj,Fragrant Andean Boswellia Extract (Cognitive),Solanaceae,Unani,Liver,Moderate,Preclinical
+5c30600f-bdac-4a39-9de4-c92af28f88b5,Silybum ptivftt,Silver Yunnan Silybum Powder (Immune),Asteraceae,Western Herbal,Skin,Moderate,Clinical
+6914e7b0-82a4-405d-87f4-d8943ab77b1a,Curcuma tkkfpep,Sacred Saharan Curcuma Extract (Liver),Euphorbiaceae,Western Herbal,Digestive,High,Preclinical
+f45fab87-d21a-401f-89c3-d1908a702e67,Aloe ebckldl,Golden Bengal Aloe Infusion (Liver),Apiaceae,Amazonian,Respiratory,Low,Preclinical
+0b80a936-1324-409f-90a4-56d676e754b7,Echinacea kybvmkd,Purifying Bengal Echinacea Powder (Skin),Zingiberaceae,Ayurveda,Diabetes,Low,Clinical
+9819e263-d426-4f5c-8b35-2af79e7a3afe,Centella zjgowxj,Green Amazon Centella Essence (Inflammation),Fabaceae,Amazonian,Digestive,Low,Preclinical
+60110dd9-8df8-49e6-ad37-1d286ded7cb8,Terminalia tqwpmdt,Restorative Andean Terminalia Extract (Metabolic),Euphorbiaceae,Amazonian,Skin,Low,Clinical
+aa0055da-8a29-4883-8214-d615546a84a2,Calendula xgaznbb,Golden Himalayan Calendula Leaf (Inflammation),Fabaceae,TCM,Sleep,Moderate,Preclinical
+4e4283d1-1e33-4a6d-8184-f7cb5515e8d8,Curcuma yyaafqi,Black Amazon Curcuma Essence (Inflammation),Rosaceae,Western Herbal,Skin,Low,Traditional
+6ef879ec-34eb-4cac-9888-4d12345d6c01,Angelica mbdvygv,Cooling Amazon Angelica Flower (Liver),Asteraceae,Unani,Cognitive,High,Traditional
+11956c32-5dca-475c-b9f6-243256ec449e,Curcuma rxqjmkr,White Bengal Curcuma Fruit (Sleep),Euphorbiaceae,African Traditional,Digestive,Low,Traditional
+c1324c6e-ae6f-48b2-98f3-0ccba9cc772a,Inula njimkqf,Golden Amazon Inula Extract (Immune),Rosaceae,TCM,Liver,Low,Clinical
+75a88b2a-c523-4d26-8b80-7ee6cba1a7bb,Terminalia wlxdeay,Rare Atlas Terminalia Seed (Inflammation),Rutaceae,TCM,Metabolic,High,Clinical
+7df390f6-b730-48e7-a180-4b410d514025,Acorus bantcpx,Desert Himalayan Acorus Infusion (Sleep),Fabaceae,TCM,Digestive,Moderate,Traditional
+fbd27c42-2348-415c-bab7-6f943cecf895,Terminalia kgwcphe,Wild Himalayan Terminalia Rhizome (Liver),Araliaceae,TCM,Cognitive,High,Preclinical
+98c75288-698f-4b46-bb24-15ea1e3aeb8f,Andrographis lcuumyz,Purifying Andean Andrographis Elixir (Inflammation),Euphorbiaceae,Unani,Digestive,High,Traditional
+c0c8527b-0a58-448f-9ff1-687b8b5725f8,Camellia iohrhph,Soothing Andean Camellia Fruit (Sleep),Rosaceae,TCM,Respiratory,Low,Preclinical
+b3153e12-7b07-43fe-ae19-a941065fa8c1,Alpinia vbiefwu,Ancient Yunnan Alpinia Fruit (Cardiovascular),Solanaceae,Amazonian,Stress,Moderate,Clinical
+5830307d-b4df-48c5-a2ce-1ba8c9c9771c,Azadirachta mpdjfoo,Calming Mediterranean Azadirachta Leaf (Stress),Apiaceae,African Traditional,Respiratory,Low,Clinical
+3d40dd4d-3337-4e3a-a064-6e616cab1e19,Andrographis cpwndjq,Black Bengal Andrographis Infusion (Liver),Zingiberaceae,Amazonian,Diabetes,High,Clinical
+69790297-2804-4d48-9ff9-f8f0a3c4dc53,Taraxacum qwfrkxi,Red Kerala Taraxacum Flower (Sleep),Rosaceae,Western Herbal,Inflammation,High,Clinical
+12255cd6-b353-4880-a59b-aa339c028552,Uncaria uxkozuj,Desert Sichuan Uncaria Extract (Cognitive),Zingiberaceae,TCM,Metabolic,High,Preclinical
+4db0010a-2a2b-4e77-9013-56ef083a393a,Ocimum zrkpcof,White Andean Ocimum Leaf (Liver),Solanaceae,African Traditional,Respiratory,High,Clinical
+4b8ed131-6d9a-442e-9340-4d4fefdc4b3e,Trigonella sxhbkst,Silver Amazon Trigonella Infusion (Skin),Euphorbiaceae,Amazonian,Liver,High,Clinical
+28ca3c5a-2ba7-47c4-bbf1-8555d90319ca,Panax viiphkj,Red Bengal Panax Leaf (Liver),Rosaceae,Unani,Digestive,Moderate,Traditional
+b572e294-3514-4dc9-b450-90d29581fbd0,Salvia hxfagtm,Sacred Nile Salvia Resin (Cognitive),Euphorbiaceae,African Traditional,Liver,Low,Preclinical
+92bd0590-641a-4c74-ae58-5697a1403108,Harpagophytum yxwjaat,Forest Nile Harpagophytum Essence (Digestive),Rutaceae,African Traditional,Diabetes,Low,Traditional
+da67ab5f-fc60-4618-a224-37ce81318e4e,Cassia wvaxdsp,Vital Sichuan Cassia Infusion (Stress),Lamiaceae,Western Herbal,Cardiovascular,Low,Clinical
+08563715-d452-472a-9aa9-d88d4d2deae8,Zingiber xbtomvk,Cooling Saharan Zingiber Essence (Liver),Rosaceae,Western Herbal,Immune,Low,Traditional
+91a79ad6-9b41-4385-8149-9be489d94d47,Echinacea zxneqwl,Calming Amazon Echinacea Fruit (Respiratory),Zingiberaceae,Ayurveda,Skin,Moderate,Preclinical
+7ef5e937-b124-4e6e-8c5b-4629893ac99c,Ficus idbhsrl,Ancient Saharan Ficus Tonic (Liver),Fabaceae,Unani,Immune,Moderate,Traditional
+ce732c01-bcd0-46ea-b8bd-ecb6e6d5593f,Inula azdprnu,Calming Saharan Inula Root (Skin),Euphorbiaceae,TCM,Sleep,High,Traditional
+31ff185a-7f18-4aa4-b010-dd17751751c2,Echinacea xsdjphi,River Sichuan Echinacea Extract (Cognitive),Fabaceae,Amazonian,Stress,High,Preclinical
+63a42046-3110-462f-9c2c-55df45db89ce,Bacopa lotfadr,Gentle Nile Bacopa Leaf (Inflammation),Solanaceae,African Traditional,Cognitive,High,Clinical
+206f95ce-2820-4164-828a-63d736391871,Acacia bmhiqfk,Vital Bengal Acacia Fruit (Inflammation),Lamiaceae,Western Herbal,Respiratory,High,Traditional
+408c4d31-b4f6-4313-9e43-89527d9a1f3f,Ginkgo ciiriub,Resilient Yunnan Ginkgo Fruit (Sleep),Fabaceae,TCM,Diabetes,High,Clinical
+8ce7ac42-3be6-499e-8703-a2010d45d974,Lavandula fuoqgen,Wild Andean Lavandula Leaf (Cognitive),Solanaceae,TCM,Skin,Moderate,Clinical
+46598e0a-fd96-4df4-ba77-b3ebbba49c8b,Centella ucqiddn,Calming Sichuan Centella Elixir (Liver),Solanaceae,Unani,Stress,High,Clinical
+04e8d428-ab96-49a5-b973-3819e671c932,Hypericum xwwvqrd,Strong Sichuan Hypericum Extract (Inflammation),Araliaceae,African Traditional,Diabetes,Low,Clinical
+708f25d7-3305-4845-b6ae-a4f1e05b99d9,Scutellaria imxqtyq,Green Bengal Scutellaria Flower (Sleep),Asteraceae,Amazonian,Metabolic,High,Traditional
+b90f955c-7734-4e76-9662-220be93ce990,Salvia ydclunt,Wild Amazon Salvia Essence (Sleep),Araliaceae,Western Herbal,Diabetes,Low,Traditional
+081cff9e-622e-4a74-bb28-5f7564a8aa6e,Passiflora sidqmft,Red Bengal Passiflora Root (Liver),Euphorbiaceae,Western Herbal,Respiratory,High,Traditional
+c982228e-9a9e-4c1c-9fd6-6b52d93a7272,Gymnema vbwflty,Gentle Yunnan Gymnema Extract (Immune),Poaceae,African Traditional,Stress,Low,Traditional
+3fff1c75-b75b-43bb-aa20-a6674145940b,Asparagus wnxxpov,River Saharan Asparagus Infusion (Cardiovascular),Solanaceae,Ayurveda,Liver,Moderate,Traditional
+abe0400e-7bb7-43c1-8f64-1941735912af,Angelica giirxkd,Rare Bengal Angelica Root (Stress),Poaceae,Unani,Cognitive,Low,Clinical
+fd31aff0-1256-432a-bfa9-ee58f6af83a6,Bacopa enoagkh,River Sichuan Bacopa Resin (Metabolic),Fabaceae,TCM,Sleep,Low,Traditional
+4339870a-f271-40d3-b715-ee2e6b9bfd7d,Mentha pyrgzjp,Ancient Andean Mentha Powder (Immune),Poaceae,TCM,Stress,Low,Clinical
+50c52bf8-cd03-44f2-9701-856d7e108805,Thymus nqwiopj,Bitter Yunnan Thymus Bark (Inflammation),Solanaceae,Unani,Metabolic,Low,Preclinical
+45cf9a9a-8789-4312-9756-2ba38510b6fb,Valeriana kywavio,Strong Amazon Valeriana Root (Respiratory),Lamiaceae,TCM,Skin,Low,Traditional
+17f82c07-e198-4eb3-b3c1-f180560a77ee,Uncaria hkqrays,Rare Himalayan Uncaria Elixir (Liver),Rosaceae,Unani,Sleep,High,Traditional
+8eb5d0f0-062e-4c0b-a45f-b875c4e53398,Cassia naukooc,Forest Atlas Cassia Seed (Inflammation),Fabaceae,Western Herbal,Respiratory,Low,Preclinical
+c5ecce7b-df42-48c6-81de-ca1598b2ccdb,Boswellia pmzwrxa,Fragrant Amazon Boswellia Resin (Diabetes),Asteraceae,Unani,Digestive,Low,Traditional
+6a5e7a4a-c7aa-4702-8ac9-06eab76507ce,Ginkgo kjdqfku,Strong Nile Ginkgo Root (Metabolic),Araliaceae,Ayurveda,Inflammation,High,Clinical
+22dd770c-7919-4f9e-a97f-6e66ff12001d,Scutellaria iuxhgux,White Yunnan Scutellaria Fruit (Liver),Rosaceae,Unani,Immune,Moderate,Traditional
+aa6f8182-8b9b-4f9a-88ba-d05dd1db0954,Passiflora rjgrlqi,Desert Bengal Passiflora Extract (Cognitive),Solanaceae,Western Herbal,Skin,High,Clinical
+fe45c0b1-e586-497d-b65c-966a6f7fe05e,Moringa ltjfjuj,Mountain Nile Moringa Elixir (Respiratory),Rutaceae,TCM,Stress,Low,Preclinical
+ee19bea6-e5c2-4e32-8fb3-aca979ea60f5,Mentha wbrfzrz,Wild Balkan Mentha Resin (Inflammation),Poaceae,Ayurveda,Inflammation,Low,Clinical
+bcf5dc66-658c-4710-96e9-b10b6a843e00,Scutellaria sygdyas,Golden Andean Scutellaria Fruit (Immune),Rosaceae,Unani,Cognitive,Moderate,Preclinical
+55018cde-9c10-4bcb-b094-7d439afaa7bd,Glycyrrhiza sfingkl,Desert Yunnan Glycyrrhiza Leaf (Respiratory),Apiaceae,Ayurveda,Immune,Moderate,Traditional
+5f077aa4-55be-43c1-b181-84a8689cfe0b,Artemisia ykucfgt,Sacred Amazon Artemisia Resin (Cardiovascular),Araliaceae,Unani,Diabetes,High,Clinical
+27302bce-849f-49a0-959a-c6dc175f78b2,Curcuma mpsfcip,River Nile Curcuma Essence (Liver),Rutaceae,Western Herbal,Stress,High,Clinical
+98b9a8b5-a6da-4c3d-aec7-3cb00c47e922,Andrographis obmcygg,Silver Mediterranean Andrographis Resin (Respiratory),Zingiberaceae,Amazonian,Cognitive,High,Clinical
+59da15f7-2043-4fe0-9a37-c59cea9568f4,Polygonum fcwjjuw,Green Andean Polygonum Seed (Skin),Poaceae,Unani,Diabetes,Low,Clinical
+8861e6dd-9746-408e-8a14-247a5d056956,Glycyrrhiza thhkdbr,Silver Nile Glycyrrhiza Leaf (Immune),Apiaceae,Unani,Skin,Moderate,Preclinical
+0fd9162d-b0c4-40ef-9fa4-0886893aea91,Zingiber ilczpmf,Bitter Yunnan Zingiber Leaf (Cognitive),Rosaceae,TCM,Stress,Moderate,Traditional
+56db5998-b885-4c7f-82ad-a2f33a9ac35a,Mentha qrdoaow,Healing Sichuan Mentha Essence (Inflammation),Rutaceae,Western Herbal,Diabetes,Low,Clinical
+86a59a20-ade1-486d-9252-46362b7dc87f,Zingiber vjkgvzl,River Andean Zingiber Essence (Skin),Lamiaceae,African Traditional,Stress,Low,Preclinical
+da44bba5-2ce5-45e4-bb19-59ece2c5df15,Alpinia cnqriio,Wild Saharan Alpinia Powder (Respiratory),Zingiberaceae,Amazonian,Inflammation,Low,Preclinical
+cf1f8c7f-bc9c-4c9c-b936-72e623ab72df,Ficus qfeznwt,Desert Amazon Ficus Elixir (Digestive),Rutaceae,African Traditional,Stress,Moderate,Preclinical
+4feb2eef-7aab-4a09-b1ab-a3460cd2f0df,Inula jzkasgy,Red Yunnan Inula Leaf (Skin),Rosaceae,Amazonian,Metabolic,High,Preclinical
+f239a53c-c157-4d46-978a-917bbd313327,Phyllanthus dbvjtwr,Strong Bengal Phyllanthus Resin (Sleep),Apiaceae,Western Herbal,Liver,High,Preclinical
+831d3cb4-b144-4ac5-b09e-01abd96617a3,Angelica loourvq,Restorative Saharan Angelica Elixir (Stress),Zingiberaceae,Unani,Diabetes,High,Traditional
+b94533cf-db0f-4db0-b5b6-d6ca9d5f46b4,Withania gamoitx,Strong Amazon Withania Root (Inflammation),Fabaceae,African Traditional,Metabolic,Low,Traditional
+16f322d1-d292-4571-9400-ebbaf034f1b0,Angelica tnifagg,Mountain Yunnan Angelica Fruit (Diabetes),Rutaceae,Unani,Cardiovascular,Moderate,Traditional
+93c86235-6457-4416-99be-b5525ec47f00,Gymnema ypmsvwf,Silver Sichuan Gymnema Seed (Sleep),Rutaceae,TCM,Diabetes,Low,Preclinical
+2c16afdc-ad40-422f-9ec0-b3b8fa45bd01,Azadirachta rwclbff,Healing Mediterranean Azadirachta Rhizome (Digestive),Apiaceae,Unani,Sleep,Low,Preclinical
+086a7227-7ad1-4e52-a23c-7e77e5c40800,Polygonum qxqxdep,Fragrant Mediterranean Polygonum Infusion (Diabetes),Fabaceae,Amazonian,Immune,High,Preclinical
+e855000a-f436-4a36-bcba-85dfb29721ac,Calendula zxyxnfr,Vital Amazon Calendula Infusion (Respiratory),Euphorbiaceae,Unani,Liver,High,Traditional
+b6c74145-2f7e-4996-8562-b7a31dad2503,Valeriana qsfnsjr,Fragrant Andean Valeriana Leaf (Stress),Solanaceae,Unani,Cognitive,Moderate,Traditional
+deb7aa42-3ce1-4b05-9047-dcbf6c86fa32,Moringa strrhvm,Calming Kerala Moringa Elixir (Digestive),Poaceae,Ayurveda,Digestive,Moderate,Preclinical
+974aad3a-ec0c-4451-a897-7e51ba53347e,Withania dqelfxg,Sacred Amazon Withania Extract (Cognitive),Lamiaceae,TCM,Respiratory,High,Preclinical
+c4e560f2-86d6-4d8f-8ee1-3dca4d73fc43,Polygonum glcnfem,Purifying Saharan Polygonum Fruit (Sleep),Poaceae,African Traditional,Skin,Low,Traditional
+5fdebf90-f0d4-4b22-a0ad-57b6e2f44c44,Scutellaria rypyryf,Healing Kerala Scutellaria Leaf (Immune),Fabaceae,TCM,Immune,High,Preclinical
+9a037886-bda9-4b4c-b4dd-d06f388639fa,Ocimum nnhjuhk,Fragrant Atlas Ocimum Rhizome (Sleep),Euphorbiaceae,Western Herbal,Metabolic,Low,Clinical
+f3572ddd-3a5f-45b3-90d8-6bce15ec82dc,Berberis dmeqzku,Bitter Andean Berberis Seed (Digestive),Lamiaceae,Unani,Respiratory,Moderate,Traditional
+e221682b-9510-4b8e-8e6d-448cf9005edf,Acorus pgsjaxo,Green Sichuan Acorus Rhizome (Immune),Rutaceae,Ayurveda,Digestive,High,Clinical
+85018d14-18fe-4d31-8f6f-5cb73e499753,Panax ipjklki,Black Amazon Panax Resin (Skin),Solanaceae,Amazonian,Sleep,Moderate,Preclinical
+ccf2b29d-732a-449e-8b29-69c9f548c365,Adhatoda djskjlt,Forest Himalayan Adhatoda Powder (Liver),Rosaceae,Western Herbal,Stress,Moderate,Clinical
+9699f7e5-c12e-4920-9cc3-323809a42dcf,Asparagus hixupxl,Rare Saharan Asparagus Rhizome (Metabolic),Lamiaceae,Amazonian,Cardiovascular,Moderate,Clinical
+97cb2e42-02a3-4bb6-919a-aad88e1f4033,Zingiber idqghwh,Cooling Yunnan Zingiber Rhizome (Inflammation),Zingiberaceae,TCM,Metabolic,Low,Preclinical
+557157f5-9d95-4bf6-98fb-12d93102c8b5,Ficus dzyjjuq,White Amazon Ficus Rhizome (Cardiovascular),Asteraceae,Ayurveda,Cognitive,Low,Traditional
+88545125-93be-4110-8216-ad468946601f,Centella wbjnmti,Forest Andean Centella Leaf (Cognitive),Euphorbiaceae,Ayurveda,Respiratory,Low,Clinical
+7842a4e5-550f-461d-b3f9-3efe51dc035d,Ephedra erjphcu,Soothing Andean Ephedra Seed (Stress),Apiaceae,Unani,Immune,Low,Traditional
+d2ea58b7-c305-4d14-a645-9b58106c11c1,Salvia agfquoo,White Andean Salvia Extract (Diabetes),Poaceae,Ayurveda,Metabolic,High,Preclinical
+dc1c369d-7d08-4490-926f-50a077f0a477,Calendula yxlywqb,Green Nile Calendula Seed (Skin),Apiaceae,Ayurveda,Liver,Low,Clinical
+1c165557-0d38-4556-ba5b-2c6751c3fee9,Camellia mtbditt,Strong Saharan Camellia Fruit (Cardiovascular),Poaceae,African Traditional,Skin,Moderate,Clinical
+080b777e-80e2-4029-9e8d-89137bc6cd6a,Acacia azubuov,Healing Himalayan Acacia Extract (Diabetes),Rosaceae,Amazonian,Digestive,Low,Traditional
+439a0947-6cfd-4180-873c-a6f76996e0b1,Tinospora tllwerh,Rare Bengal Tinospora Resin (Sleep),Zingiberaceae,Amazonian,Liver,Moderate,Traditional
+a21365e0-5abf-4e2d-abea-3cf48730ffba,Alpinia jmhzgmk,Soothing Saharan Alpinia Resin (Sleep),Poaceae,African Traditional,Digestive,Moderate,Clinical
+2805aff7-60ad-47ab-960d-8c1d2a583086,Calendula bsxvhrh,Bitter Mediterranean Calendula Resin (Stress),Lamiaceae,Ayurveda,Digestive,Moderate,Traditional
+daa7c610-88d2-413f-8aa6-7327882917e6,Azadirachta kgbmhjd,White Yunnan Azadirachta Fruit (Digestive),Lamiaceae,TCM,Digestive,Moderate,Preclinical
+7b4551c3-88f4-4cfe-9311-1befb63d3260,Rhodiola bhpbhts,Strong Andean Rhodiola Elixir (Stress),Euphorbiaceae,African Traditional,Skin,Moderate,Clinical
+401ca749-42b3-4032-a6fd-a3d790aa72f5,Passiflora tvrsyzf,Soothing Yunnan Passiflora Elixir (Inflammation),Zingiberaceae,Unani,Liver,Low,Traditional
+dcde28a6-cf37-4805-a752-5a810a1d06d7,Bacopa iakvwbm,Vital Balkan Bacopa Resin (Liver),Euphorbiaceae,Ayurveda,Immune,High,Traditional
+e7267b95-e7b5-40ca-b389-091eb18f3b80,Cassia pwkqhzj,Vital Yunnan Cassia Seed (Cardiovascular),Euphorbiaceae,Amazonian,Immune,Moderate,Clinical
+e6ccee76-8043-4a93-846b-96f475eef4f8,Berberis ikdqvho,Silver Yunnan Berberis Resin (Digestive),Zingiberaceae,Unani,Stress,Low,Traditional
+d5cc3e44-2da4-4667-9c2a-a316a53acdb6,Centella grojrja,Cooling Amazon Centella Essence (Sleep),Apiaceae,Western Herbal,Diabetes,Moderate,Clinical
+0c1daec4-c523-405b-80ba-b9668ec3394f,Acacia ogshjfi,Healing Andean Acacia Extract (Digestive),Euphorbiaceae,African Traditional,Immune,Low,Clinical
+5c8c86f2-0335-40f5-a1d4-fc54500c00cc,Berberis hsmrjxp,Purifying Nile Berberis Flower (Stress),Asteraceae,Ayurveda,Inflammation,High,Clinical
+e38f5a72-6e65-4a94-86fc-f621dd621acc,Zingiber jbpikgl,Bitter Andean Zingiber Leaf (Sleep),Apiaceae,Unani,Immune,Low,Clinical
+ea7132a1-031b-4d01-9199-f25bd9eafcb2,Plantago rzarnvk,Ancient Nile Plantago Seed (Respiratory),Asteraceae,TCM,Digestive,High,Traditional
+f1fa2afe-60fb-42d9-bacc-848a1e049f0d,Angelica ydzjhxp,Silver Saharan Angelica Flower (Liver),Euphorbiaceae,Western Herbal,Metabolic,Moderate,Clinical
+7fc23066-558b-4165-8496-164927edeef8,Alpinia rmdsatg,Ancient Andean Alpinia Essence (Inflammation),Fabaceae,African Traditional,Digestive,High,Traditional
+bee71d97-d1bf-4e64-89f9-28f43f9bd757,Moringa gmshlbr,Strong Bengal Moringa Leaf (Immune),Araliaceae,Amazonian,Metabolic,High,Traditional
+f37a83fd-588e-40da-b13f-5a7668024432,Mentha kwefvup,Wild Balkan Mentha Bark (Stress),Solanaceae,Amazonian,Digestive,Moderate,Clinical
+486e6c9c-38a8-4826-bd6a-f568a3463a89,Moringa slbanvy,Golden Balkan Moringa Tonic (Liver),Asteraceae,Amazonian,Inflammation,Moderate,Preclinical
+5167be25-fb2c-4c23-bb12-f6b36921d3fe,Lavandula vphkixh,Vital Atlas Lavandula Essence (Inflammation),Poaceae,Amazonian,Sleep,Moderate,Preclinical
+e43fd168-724d-45f7-acbc-2780c082d2e5,Adhatoda clkedca,Red Atlas Adhatoda Leaf (Liver),Apiaceae,Western Herbal,Digestive,Low,Preclinical
+4f5f2ef2-240f-443a-a67e-542eb98142be,Aegle psyfgqd,Red Mediterranean Aegle Seed (Stress),Fabaceae,Ayurveda,Liver,High,Traditional
+d3f6d1cc-5db3-4b05-810d-78e5426d6c89,Acacia frjzket,Green Bengal Acacia Rhizome (Metabolic),Zingiberaceae,TCM,Sleep,Low,Clinical
+1644333b-387a-4a4e-99b4-383bb71ba1de,Echinacea ondtpot,Mountain Yunnan Echinacea Bark (Metabolic),Poaceae,Ayurveda,Cognitive,High,Traditional
+8825d54a-c1d4-4744-b6b8-c42ca41e9ed2,Panax kwavgek,Purifying Sichuan Panax Rhizome (Inflammation),Euphorbiaceae,African Traditional,Stress,Moderate,Traditional
+df7b373d-1255-4f41-8574-10868b3322fd,Camellia rtexmiy,Purifying Nile Camellia Leaf (Inflammation),Solanaceae,TCM,Stress,Moderate,Preclinical
+8084cf47-3eae-4642-a340-6d84a751e60b,Thymus ssykqmr,Silver Saharan Thymus Rhizome (Digestive),Zingiberaceae,Unani,Sleep,Moderate,Traditional
+f4fdbe66-e839-4f0a-99d5-786efd53f76e,Passiflora rmwntct,Green Nile Passiflora Rhizome (Skin),Poaceae,African Traditional,Inflammation,Low,Traditional
+d8b8fec3-c1e0-40f5-9594-c9a4133f0619,Gymnema ymfapdj,Purifying Balkan Gymnema Fruit (Liver),Solanaceae,Amazonian,Metabolic,Moderate,Clinical
+9aa4c1b3-543e-49fc-8666-4a65b8109de7,Plantago tadrwol,Calming Atlas Plantago Fruit (Cognitive),Rutaceae,TCM,Cognitive,High,Clinical
+07fb4620-c6fe-4752-b910-2b0d266df1ff,Zingiber tyqoktf,Desert Himalayan Zingiber Resin (Immune),Solanaceae,TCM,Stress,Moderate,Traditional
+6909eb05-8b36-4b4a-8c09-c7e3e70551a4,Phyllanthus kydfcsv,Healing Andean Phyllanthus Leaf (Cognitive),Rosaceae,TCM,Skin,Moderate,Preclinical
+c5fc59cc-4dde-459b-8561-5021bd025ce3,Panax fhcawrm,Desert Yunnan Panax Root (Cardiovascular),Poaceae,Unani,Cardiovascular,Moderate,Clinical
+94ade206-04ce-4ad6-9f6e-63e5e654a937,Glycyrrhiza grptkuy,Vital Amazon Glycyrrhiza Rhizome (Digestive),Zingiberaceae,Western Herbal,Liver,Moderate,Traditional
+17b3b89f-306b-4b43-be08-5d1f376fbc6a,Acorus dhupcsi,Cooling Bengal Acorus Tonic (Cognitive),Euphorbiaceae,Ayurveda,Immune,High,Preclinical
+705dc6e4-5923-4321-8838-653526bb9509,Thymus jwnpkxv,Wild Kerala Thymus Infusion (Sleep),Poaceae,Unani,Liver,Low,Preclinical
+2cb52a04-0986-4511-8837-f4f467b04aed,Ephedra jmfxqqe,Soothing Bengal Ephedra Root (Respiratory),Rutaceae,Western Herbal,Diabetes,High,Clinical
+6d3ce320-0d73-4462-82c9-981d3329d5c4,Polygonum fufcwrp,Golden Balkan Polygonum Infusion (Metabolic),Apiaceae,Ayurveda,Stress,High,Preclinical
+7fe6060a-9552-4051-8be5-cd0ada6d72a5,Taraxacum lzvzakk,Bitter Yunnan Taraxacum Rhizome (Metabolic),Euphorbiaceae,Unani,Sleep,Moderate,Clinical
+6138ae6a-d2f8-46c1-ae00-c22b3e9163ff,Berberis xwsknsb,Ancient Andean Berberis Leaf (Metabolic),Zingiberaceae,Unani,Liver,Low,Traditional
+264fde1a-8a6d-4e50-a965-cf1f6ca96012,Curcuma kwrgbyn,Mountain Balkan Curcuma Seed (Metabolic),Fabaceae,African Traditional,Inflammation,Moderate,Clinical
+fcfb970e-c370-4ea8-b64d-fca2734f09c1,Ocimum aqgshuc,Ancient Yunnan Ocimum Root (Skin),Araliaceae,Ayurveda,Stress,Moderate,Preclinical
+63a1dc72-3b5a-4f6f-a2c0-2e404fed0964,Centella ozqsskx,Calming Balkan Centella Resin (Immune),Lamiaceae,African Traditional,Sleep,Moderate,Traditional
+ba0d0968-01c7-47a7-944f-f1558b150b60,Panax ddernnk,Vital Sichuan Panax Infusion (Metabolic),Apiaceae,African Traditional,Liver,Moderate,Traditional
+36e26d5a-bf85-435a-9815-cf544ddd97e8,Trigonella gzvomui,Golden Himalayan Trigonella Root (Immune),Rutaceae,Unani,Stress,High,Traditional
+395a0670-a045-46ff-8036-db81e5253ca6,Cassia sbjhsht,Silver Yunnan Cassia Elixir (Respiratory),Poaceae,Western Herbal,Immune,High,Traditional
+f7a2f15d-c5b7-4f84-9427-d651677e34ab,Echinacea dnhunby,Gentle Andean Echinacea Flower (Cognitive),Araliaceae,Ayurveda,Digestive,High,Clinical
+3a1d1f48-011e-41d5-8696-82db45d9de1b,Zingiber mremdzq,Green Andean Zingiber Resin (Cardiovascular),Lamiaceae,TCM,Respiratory,Low,Traditional
+c5c3504e-661a-4b14-95df-f8253bf61cee,Andrographis dbtiouo,Bitter Atlas Andrographis Rhizome (Immune),Solanaceae,Amazonian,Immune,Low,Traditional
+ab56b545-9762-4762-a8c2-d92ea23344f3,Polygonum npzyteb,Healing Andean Polygonum Tonic (Cardiovascular),Araliaceae,African Traditional,Diabetes,Moderate,Traditional
+eac67805-d7dd-4526-9035-e72f3fd4d746,Aloe jpwdjum,Soothing Bengal Aloe Resin (Metabolic),Zingiberaceae,Ayurveda,Liver,Moderate,Clinical
+a0b2ac60-9191-42e7-9174-4f277b372c91,Ginkgo ifihrqt,Vital Amazon Ginkgo Powder (Diabetes),Asteraceae,Ayurveda,Cardiovascular,Moderate,Preclinical
+d0745e86-05e5-4c19-888f-263884855f98,Rhodiola uzyjgtb,Cooling Himalayan Rhodiola Extract (Immune),Euphorbiaceae,Unani,Skin,High,Preclinical
+2f773925-3040-46c6-86aa-b56666d9099a,Panax okmsbyi,Resilient Yunnan Panax Bark (Liver),Rutaceae,Western Herbal,Cognitive,Moderate,Preclinical
+6bfe74f2-22c6-455e-a14a-c024fdcb25ae,Curcuma geyjxhb,Strong Balkan Curcuma Fruit (Immune),Euphorbiaceae,African Traditional,Respiratory,Low,Preclinical
+c23b5294-790f-42e4-81ec-51bbf539fe18,Ficus jvtladl,Fragrant Bengal Ficus Root (Cognitive),Fabaceae,Unani,Sleep,Moderate,Clinical
+1f64fa0f-df5e-45d7-899d-53fb897cde9d,Silybum kpjtqxk,Mountain Yunnan Silybum Elixir (Diabetes),Zingiberaceae,TCM,Sleep,High,Preclinical
+a5ff4d9f-1396-41ba-9f88-c6459485de73,Ficus ahmgjjm,Rare Amazon Ficus Elixir (Stress),Zingiberaceae,Unani,Stress,Low,Traditional
+f80c23a9-19b8-4ea4-8b51-366c36f20051,Uncaria xackaxn,Fragrant Sichuan Uncaria Fruit (Cognitive),Rosaceae,Ayurveda,Cognitive,High,Traditional
+a0c2e4f9-a9ad-4b42-aff9-03830214937b,Trigonella xwpspmb,Gentle Kerala Trigonella Rhizome (Stress),Euphorbiaceae,Amazonian,Cardiovascular,Low,Clinical
+b2f89077-6237-4e5f-851f-92b60f0657fa,Acacia fpnkwlm,Restorative Bengal Acacia Root (Cardiovascular),Rutaceae,TCM,Cardiovascular,Moderate,Clinical
+960bd43c-15c2-4ac2-a852-923e0664c44f,Hypericum tpfeyho,Fragrant Mediterranean Hypericum Resin (Stress),Asteraceae,Western Herbal,Inflammation,Low,Traditional
+b1e4f7ef-6abd-4acd-8eef-993ee0511d10,Glycyrrhiza tklbdlq,Vital Yunnan Glycyrrhiza Elixir (Liver),Rosaceae,African Traditional,Cognitive,High,Clinical
+4e57cb49-d043-4e7f-8f20-b74ad03c8279,Passiflora bmsjtnc,Calming Himalayan Passiflora Extract (Immune),Rutaceae,Amazonian,Cardiovascular,Low,Traditional
+7cd652e6-b1e8-4038-a67d-5606446dc5f4,Rhodiola gceldka,Calming Himalayan Rhodiola Bark (Sleep),Poaceae,Unani,Skin,Moderate,Preclinical
+c11cec6d-67d2-4140-97b0-78a1a58d7408,Azadirachta aiwrlln,Gentle Nile Azadirachta Leaf (Cardiovascular),Poaceae,Amazonian,Digestive,Moderate,Clinical
+2f1280fd-77be-4b2a-a42c-a82f4bba5a3b,Trigonella tnbquxq,Bitter Saharan Trigonella Seed (Cognitive),Poaceae,African Traditional,Immune,Moderate,Preclinical
+d04b765f-43a2-44d6-949e-a4c5c40e0c19,Bacopa nabgttx,Healing Saharan Bacopa Essence (Metabolic),Apiaceae,Unani,Skin,Low,Preclinical
+740cdd6f-99b3-4737-b5c6-2fc644d99e9c,Salvia yjmhjal,Bright Mediterranean Salvia Extract (Inflammation),Poaceae,TCM,Respiratory,Low,Clinical
+5fc2dd9a-d610-4014-943f-79985f0cf77e,Berberis hmjzniv,Ancient Yunnan Berberis Powder (Skin),Poaceae,Amazonian,Liver,Moderate,Traditional
+88784a76-df91-4aa8-a101-f3f8c1e28f01,Ocimum anrtdmk,Silver Sichuan Ocimum Bark (Diabetes),Zingiberaceae,Amazonian,Digestive,Low,Preclinical
+c8c42dbc-8492-4dc4-8e6c-58811c52de2d,Adhatoda eekowik,Strong Himalayan Adhatoda Extract (Immune),Euphorbiaceae,Unani,Digestive,High,Clinical
+9c819206-4f8a-486c-a0ca-9467a2e94323,Echinacea bpgiomb,Cooling Nile Echinacea Elixir (Inflammation),Rosaceae,Ayurveda,Skin,Low,Clinical
+2c3fc4b9-3dc1-4c71-b3b1-4e19b2709433,Rhodiola hgzcgmr,River Atlas Rhodiola Essence (Stress),Fabaceae,Ayurveda,Diabetes,High,Preclinical
+3291ed6e-eb17-4107-9e84-2d078cb368a7,Artemisia qqcuovp,Ancient Mediterranean Artemisia Bark (Inflammation),Fabaceae,TCM,Diabetes,Moderate,Clinical
+543e4208-58d3-4b82-8414-d77f1106a380,Aloe gcsltnx,White Andean Aloe Resin (Liver),Euphorbiaceae,Unani,Cardiovascular,Moderate,Preclinical
+d470e294-999f-48ab-9787-8aa8cc37c99f,Bacopa eaiwcac,Gentle Himalayan Bacopa Infusion (Respiratory),Rosaceae,African Traditional,Immune,Moderate,Clinical
+797f66da-8b74-4a51-ba34-884360d3805b,Ephedra nkmcymw,Restorative Himalayan Ephedra Root (Skin),Euphorbiaceae,Ayurveda,Respiratory,Moderate,Clinical
+8a21b21b-590e-4d2a-8c2b-715c214f3a28,Andrographis phvnipr,Desert Atlas Andrographis Rhizome (Respiratory),Lamiaceae,Western Herbal,Diabetes,Low,Preclinical
+38ab4545-9d28-461a-980e-f6ea2fd66dd2,Rauwolfia whiyrvu,Silver Saharan Rauwolfia Essence (Digestive),Solanaceae,Ayurveda,Inflammation,Moderate,Traditional
+eefca9d5-d503-48a1-9a11-f4b797b7aa71,Camellia hbxkwtt,Desert Mediterranean Camellia Essence (Skin),Zingiberaceae,Ayurveda,Inflammation,Low,Preclinical
+3649feed-ddd2-430a-a11a-ee7f7d82d9fe,Alpinia bkaxqxx,Desert Bengal Alpinia Tonic (Skin),Poaceae,Unani,Sleep,Moderate,Clinical
+8f1553d5-fc5f-4118-9fbc-18cae6112987,Ficus bxpxoxo,Golden Nile Ficus Root (Diabetes),Asteraceae,Unani,Stress,High,Preclinical
+1560cf4a-a1ad-4d87-84d5-b6cb9ac899ca,Cassia exfowja,White Saharan Cassia Tonic (Respiratory),Asteraceae,Amazonian,Inflammation,High,Preclinical
+432c6a26-0926-47a7-b2cc-0c1bf63617e4,Mentha mazbjcd,Healing Bengal Mentha Bark (Sleep),Apiaceae,Ayurveda,Skin,High,Traditional
+f9c93c02-e159-4571-a68c-ff0909c559a7,Acacia ccfugas,Golden Bengal Acacia Essence (Cognitive),Lamiaceae,Unani,Respiratory,Moderate,Preclinical
+febaeadc-b6b0-4737-948c-c89baa954546,Plantago fnuyyzp,Wild Himalayan Plantago Fruit (Sleep),Rutaceae,TCM,Skin,Low,Preclinical
+b17d4d1d-bb6f-40e7-b119-bbd2b0689ae9,Uncaria iuhgkgs,Healing Kerala Uncaria Flower (Cardiovascular),Asteraceae,Western Herbal,Diabetes,Low,Preclinical
+50f9ce62-9d85-4c78-aee5-7c6504e86ac9,Berberis vnogdnz,Mountain Sichuan Berberis Rhizome (Immune),Lamiaceae,Ayurveda,Skin,Low,Preclinical
+1856363e-ebf4-41e5-9390-a029341c4b82,Adhatoda sxvcltr,Mountain Bengal Adhatoda Leaf (Stress),Araliaceae,Amazonian,Liver,Moderate,Preclinical
+26f284fb-2d46-488c-aaf5-c756c069e6a2,Adhatoda jzkikqx,Purifying Yunnan Adhatoda Leaf (Sleep),Rutaceae,Western Herbal,Diabetes,High,Clinical
+cbc20d2f-0c0b-478b-8367-c63bde2c193a,Hypericum hlkfuhj,Gentle Bengal Hypericum Leaf (Cognitive),Solanaceae,Western Herbal,Stress,High,Traditional
+d4541a0d-73e9-42de-a5d0-909ee6e41f12,Azadirachta gnpjgvo,Strong Mediterranean Azadirachta Leaf (Stress),Rosaceae,Western Herbal,Cardiovascular,Low,Preclinical
+aabef222-ba59-4ee7-a3b0-b647a598642f,Moringa oceezdc,Wild Kerala Moringa Elixir (Respiratory),Apiaceae,Western Herbal,Sleep,Low,Preclinical
+f59a47d8-4fe5-4559-ab21-70f7408fcd3e,Calendula kbjnaac,Calming Mediterranean Calendula Elixir (Immune),Rosaceae,Amazonian,Cognitive,Moderate,Traditional
+347723db-74a5-4dea-bcce-0954aac291c9,Zingiber bgkimep,White Atlas Zingiber Seed (Inflammation),Rutaceae,Amazonian,Immune,Low,Traditional
+6f150b8e-d6bb-49c7-a035-3a9e297ea882,Berberis hdpszoz,Purifying Mediterranean Berberis Seed (Immune),Rutaceae,Western Herbal,Digestive,High,Clinical
+7de50fa3-edde-460a-beca-10213955882a,Passiflora bqbjlso,Restorative Balkan Passiflora Seed (Sleep),Asteraceae,TCM,Respiratory,High,Clinical
+811145c5-0361-4989-adea-cfc7e2c12395,Tinospora bbtssxk,Soothing Bengal Tinospora Elixir (Cognitive),Solanaceae,Unani,Cognitive,Low,Clinical
+f2767201-e726-4d89-903b-b409a9041cc4,Taraxacum afbsxft,Gentle Balkan Taraxacum Infusion (Immune),Rosaceae,Ayurveda,Digestive,High,Clinical
+80ba336b-a995-439a-9780-0a4a83b73f8f,Phyllanthus kdadnya,Soothing Amazon Phyllanthus Leaf (Stress),Euphorbiaceae,Unani,Inflammation,Low,Traditional
+97fc81f6-b0c9-4967-b12e-d4b87a6a7c96,Adhatoda ecdfqcn,Cooling Sichuan Adhatoda Flower (Cognitive),Zingiberaceae,Amazonian,Stress,Moderate,Clinical
+4123c996-f9df-44c4-a068-fa6a390f883c,Calendula emsjeid,Calming Sichuan Calendula Infusion (Diabetes),Poaceae,Ayurveda,Cognitive,Moderate,Preclinical
+25006aa4-6c0b-479c-9843-e3ace78acb1e,Trigonella clcyrue,White Mediterranean Trigonella Powder (Digestive),Zingiberaceae,TCM,Metabolic,High,Traditional
+3f614491-a61f-4cdd-834d-6405c66a18b1,Calendula dhvxxwc,Bitter Himalayan Calendula Fruit (Metabolic),Araliaceae,African Traditional,Stress,Low,Clinical
+7a935a4b-0c5e-43ca-9706-238143ea4de5,Moringa wxbkmhf,Healing Amazon Moringa Root (Liver),Rutaceae,African Traditional,Sleep,Low,Traditional
+17000f15-c9df-493f-b01a-f6927dec4436,Ficus vwiasmo,Healing Kerala Ficus Elixir (Respiratory),Araliaceae,Amazonian,Digestive,Low,Traditional
+9de48f72-fd55-470e-80db-cb3451de64a3,Aegle gisvvus,Silver Bengal Aegle Resin (Immune),Asteraceae,Western Herbal,Cognitive,Low,Clinical
+3cc10385-88f5-4a6c-9456-2aa69125c140,Boswellia bhpngsz,Black Nile Boswellia Elixir (Digestive),Euphorbiaceae,African Traditional,Metabolic,Moderate,Clinical
+6b033b39-5f7f-4c91-ac9b-ccda6ddcabc7,Zingiber qpmrhdz,Resilient Kerala Zingiber Resin (Stress),Rutaceae,Amazonian,Liver,Moderate,Preclinical
+92c61dc7-2209-4aa9-a4d8-045f77cb9bdf,Azadirachta rlpolic,Bright Kerala Azadirachta Infusion (Metabolic),Rutaceae,Western Herbal,Stress,High,Traditional
+da42561f-c243-41b0-a5c3-f642391e567e,Calendula dlzjdkl,Silver Himalayan Calendula Infusion (Inflammation),Rutaceae,TCM,Sleep,High,Preclinical
+daa14dff-007f-4507-a53d-b72e6fa68134,Angelica wjnqdua,River Kerala Angelica Infusion (Diabetes),Poaceae,African Traditional,Immune,Low,Traditional
+cd394bdd-0433-4a37-8bac-57301270a169,Polygonum ujpxdyy,Ancient Nile Polygonum Tonic (Inflammation),Poaceae,Ayurveda,Liver,High,Preclinical
+b3103e66-6b72-4fdf-a74d-dcc327c5f6ec,Phyllanthus huqvqoq,Vital Kerala Phyllanthus Leaf (Metabolic),Zingiberaceae,African Traditional,Cognitive,Low,Traditional
+c40a2271-8ab4-42d0-9631-946029283659,Salvia sbdvdzk,Wild Andean Salvia Essence (Cardiovascular),Fabaceae,Amazonian,Cardiovascular,Moderate,Preclinical
+c8358026-6874-4f3d-ac3d-4c6584361f46,Angelica xksjerh,Vital Sichuan Angelica Seed (Skin),Asteraceae,Amazonian,Respiratory,Moderate,Preclinical
+fe74a1b5-ed36-4c34-a862-410afe223b74,Ficus qlvrlfd,Soothing Balkan Ficus Bark (Skin),Poaceae,Amazonian,Liver,Low,Preclinical
+d519bdc9-5690-4e1c-87d4-9b57e780c9ce,Moringa kozzqif,Bitter Balkan Moringa Extract (Digestive),Lamiaceae,Amazonian,Metabolic,Moderate,Preclinical
+7d8beac2-5477-4f3c-b4aa-54eecbb6fb0c,Curcuma rlmfymn,Calming Andean Curcuma Tonic (Digestive),Rutaceae,Ayurveda,Stress,High,Clinical
+78e22b36-8a70-43ac-a165-ab2b47681c80,Calendula cgamgpw,Bright Mediterranean Calendula Root (Sleep),Rutaceae,Ayurveda,Respiratory,Low,Traditional
+7531b933-f80f-4d1d-aa8e-d4537b02ea45,Centella ybdygrv,Wild Bengal Centella Fruit (Cognitive),Lamiaceae,Western Herbal,Digestive,Moderate,Preclinical
+54af9082-2393-48b8-b6d0-334c726470d6,Ficus xjsfyvv,Mountain Nile Ficus Extract (Respiratory),Fabaceae,Amazonian,Inflammation,High,Preclinical
+6663b761-d604-4956-bb4a-947fd983eca9,Acacia aeupmhj,Vital Andean Acacia Root (Digestive),Asteraceae,TCM,Digestive,Moderate,Preclinical
+8657c881-1e00-4c5e-bc40-b800df9cdb1e,Glycyrrhiza cjmbfal,Restorative Himalayan Glycyrrhiza Elixir (Inflammation),Apiaceae,TCM,Digestive,High,Traditional
+30637af5-5aa7-4301-ae69-8c63659d4bee,Cassia hyrsicu,Vital Nile Cassia Root (Digestive),Asteraceae,Unani,Diabetes,High,Traditional
+a48452d4-541f-40cf-97e5-54b3dda38378,Adhatoda urrduml,Fragrant Saharan Adhatoda Rhizome (Cognitive),Zingiberaceae,Ayurveda,Respiratory,Moderate,Traditional
+e206b60d-e3da-4f35-962d-b1d7893b6354,Artemisia hrftmdh,Strong Sichuan Artemisia Seed (Inflammation),Asteraceae,TCM,Digestive,Moderate,Preclinical
+f6da92df-6efd-4031-a510-d15041a99465,Gymnema hvwjzro,Cooling Sichuan Gymnema Root (Diabetes),Poaceae,African Traditional,Sleep,High,Preclinical
+2a385190-df03-44e2-8b28-76904cae3ab6,Acorus asfrovs,River Atlas Acorus Powder (Respiratory),Asteraceae,Amazonian,Diabetes,Moderate,Clinical
+2c4eef5b-76f8-4655-885d-44cea9935370,Plantago xtofert,Resilient Nile Plantago Infusion (Metabolic),Zingiberaceae,Ayurveda,Inflammation,High,Preclinical
+751a568d-92a8-46bd-9e0a-1c45d899c68d,Phyllanthus gvjjepw,Gentle Kerala Phyllanthus Seed (Respiratory),Solanaceae,Ayurveda,Immune,Low,Traditional
+3b9b2c74-bad7-4392-b4ef-f5dd9cd4373e,Hypericum tqfkerd,Sacred Amazon Hypericum Elixir (Diabetes),Zingiberaceae,Unani,Metabolic,Moderate,Preclinical
+c34d0709-e109-4be1-aef8-0f780d243625,Rauwolfia tuvyrha,White Himalayan Rauwolfia Infusion (Cardiovascular),Araliaceae,Ayurveda,Inflammation,High,Clinical
+cb96b7cc-323a-487b-bd99-b5adac64e356,Ocimum emrqxvo,Sacred Kerala Ocimum Flower (Liver),Araliaceae,Western Herbal,Respiratory,High,Clinical
+72cd60ce-6a4e-4f01-b46d-a211a361d08a,Calendula dqneoqf,Healing Saharan Calendula Bark (Metabolic),Solanaceae,African Traditional,Immune,Low,Clinical
+55012f63-86f6-4b69-99ac-7d0440a82c17,Zingiber zvzmkdi,Desert Himalayan Zingiber Bark (Liver),Rutaceae,Unani,Metabolic,Moderate,Preclinical
+d1031ac0-4128-48aa-b01f-00115e451bf5,Azadirachta cazgmxu,Green Andean Azadirachta Resin (Digestive),Solanaceae,Ayurveda,Skin,High,Clinical
+e4368595-9c9e-4091-a905-8d5b9d6b8a42,Taraxacum nvcpyag,Gentle Saharan Taraxacum Extract (Sleep),Zingiberaceae,African Traditional,Cognitive,High,Clinical
+38a7aecb-5f4e-4518-98c0-ce5a2ecc5d78,Berberis umydjfj,Strong Balkan Berberis Tonic (Liver),Fabaceae,TCM,Skin,Moderate,Clinical
+04accfd2-259c-4b9f-a26a-7938d5725501,Harpagophytum tonivbh,White Bengal Harpagophytum Flower (Digestive),Lamiaceae,African Traditional,Respiratory,Moderate,Traditional
+b99d8d41-ee50-4f80-b496-bef1b9ba2a2f,Cassia lqgntqg,Sacred Yunnan Cassia Seed (Cardiovascular),Araliaceae,Unani,Cognitive,Low,Preclinical
+6a500c76-ac3d-4910-91a0-d2ff04d03ae6,Withania ujlfdyp,Forest Atlas Withania Seed (Metabolic),Araliaceae,Western Herbal,Stress,Low,Clinical
+0b0a971e-ad46-49be-a2b8-d439d0fc914e,Phyllanthus rxfghgj,Strong Balkan Phyllanthus Essence (Respiratory),Araliaceae,Amazonian,Inflammation,High,Traditional
+dc825429-afcf-45ba-b1fc-0a32a01aef70,Zingiber vkhkcjv,Resilient Nile Zingiber Essence (Skin),Solanaceae,Ayurveda,Sleep,Moderate,Traditional
+2ee3140a-d32d-469b-a99e-11b5df6027e8,Adhatoda pcsvico,Vital Kerala Adhatoda Infusion (Respiratory),Zingiberaceae,Amazonian,Skin,Moderate,Traditional
+1130c189-c3b0-4b5d-a1e5-08feda15d86e,Inula shzswzm,Fragrant Bengal Inula Essence (Cognitive),Asteraceae,Western Herbal,Metabolic,Moderate,Preclinical
+95e13d31-1d9f-48ea-a229-961ce9dc785e,Inula epigncy,Soothing Saharan Inula Leaf (Stress),Asteraceae,Unani,Cognitive,Low,Preclinical
+25f3f344-a49a-4aaf-8dde-01421168a7c4,Phyllanthus ktvuxph,Golden Atlas Phyllanthus Leaf (Digestive),Solanaceae,Ayurveda,Cognitive,Moderate,Preclinical
+5f8d33db-7777-4c42-a50b-3e231670a5c2,Salvia wkskjth,Rare Atlas Salvia Flower (Digestive),Fabaceae,Amazonian,Inflammation,Moderate,Clinical
+60c7aae8-f183-4eb4-bec1-482fe97708a0,Trigonella fmasiji,Fragrant Himalayan Trigonella Leaf (Diabetes),Solanaceae,African Traditional,Skin,Moderate,Traditional
+940e9b1b-c547-4d33-99cf-379effc935ee,Centella viufxxg,White Mediterranean Centella Rhizome (Immune),Fabaceae,African Traditional,Cardiovascular,Low,Clinical
+f0b1e1d7-792b-44e1-9ce2-22eb07ff7d83,Silybum ibecoqh,River Amazon Silybum Rhizome (Liver),Solanaceae,African Traditional,Sleep,Moderate,Clinical
+f459d2ed-6e78-42a9-8977-7296d076aeec,Moringa fbumaks,Silver Atlas Moringa Rhizome (Stress),Fabaceae,Amazonian,Metabolic,Low,Clinical
+7e6b2d90-6f67-4bc2-b27d-1f5102cea708,Alpinia jwamxzp,Purifying Sichuan Alpinia Tonic (Metabolic),Lamiaceae,Western Herbal,Skin,Moderate,Traditional
+c6eac5f6-07c1-40ad-9b51-a17b2c253673,Artemisia paayrhw,Strong Amazon Artemisia Resin (Stress),Rosaceae,African Traditional,Liver,Moderate,Traditional
+c0a1d95f-114b-489c-b4da-25eec04adaa2,Cinnamomum fvbpztr,Vital Bengal Cinnamomum Root (Stress),Solanaceae,Amazonian,Stress,Low,Clinical
+e9d4e8a5-cdaf-4284-beec-25d0c1051c91,Polygonum kwxanpn,Golden Himalayan Polygonum Bark (Inflammation),Rutaceae,African Traditional,Stress,Low,Preclinical
+a5610f8f-409c-4ca8-8ba0-c3710c8b4065,Passiflora usgzauu,Fragrant Saharan Passiflora Root (Metabolic),Rosaceae,TCM,Digestive,High,Traditional
+5bc4ec6d-b7aa-4772-9e67-70757ac8a61b,Echinacea utacqkw,Soothing Yunnan Echinacea Bark (Diabetes),Araliaceae,Ayurveda,Liver,Low,Clinical
+23dd2489-5bec-45d6-b536-37be9e6dd8f5,Ephedra olngyxn,Bright Mediterranean Ephedra Tonic (Immune),Rosaceae,TCM,Skin,Moderate,Traditional
+7db8a1d2-80e9-423d-8998-5b5f4f082378,Scutellaria pychomw,Bright Saharan Scutellaria Root (Skin),Fabaceae,Western Herbal,Digestive,Low,Traditional
+e2903838-7a34-4af1-b123-678897c15bef,Berberis agjokdy,Black Mediterranean Berberis Seed (Digestive),Araliaceae,Amazonian,Cognitive,High,Traditional
+5a1af6ca-dfb8-46e8-a364-5870fd4a5fa7,Passiflora ectphga,Purifying Nile Passiflora Flower (Skin),Asteraceae,TCM,Diabetes,Moderate,Traditional
+4c252cef-9499-42b1-a8b3-5afa412620b5,Thymus ktclalp,Desert Balkan Thymus Extract (Stress),Solanaceae,African Traditional,Digestive,High,Preclinical
+28e206fa-0501-47ba-a10b-a14a61669962,Acacia evmfpxt,Mountain Mediterranean Acacia Elixir (Respiratory),Rosaceae,African Traditional,Cardiovascular,Moderate,Preclinical
+26fa672e-31e2-499a-a799-39093627537b,Moringa rhdbifw,Restorative Bengal Moringa Essence (Diabetes),Rosaceae,Western Herbal,Cardiovascular,High,Preclinical
+e621004e-e8c6-4d07-8b4e-cb2ade16415f,Lavandula ytmmwjo,Mountain Bengal Lavandula Leaf (Diabetes),Rosaceae,Amazonian,Stress,Low,Clinical
+c1595d4c-c61d-4de2-8742-d877400e3e79,Hypericum wjckpss,Green Bengal Hypericum Extract (Stress),Solanaceae,Amazonian,Diabetes,High,Traditional
+72503596-f3dc-4d5b-94a9-051355035f4b,Zingiber ukdulfy,Wild Nile Zingiber Rhizome (Immune),Euphorbiaceae,African Traditional,Cardiovascular,Low,Clinical
+4c318baf-5509-43b9-90d8-6a5c232270c2,Angelica bnonptl,Fragrant Nile Angelica Resin (Cognitive),Euphorbiaceae,Amazonian,Diabetes,Low,Clinical
+f69b3936-e7ba-4aee-8ac3-79f4d5e7ce50,Passiflora stvieoq,Black Bengal Passiflora Elixir (Immune),Solanaceae,Amazonian,Inflammation,High,Traditional
+a729e21d-50da-4e86-8fc2-93a5127a93ee,Harpagophytum kklvqej,Forest Balkan Harpagophytum Elixir (Stress),Apiaceae,Ayurveda,Skin,High,Preclinical
+54885b0f-a91d-4a0d-9241-c88c85fd22fd,Berberis thlrsnh,Bright Amazon Berberis Essence (Skin),Poaceae,Ayurveda,Cognitive,High,Preclinical
+95290898-7166-4fad-a8f7-cfc2568b4966,Taraxacum hrphgbe,White Kerala Taraxacum Powder (Liver),Zingiberaceae,Ayurveda,Cardiovascular,High,Preclinical
+06a7a6ee-b89b-4396-950e-aa48a76a9342,Mentha ytvtofl,Sacred Mediterranean Mentha Flower (Cognitive),Araliaceae,Ayurveda,Digestive,Moderate,Clinical
+ec810806-c2e8-471c-95de-5f3d5d6d31df,Berberis tokofrd,Bitter Balkan Berberis Root (Immune),Solanaceae,African Traditional,Sleep,Moderate,Traditional
+226bd44c-0ef3-4de9-9931-56a2b04c6d1a,Terminalia lgkezra,Forest Mediterranean Terminalia Resin (Skin),Rutaceae,African Traditional,Digestive,Low,Traditional
+d783c847-c96c-4f47-81be-58d9c267f105,Acacia wiudwtu,Vital Kerala Acacia Fruit (Diabetes),Apiaceae,Unani,Inflammation,Moderate,Clinical
+4fb4b055-4861-4df6-9117-c5b19f050724,Curcuma uychojx,Gentle Himalayan Curcuma Bark (Inflammation),Zingiberaceae,TCM,Digestive,Moderate,Traditional
+15bec77a-d4c9-42aa-95e6-d0f2730d5ba6,Valeriana gudolzo,Restorative Balkan Valeriana Leaf (Liver),Araliaceae,African Traditional,Inflammation,High,Preclinical
+baf2fdac-6947-4839-9abb-ade2d66597d9,Bacopa vxkakpi,Calming Nile Bacopa Fruit (Respiratory),Asteraceae,Western Herbal,Sleep,High,Preclinical
+f490e724-97d0-4af4-928c-b1cdccc69515,Camellia xaneufg,Golden Yunnan Camellia Powder (Skin),Poaceae,African Traditional,Sleep,High,Preclinical
+a7d03036-eb0e-49e1-b67b-2300c3e85e44,Ficus gnsgngl,Purifying Kerala Ficus Powder (Sleep),Rutaceae,Unani,Cardiovascular,Low,Preclinical
+d5379c86-5a42-4b5d-a1e0-6cb3d1d964db,Asparagus vjjvimk,Golden Mediterranean Asparagus Elixir (Cognitive),Euphorbiaceae,African Traditional,Cardiovascular,Low,Clinical
+5ad49144-0b1c-4b6d-a978-59cfa2371f02,Rhodiola lfbtmiz,Resilient Bengal Rhodiola Seed (Metabolic),Araliaceae,Western Herbal,Stress,Moderate,Preclinical
+ebb2a85b-aa1d-483e-901f-e6ad3f41f9d9,Camellia ffmmrnz,Wild Yunnan Camellia Extract (Inflammation),Solanaceae,Western Herbal,Metabolic,Low,Clinical
+11691893-c5b7-46e7-a0d5-12e3fd468a63,Cassia ohttgqy,Cooling Andean Cassia Seed (Liver),Lamiaceae,African Traditional,Liver,High,Clinical
+28af05c9-a51f-4ba1-a076-94c80b3b8dbc,Uncaria wciqzmj,Cooling Andean Uncaria Powder (Liver),Rosaceae,Unani,Skin,Moderate,Preclinical
+db85c671-a134-4afd-923e-d5359553d4c4,Rhodiola ncypypl,Golden Andean Rhodiola Leaf (Inflammation),Rutaceae,Ayurveda,Stress,Moderate,Clinical
+4a7271e2-dd9a-4187-8131-85e4116b68c7,Thymus nkqfdib,Strong Sichuan Thymus Flower (Respiratory),Lamiaceae,African Traditional,Sleep,Low,Preclinical
+0c5a66f8-08de-4aa3-afc0-c5d5086cc987,Trigonella ctxdptz,Golden Mediterranean Trigonella Rhizome (Skin),Araliaceae,African Traditional,Cardiovascular,High,Preclinical
+e7f3bc17-6b5b-4943-b84a-0f4962227a57,Moringa cjncowq,Strong Bengal Moringa Infusion (Skin),Euphorbiaceae,Western Herbal,Respiratory,Moderate,Clinical
+2736acde-c13d-428e-959b-a04023b8f720,Alpinia zhjnckr,Mountain Kerala Alpinia Fruit (Respiratory),Asteraceae,Amazonian,Liver,Moderate,Clinical
+765cca67-4574-4dc0-939f-0f61b147a4b3,Moringa vulhwrs,Soothing Andean Moringa Fruit (Liver),Fabaceae,Western Herbal,Skin,Moderate,Clinical
+bcd1cfd0-513b-4f77-ab3e-00f54eb0525b,Camellia qmyxpgw,Bitter Mediterranean Camellia Leaf (Cardiovascular),Fabaceae,Amazonian,Cardiovascular,Low,Clinical
+cbdd6c0b-b221-4baf-9a7f-ed3daeb67f68,Artemisia mttjlqb,Ancient Sichuan Artemisia Rhizome (Diabetes),Zingiberaceae,TCM,Cardiovascular,Moderate,Traditional
+71d3d729-f6e8-4be4-9403-06d32193d168,Rhodiola vgdsegq,Purifying Andean Rhodiola Seed (Skin),Rutaceae,Unani,Digestive,High,Clinical
+d6e6f448-2631-42e2-b63e-7644e8863040,Terminalia xvesapr,River Amazon Terminalia Root (Metabolic),Asteraceae,Unani,Skin,Moderate,Preclinical
+8f607241-5cf2-4320-8fbc-1afb7ba0b3d8,Boswellia rarojek,Mountain Balkan Boswellia Tonic (Liver),Rosaceae,Western Herbal,Cognitive,Low,Preclinical
+9276eff2-c983-4927-b564-1bd8ab59a16d,Andrographis mhgexpy,Green Atlas Andrographis Extract (Digestive),Solanaceae,Ayurveda,Metabolic,Low,Clinical
+ea267e31-5ca2-4941-951b-2df41a8e2afa,Angelica dumdxgi,Golden Himalayan Angelica Seed (Liver),Solanaceae,Ayurveda,Metabolic,High,Traditional
+e5cef420-4c05-49ac-a1da-4543ee1d4352,Alpinia awogtge,Fragrant Bengal Alpinia Leaf (Digestive),Fabaceae,Western Herbal,Digestive,Moderate,Clinical
+7206e62f-3a80-45bb-babc-3af085519050,Silybum cvcmhho,Healing Kerala Silybum Root (Sleep),Asteraceae,Ayurveda,Skin,Low,Traditional
+24164697-10b8-456d-b74f-eb257699045f,Withania fjqqgyo,Cooling Amazon Withania Seed (Metabolic),Poaceae,Amazonian,Liver,Moderate,Preclinical
+244649e4-9fe7-42db-b5ef-198fab0eabef,Asparagus ngeggya,Wild Nile Asparagus Tonic (Digestive),Euphorbiaceae,Ayurveda,Stress,Low,Clinical
+17ad1d40-7ab5-48cf-b9f1-a90fa62b0ba9,Adhatoda ggycogn,Purifying Andean Adhatoda Tonic (Diabetes),Rutaceae,Western Herbal,Cardiovascular,High,Traditional
+4df7469f-c57c-4edb-aea7-8131d4c272e2,Terminalia iovnvku,Red Atlas Terminalia Elixir (Liver),Rutaceae,Western Herbal,Cognitive,High,Preclinical
+db349f92-ad6d-4908-b55e-e44769892e94,Gymnema bslamzi,White Balkan Gymnema Fruit (Cardiovascular),Euphorbiaceae,Ayurveda,Inflammation,Moderate,Preclinical
+781f81a7-909e-44e2-8c25-6db5739f0403,Thymus udrupmy,Sacred Kerala Thymus Infusion (Inflammation),Apiaceae,Unani,Skin,High,Clinical
+699480cf-1fa9-4bf5-ad9f-1a974227d5e1,Aloe hkffslc,Restorative Yunnan Aloe Extract (Respiratory),Rosaceae,Ayurveda,Immune,Moderate,Clinical
+ea5e425d-eb87-4f88-a8c2-f91159db01e6,Harpagophytum lzifdgg,Fragrant Balkan Harpagophytum Infusion (Skin),Zingiberaceae,Unani,Cognitive,Moderate,Traditional
+c074c4ee-86dc-4f27-a3ef-024fc50147ba,Taraxacum hepvwed,Green Sichuan Taraxacum Leaf (Immune),Poaceae,Ayurveda,Digestive,Moderate,Traditional
+81e24576-4509-4819-842e-023d3de2660a,Salvia hhrvqeh,White Kerala Salvia Rhizome (Cardiovascular),Solanaceae,African Traditional,Immune,High,Traditional
+dd6c5b76-e934-4d31-9fb7-691706c6c544,Inula atzbmos,White Nile Inula Powder (Cognitive),Euphorbiaceae,African Traditional,Stress,High,Preclinical
+a03d2621-abb3-4416-9696-eb5fffd165c1,Thymus rzewznc,Red Mediterranean Thymus Tonic (Respiratory),Zingiberaceae,Unani,Liver,Moderate,Traditional
+e1c660b3-5078-41f1-851f-c802994b4b97,Gymnema ahsqjbo,Desert Atlas Gymnema Flower (Digestive),Zingiberaceae,African Traditional,Digestive,Moderate,Clinical
+c9f55e66-3788-4314-8af4-05165cfc183a,Moringa oqcqzke,Resilient Atlas Moringa Resin (Skin),Euphorbiaceae,Unani,Skin,Low,Preclinical
+5bce4972-6cad-4796-8e03-24348db80fa5,Aloe qpykpei,Desert Himalayan Aloe Tonic (Respiratory),Lamiaceae,African Traditional,Respiratory,Low,Preclinical
+101d917d-d239-4525-a3ed-cc6e953e377e,Zingiber cvocbhs,Red Atlas Zingiber Extract (Digestive),Solanaceae,TCM,Skin,Moderate,Traditional
+7604ca45-05aa-4f03-8429-44155addae7c,Aloe qdtukmg,Strong Bengal Aloe Root (Respiratory),Euphorbiaceae,Amazonian,Skin,High,Preclinical
+e6e07934-0913-4d3f-9966-74b3dab0bd46,Uncaria itqqovo,Ancient Atlas Uncaria Extract (Cardiovascular),Zingiberaceae,Unani,Sleep,Low,Clinical
+47e488d0-df4d-4ea0-8531-3d4b9dabddbd,Acacia ygxjmpt,Red Yunnan Acacia Powder (Sleep),Zingiberaceae,Amazonian,Inflammation,High,Preclinical
+a4f7c5d5-d169-4619-9143-d3094e8e7c43,Echinacea fctotbw,Healing Balkan Echinacea Bark (Cognitive),Araliaceae,Unani,Inflammation,High,Clinical
+a55d4ffc-870a-4c43-990a-db731576c0ac,Taraxacum kevegfs,Rare Nile Taraxacum Powder (Respiratory),Euphorbiaceae,Unani,Skin,Moderate,Traditional
+07de6d9c-cb5e-4e7d-860a-563de3b535c3,Polygonum mkwkccw,Strong Himalayan Polygonum Rhizome (Stress),Rosaceae,Ayurveda,Cardiovascular,Moderate,Traditional
+8107639e-87ed-4dbe-8437-3bf6091c77bf,Aegle ivqvqxa,Gentle Atlas Aegle Tonic (Sleep),Apiaceae,Ayurveda,Respiratory,High,Traditional
+563b8d03-ccc6-4db6-bc01-007fa331fd3e,Azadirachta vgebjns,Forest Atlas Azadirachta Seed (Immune),Rosaceae,TCM,Stress,Moderate,Traditional
+8b0d58a8-4f36-437f-ace4-728ee65695d9,Plantago swnucym,Purifying Saharan Plantago Leaf (Digestive),Solanaceae,Western Herbal,Digestive,High,Preclinical
+aea9c892-471e-47d2-91ad-141306971acd,Ocimum csqujqm,Black Kerala Ocimum Infusion (Cognitive),Asteraceae,Ayurveda,Skin,High,Traditional
+cff8c5d6-2f2c-4b9f-a120-22e36758a09a,Panax bykjbxc,Bitter Himalayan Panax Tonic (Diabetes),Solanaceae,Amazonian,Inflammation,High,Preclinical
+afd2bc90-dc12-4889-9a57-76e7624f411c,Salvia frxezkx,Bright Saharan Salvia Elixir (Inflammation),Rosaceae,Western Herbal,Cognitive,High,Preclinical
+e0ef8503-c3c6-4a69-9bb8-dc8ed77607c7,Achillea jbvvrky,Ancient Sichuan Achillea Flower (Metabolic),Asteraceae,Ayurveda,Metabolic,High,Preclinical
+0ab9a99e-bff7-4eef-a4ff-0f45ae9021bd,Artemisia fuztxpu,Calming Saharan Artemisia Extract (Stress),Rosaceae,Unani,Skin,Moderate,Traditional
+c674ddfa-40f8-4d92-aaab-ecc3d517cbf7,Aloe jzdqbre,Black Himalayan Aloe Flower (Metabolic),Araliaceae,African Traditional,Metabolic,Moderate,Traditional
+e61de29b-55c7-490b-ba6a-d3438487384b,Cassia sigjqyq,Bitter Nile Cassia Fruit (Liver),Lamiaceae,Western Herbal,Cognitive,Moderate,Traditional
+dd58ddd7-d132-4e52-822b-7efcf2070e53,Withania prtkkbe,Black Nile Withania Extract (Metabolic),Fabaceae,African Traditional,Diabetes,Low,Preclinical
+8c2c321a-1dae-46cd-8523-2b6802f1c89d,Echinacea kivnkrp,Cooling Amazon Echinacea Extract (Diabetes),Araliaceae,Ayurveda,Immune,Low,Preclinical
+e485d608-8b5c-462c-9b62-3cdbf492ddeb,Acacia ovtjbdx,Ancient Nile Acacia Flower (Respiratory),Lamiaceae,Unani,Respiratory,Moderate,Preclinical
+4935bb4e-eec0-4265-9046-969398a0e4ee,Acorus rqkkfqn,Golden Nile Acorus Tonic (Digestive),Apiaceae,African Traditional,Respiratory,Moderate,Traditional
+8a31abee-800a-4cc6-9be2-ba09ba15f9c1,Echinacea eecfrkw,Restorative Himalayan Echinacea Rhizome (Cognitive),Asteraceae,Unani,Immune,Low,Preclinical
+08ddd524-aae4-4a43-98a0-ae4d78389e15,Phyllanthus sdlpnba,Vital Mediterranean Phyllanthus Leaf (Metabolic),Rosaceae,Amazonian,Cognitive,Low,Traditional
+e59146c3-cd52-4225-bf2e-dfc3e9f26241,Cassia crtliba,Rare Himalayan Cassia Infusion (Immune),Fabaceae,Western Herbal,Sleep,Moderate,Preclinical
+3f8a0767-5062-442d-8e75-00860989a026,Cassia bpnvnbi,Bitter Balkan Cassia Tonic (Sleep),Araliaceae,Ayurveda,Cognitive,High,Clinical
+6d119e4b-0e95-48d3-83e6-d20816809616,Thymus iasbhsn,River Nile Thymus Seed (Respiratory),Rutaceae,Western Herbal,Immune,Low,Preclinical
+df79a517-35bd-4d72-9a74-3d8609a214a2,Centella cdttynq,Restorative Atlas Centella Essence (Metabolic),Euphorbiaceae,Ayurveda,Cognitive,Low,Clinical
+62d6fe2d-220c-47d3-b009-703c699e4f9d,Curcuma bqgmgah,Cooling Atlas Curcuma Root (Inflammation),Poaceae,Western Herbal,Immune,Low,Traditional
+d6141a2b-4254-47ec-9194-231eff4a4680,Rhodiola oelazkm,Green Andean Rhodiola Leaf (Inflammation),Araliaceae,Amazonian,Cardiovascular,Moderate,Clinical
+4c1d818d-7794-43b0-8395-9a7daeed1d58,Lavandula mrcrpuf,Bitter Bengal Lavandula Resin (Inflammation),Asteraceae,Western Herbal,Respiratory,Low,Traditional
+dce39f98-f76f-4430-9e0c-2dfc266a39c0,Angelica gopkaxi,Gentle Balkan Angelica Extract (Cognitive),Solanaceae,African Traditional,Skin,Low,Traditional
+ccd70447-f9f5-41dc-8e1c-63b55735424a,Azadirachta evgzbla,Purifying Balkan Azadirachta Infusion (Liver),Zingiberaceae,Amazonian,Stress,Low,Traditional
+46a3d8e1-c13f-4ad3-8219-3ee99b4f300a,Inula igmbnzx,Red Saharan Inula Seed (Sleep),Apiaceae,Amazonian,Digestive,Moderate,Clinical
+2090e423-42a5-420c-b54a-4e8a3df72db6,Echinacea xtkdari,Golden Yunnan Echinacea Bark (Skin),Rutaceae,Western Herbal,Stress,Moderate,Preclinical
+6208493e-3d7d-4056-bfed-2d7179269e55,Salvia ozzvpty,Mountain Saharan Salvia Elixir (Sleep),Rosaceae,TCM,Liver,High,Clinical
+e0878d49-69b7-4d8f-af91-8e1c71888d1f,Cassia vmfhibu,River Yunnan Cassia Root (Sleep),Rutaceae,Ayurveda,Diabetes,Low,Clinical
+1dc6c7ad-96b1-4ca0-9ff7-f2d0b8ad328f,Uncaria fgqkjpq,Mountain Atlas Uncaria Infusion (Skin),Asteraceae,Western Herbal,Metabolic,Moderate,Traditional
+357e7c0b-864d-4a73-a735-0fbeb21d6e6a,Cinnamomum imcnixw,Ancient Atlas Cinnamomum Bark (Cardiovascular),Asteraceae,Ayurveda,Skin,Low,Preclinical
+dce64c79-9a5b-465f-a993-f2bfc0b5936e,Berberis dbgupik,White Himalayan Berberis Powder (Cardiovascular),Rosaceae,Western Herbal,Inflammation,High,Clinical
+70d28511-9ee0-41d2-8c9a-10b489d2fc54,Ephedra yyyrzlv,Calming Andean Ephedra Infusion (Inflammation),Asteraceae,Amazonian,Metabolic,Moderate,Traditional
+44b44845-19c0-4028-ace4-07d302dde92c,Polygonum mzlvpvf,Sacred Andean Polygonum Extract (Sleep),Rosaceae,Unani,Stress,Low,Preclinical
+5fecdfb5-b212-4660-8d96-4a5c1e43e081,Polygonum pxbmwvi,Rare Amazon Polygonum Tonic (Immune),Lamiaceae,Amazonian,Respiratory,Moderate,Preclinical
+bc1cc164-6e92-4583-a0b4-ef964737d952,Centella jiceytg,Cooling Balkan Centella Seed (Immune),Lamiaceae,African Traditional,Respiratory,High,Preclinical
+35165bf3-dba0-4d57-bfd7-e4d7b816a5e7,Ephedra acnwlsx,Red Andean Ephedra Bark (Diabetes),Rutaceae,TCM,Skin,Low,Preclinical
+bf7e4326-b8ce-4e21-a987-5c7aecd0a747,Lavandula wdzeqvu,Golden Balkan Lavandula Essence (Diabetes),Solanaceae,TCM,Diabetes,High,Traditional
+1ce131c1-eb96-4df4-bc49-d27f63c8d5c3,Rauwolfia khshuwd,Green Andean Rauwolfia Seed (Digestive),Araliaceae,African Traditional,Diabetes,Moderate,Preclinical
+1fd0f6b1-7d5e-4556-a8c4-b797344f8b40,Alpinia erfuafn,Desert Atlas Alpinia Extract (Skin),Rosaceae,TCM,Respiratory,High,Traditional
+92422e7b-5b48-4bc2-8521-078a96d5f6f4,Harpagophytum ykguwua,Resilient Saharan Harpagophytum Powder (Inflammation),Araliaceae,Ayurveda,Skin,Low,Preclinical
+af843512-30f3-4029-882c-a3fc94765879,Adhatoda qpenmmx,Purifying Atlas Adhatoda Leaf (Respiratory),Fabaceae,Unani,Sleep,Low,Clinical
+361229b5-8e23-4e6c-84ff-091911ad8188,Harpagophytum vntcbkg,Red Nile Harpagophytum Flower (Diabetes),Rosaceae,Unani,Stress,Moderate,Traditional
+09c14146-653b-47a4-aa0e-d6995f5a26db,Achillea xxqkqtv,Sacred Kerala Achillea Elixir (Sleep),Fabaceae,Unani,Metabolic,High,Clinical
+e29e2f12-2d9c-4f1e-a9b8-ad3ce67d9f69,Moringa aprrabl,Mountain Balkan Moringa Bark (Skin),Euphorbiaceae,TCM,Inflammation,Moderate,Clinical
+812a8cd2-5cf6-42a4-b8b6-df522bb0b27a,Cinnamomum pocweao,Healing Yunnan Cinnamomum Tonic (Stress),Rosaceae,Unani,Respiratory,High,Clinical
+1bff3e0c-a84f-4cf7-b170-54bc6a2a00be,Tinospora hgjuefo,Rare Amazon Tinospora Seed (Sleep),Zingiberaceae,African Traditional,Immune,Low,Traditional
+7654e49a-c347-4b50-bada-7e3c6f8472ff,Ficus bddmwkz,River Mediterranean Ficus Fruit (Skin),Poaceae,Ayurveda,Liver,Moderate,Clinical
+cde8cc86-48a6-4516-bcb8-88361d2c2db6,Bacopa hsmbjek,Green Saharan Bacopa Fruit (Cognitive),Asteraceae,Western Herbal,Liver,Low,Traditional
+7d8dfda0-503e-4973-b201-1d5d674c890f,Harpagophytum hawctux,Vital Andean Harpagophytum Extract (Liver),Lamiaceae,Amazonian,Diabetes,High,Clinical
+981ee9bb-83e7-4a73-9981-28e0d42e96b9,Passiflora ktgkpyq,Vital Himalayan Passiflora Root (Sleep),Rutaceae,African Traditional,Liver,Moderate,Traditional
+656a5436-737f-445f-8578-a0ec9765343b,Achillea drmavik,Black Yunnan Achillea Extract (Immune),Solanaceae,African Traditional,Liver,Moderate,Preclinical
+cd228820-0d02-4fca-8755-bba16fd905da,Plantago ngjmuix,Purifying Andean Plantago Elixir (Cardiovascular),Poaceae,Unani,Stress,Low,Traditional
+f1fbba27-632c-4144-bced-040c22e45619,Terminalia sxqrwld,White Andean Terminalia Resin (Respiratory),Apiaceae,Unani,Diabetes,High,Preclinical
+373ae3ad-8465-4c89-970b-046174cde2e5,Centella rhfarqc,Golden Kerala Centella Rhizome (Metabolic),Solanaceae,Unani,Metabolic,Low,Preclinical
+cde635fa-1f25-4f0d-898c-ba7b3bb21126,Cassia dqhloec,Silver Kerala Cassia Root (Cognitive),Araliaceae,TCM,Cardiovascular,Moderate,Traditional
+34de8abb-850e-4a8a-a620-e77e0da497ab,Achillea skotesf,Strong Balkan Achillea Powder (Respiratory),Asteraceae,African Traditional,Respiratory,High,Traditional
+348116fa-5be5-4461-86ef-23c977a34229,Ephedra emfruuy,Black Atlas Ephedra Flower (Digestive),Fabaceae,Unani,Diabetes,Low,Preclinical
+87cb0fe8-3220-4e7c-ab44-e4ee412d78d4,Ginkgo lrhdnyq,Wild Atlas Ginkgo Root (Skin),Euphorbiaceae,Western Herbal,Cardiovascular,Low,Traditional
+95a46a7a-d4b3-4bc4-8ec8-0a573d4b5d93,Glycyrrhiza jrotbcf,Healing Saharan Glycyrrhiza Fruit (Skin),Rutaceae,Unani,Cardiovascular,High,Preclinical
+82aa29da-84e9-45f5-93da-e030cce5eaa7,Trigonella lxjgjxw,Fragrant Himalayan Trigonella Infusion (Diabetes),Rutaceae,Unani,Sleep,Moderate,Clinical
+1caa9a6d-49bd-40ab-b56e-09264c76bdff,Moringa nrngsmx,Golden Nile Moringa Rhizome (Sleep),Rutaceae,Western Herbal,Stress,High,Preclinical
+17754856-de0f-4294-afd1-8abba77c4c1a,Cinnamomum xpiogkj,Sacred Andean Cinnamomum Infusion (Sleep),Euphorbiaceae,Amazonian,Diabetes,High,Clinical
+7b560012-ffd9-4f0c-9c65-bb4f11907fdd,Moringa qdvtbqf,Strong Yunnan Moringa Rhizome (Digestive),Asteraceae,Unani,Respiratory,High,Traditional
+f8bc2e7b-c00f-43ac-ab5c-cdbe0551bd68,Plantago mtevjmi,Cooling Amazon Plantago Root (Cognitive),Rosaceae,Amazonian,Immune,Low,Preclinical
+2bad6212-7c03-4318-bb0a-256abb802773,Hypericum yerunip,Fragrant Balkan Hypericum Fruit (Skin),Apiaceae,Western Herbal,Cognitive,Low,Clinical
+1613ad76-e41d-45d5-b98c-d0d8ef48e2a1,Silybum xevyklw,Resilient Mediterranean Silybum Essence (Sleep),Lamiaceae,TCM,Respiratory,Low,Preclinical
+3054e93d-957d-4ab0-8fd0-647a810ca62c,Inula ptucmqd,Calming Atlas Inula Elixir (Immune),Solanaceae,Amazonian,Cardiovascular,Low,Traditional
+eac6f960-ceeb-48d7-8bb7-d48999b45ed7,Asparagus psmywlm,White Atlas Asparagus Seed (Digestive),Lamiaceae,Ayurveda,Liver,Moderate,Preclinical
+eef9d92e-16c8-4a6a-8288-8796a2adab53,Ficus wbfezmb,Mountain Himalayan Ficus Extract (Cardiovascular),Fabaceae,Western Herbal,Diabetes,Low,Clinical
+cbb74cd7-8f08-49e8-a20f-ec894ab5aa70,Withania qehgyqg,Mountain Amazon Withania Leaf (Inflammation),Poaceae,Amazonian,Diabetes,Low,Traditional
+3e33526b-5d9e-4638-90bb-480e673bcf12,Tinospora qjjrqdx,Strong Saharan Tinospora Extract (Skin),Lamiaceae,TCM,Immune,High,Clinical
+2cf0750d-08f8-4017-a079-82ec7aa9935d,Gymnema boocdrg,Ancient Mediterranean Gymnema Flower (Metabolic),Fabaceae,Unani,Respiratory,Low,Clinical
+0c4f65f1-28a4-4725-8937-5bae2f155e70,Lavandula czzaqyw,River Kerala Lavandula Flower (Metabolic),Araliaceae,Unani,Metabolic,Moderate,Traditional
+c1352bc2-ac2c-4c12-b66f-dba395cfc873,Aegle jcziqkb,Ancient Kerala Aegle Leaf (Skin),Rosaceae,Western Herbal,Liver,Low,Traditional
+856779da-fc43-48de-a0f5-109d14344812,Curcuma tzscaij,Resilient Himalayan Curcuma Leaf (Cognitive),Rosaceae,Unani,Liver,High,Clinical
+99d166ca-7389-49d3-a12d-0a957c38fac9,Camellia uzlwgfl,Black Andean Camellia Powder (Respiratory),Solanaceae,African Traditional,Sleep,Low,Preclinical
+cf03a6cb-30c3-4297-9f31-14b3f7124f1f,Centella lemjnry,Gentle Nile Centella Tonic (Liver),Araliaceae,Ayurveda,Sleep,High,Traditional
+1d25c7ac-7944-4cc1-b545-37727803ee72,Trigonella uyyjxur,Cooling Himalayan Trigonella Bark (Digestive),Lamiaceae,Western Herbal,Stress,High,Preclinical
+0febf450-e81f-44a3-8b90-5dbe1541065a,Panax yivchit,White Mediterranean Panax Flower (Immune),Asteraceae,Ayurveda,Stress,Moderate,Preclinical
+dd8a8194-3b78-4c8e-b7cc-7a45fdec9d3f,Azadirachta lamrfza,Red Andean Azadirachta Flower (Skin),Poaceae,Unani,Respiratory,Low,Preclinical
+80b9b9ba-53d4-4296-af1d-94cdca6fc34b,Moringa zgflure,Silver Bengal Moringa Powder (Skin),Rutaceae,African Traditional,Stress,Moderate,Clinical
+cfcc34da-380c-4fb0-b6ac-2dabe7f8f232,Mentha wnpnpbb,Gentle Andean Mentha Extract (Cardiovascular),Asteraceae,African Traditional,Stress,Moderate,Clinical
+65395a94-d28e-4c69-a0de-aa9894fe7956,Trigonella iyfldcu,Wild Amazon Trigonella Resin (Immune),Euphorbiaceae,Unani,Cardiovascular,High,Clinical
+dba45e1e-1aca-4076-84e0-91d14c51bd22,Ocimum ugrcbud,Gentle Saharan Ocimum Tonic (Digestive),Lamiaceae,Amazonian,Stress,Moderate,Clinical
+11a2a621-e75b-4d4f-aa00-e4ef6ca79487,Silybum qrlgbrr,Vital Yunnan Silybum Elixir (Cognitive),Euphorbiaceae,Western Herbal,Cardiovascular,High,Clinical
+c25e394e-b485-4830-a5eb-2cd5e1359545,Calendula uexmeje,Resilient Sichuan Calendula Powder (Stress),Solanaceae,Unani,Digestive,Moderate,Preclinical
+1aee2238-d99a-43e6-bc22-b6d9e1d568db,Achillea oifqaqu,Red Andean Achillea Rhizome (Respiratory),Rosaceae,Unani,Respiratory,Moderate,Traditional
+378a6d9e-704d-486a-b0d4-76a34b225d2b,Artemisia jtqftvm,Black Nile Artemisia Tonic (Immune),Poaceae,Amazonian,Respiratory,Low,Traditional
+325993fc-8b61-41b0-8418-148f6884725b,Gymnema umzahzv,Black Amazon Gymnema Flower (Cognitive),Solanaceae,Western Herbal,Digestive,High,Clinical
+a3b8eb8c-91f7-47be-a8c3-72841895f015,Trigonella ldhomit,Resilient Himalayan Trigonella Leaf (Inflammation),Rosaceae,Unani,Inflammation,Low,Clinical
+55c6878b-528d-4064-8a67-263962158a58,Panax gszrgzt,Golden Sichuan Panax Tonic (Skin),Fabaceae,Western Herbal,Stress,High,Clinical
+5972aa0d-b3ac-44d4-8abb-4991a8f875fc,Panax bprynve,Silver Nile Panax Resin (Skin),Zingiberaceae,Unani,Metabolic,Low,Traditional
+7a7ba5a4-9534-42ef-ba9a-a21d5c3874e1,Scutellaria ycevoib,Gentle Saharan Scutellaria Bark (Immune),Apiaceae,African Traditional,Liver,Moderate,Traditional
+12d330fa-d34e-4765-97a7-84c2571415ff,Acorus bqogecc,Wild Sichuan Acorus Infusion (Metabolic),Araliaceae,TCM,Immune,High,Traditional
+ffddaed4-632e-49b1-9109-669855f2bb6d,Harpagophytum wxjpkku,Golden Nile Harpagophytum Resin (Digestive),Araliaceae,TCM,Sleep,High,Clinical
+ce0b3fda-5548-4c5c-baa1-078e5e9403ab,Terminalia ofiwxdy,Rare Himalayan Terminalia Resin (Sleep),Euphorbiaceae,African Traditional,Immune,High,Traditional
+de09f16f-57cf-4c74-9b46-f5e49221bdfd,Mentha okxwzsg,Forest Saharan Mentha Leaf (Cardiovascular),Asteraceae,Western Herbal,Cardiovascular,High,Traditional
+e4c6610c-4e7d-4f33-9b15-06b0d81888f4,Glycyrrhiza dshtyai,Resilient Andean Glycyrrhiza Root (Respiratory),Rutaceae,African Traditional,Respiratory,High,Traditional
+e1fcced5-e7c0-42b4-935e-6bc73cca6f45,Passiflora nchmfry,Mountain Bengal Passiflora Seed (Respiratory),Euphorbiaceae,Unani,Cardiovascular,Moderate,Preclinical
+60d75054-f0d7-4181-9869-a369f6f16ad4,Mentha lghezzc,Gentle Sichuan Mentha Fruit (Liver),Zingiberaceae,Amazonian,Stress,High,Preclinical
+c558ce4f-9b02-4d6c-917d-c994c14abe2f,Aloe kmravyg,Black Atlas Aloe Extract (Stress),Poaceae,Ayurveda,Diabetes,Low,Clinical
+bbbc0eb9-e719-4f39-8c63-be15c5af5c74,Trigonella szlcusx,Vital Bengal Trigonella Seed (Liver),Zingiberaceae,African Traditional,Sleep,Low,Traditional
+b4238063-cfcb-4df6-ace1-d5af92b00e0f,Salvia llcnbrs,Gentle Kerala Salvia Flower (Stress),Lamiaceae,Amazonian,Sleep,Moderate,Clinical
+d967bea9-57e4-4d05-8c6e-d8aed7192b66,Ocimum fyshlbo,Green Nile Ocimum Seed (Inflammation),Lamiaceae,Ayurveda,Cardiovascular,High,Preclinical
+53a7d0f4-2c1c-4f12-9f36-0b3d38f98aa5,Rauwolfia pjxfeuq,Restorative Balkan Rauwolfia Powder (Cognitive),Rosaceae,Amazonian,Stress,High,Clinical
+f8ad4aaa-ca22-4ecb-92a0-1a6d4411f665,Gymnema mrgadzg,Calming Saharan Gymnema Bark (Stress),Zingiberaceae,TCM,Inflammation,Moderate,Clinical
+d826c093-3daf-470f-a6dd-c159ab018aa9,Passiflora rkxdmrs,Silver Himalayan Passiflora Fruit (Skin),Zingiberaceae,TCM,Inflammation,Moderate,Traditional
+10fd77db-5e29-407c-95f1-3c03650a709a,Ginkgo vuspclq,Silver Balkan Ginkgo Resin (Stress),Solanaceae,TCM,Respiratory,Moderate,Clinical
+fac602f7-4aaf-4aec-a9b6-9cb28a4d5b5f,Camellia qirfaih,Strong Sichuan Camellia Root (Respiratory),Araliaceae,Unani,Metabolic,High,Traditional
+f1f1c823-f597-419b-8587-738e36641634,Curcuma irmbhyz,Soothing Mediterranean Curcuma Essence (Respiratory),Apiaceae,Unani,Sleep,Moderate,Traditional
+100f08f3-1bff-4f3d-b9b3-e4f82a5a6edd,Lavandula fvqzaup,Calming Kerala Lavandula Leaf (Liver),Apiaceae,Unani,Liver,Moderate,Clinical
+44dd46f2-40b4-48bf-95dc-33abe61373d9,Centella ioegcgi,Silver Nile Centella Powder (Metabolic),Rosaceae,TCM,Digestive,Low,Clinical
+6d2674c1-7db1-4dec-9486-472a8d8d34bc,Salvia ilusfiy,Healing Nile Salvia Infusion (Skin),Euphorbiaceae,TCM,Inflammation,Low,Clinical
+ae9aac82-c9c0-485a-894a-d7fb496031b0,Harpagophytum nzeqnvk,Rare Yunnan Harpagophytum Tonic (Cognitive),Rutaceae,Ayurveda,Skin,Low,Traditional
+1055d8da-793e-4a84-8d98-c23c996aa5d6,Gymnema nkoxuam,Silver Atlas Gymnema Bark (Cardiovascular),Rutaceae,Western Herbal,Sleep,High,Clinical
+33bb55f2-df22-402c-8287-5265fe3832a5,Mentha brjjghk,Restorative Mediterranean Mentha Resin (Sleep),Zingiberaceae,Western Herbal,Liver,Low,Preclinical
+25ed0570-02d7-4b21-86dd-8da49a8d41d9,Valeriana yedvwpg,Cooling Yunnan Valeriana Rhizome (Cardiovascular),Solanaceae,African Traditional,Liver,Moderate,Traditional
+2c094284-7a9e-4317-bab1-b7564a9d1edf,Plantago hywnyjm,Gentle Yunnan Plantago Rhizome (Skin),Fabaceae,Unani,Skin,Moderate,Clinical
+aad8381d-cf3f-41f6-84eb-e655778d49d2,Polygonum xbukuln,Cooling Andean Polygonum Infusion (Cognitive),Poaceae,Western Herbal,Diabetes,Moderate,Traditional
+9d472534-9654-4017-b27a-5af9ff19385f,Valeriana aikrrrh,Healing Kerala Valeriana Resin (Immune),Solanaceae,Unani,Respiratory,Low,Preclinical
+ba4f5a0f-90b2-41e6-b901-ebe87e025f36,Thymus wzcbscc,Bitter Andean Thymus Tonic (Metabolic),Fabaceae,African Traditional,Cognitive,Low,Clinical
+1e450f64-db6b-4e40-9001-baa96beb966f,Andrographis lprktcs,White Balkan Andrographis Leaf (Digestive),Rutaceae,Ayurveda,Cardiovascular,Low,Clinical
+346a6212-1cca-473a-a818-55a66af0e04f,Gymnema wwcytli,Sacred Saharan Gymnema Tonic (Stress),Rutaceae,Amazonian,Skin,Moderate,Clinical
+11bc6b33-5ccc-4020-8c41-95f1a3e380bb,Adhatoda ohcuwez,Strong Kerala Adhatoda Tonic (Cardiovascular),Zingiberaceae,Ayurveda,Digestive,High,Traditional
+1a05d020-001f-480d-bcaa-2650e485c6c6,Centella htvzhbm,Ancient Mediterranean Centella Infusion (Cognitive),Solanaceae,Unani,Cognitive,High,Preclinical
+e42820aa-06e9-44b4-a6e2-217a3bcd89d5,Azadirachta lzletpu,Healing Andean Azadirachta Rhizome (Diabetes),Solanaceae,Amazonian,Cardiovascular,Moderate,Traditional
+4f40ff1d-be14-4e03-96b0-e81f693000a0,Passiflora quztdzb,White Sichuan Passiflora Root (Inflammation),Solanaceae,Ayurveda,Skin,High,Traditional
+c08775c8-e223-4416-8db4-02d644accc1c,Curcuma qqsccwx,Green Saharan Curcuma Extract (Diabetes),Rosaceae,TCM,Immune,Moderate,Traditional
+b247e7a6-516c-4511-a1f6-dd217fd3557c,Centella diunkgj,Soothing Kerala Centella Bark (Inflammation),Apiaceae,Unani,Cognitive,Moderate,Traditional
+a09fee9b-642f-4749-86e5-d8dfb39e18d8,Valeriana ckuzhch,Bitter Andean Valeriana Resin (Immune),Apiaceae,Unani,Respiratory,High,Preclinical
+51c0ed60-cff0-4a62-b4ec-55de54bd4ff6,Gymnema ozflyhc,Calming Balkan Gymnema Root (Cognitive),Rutaceae,African Traditional,Diabetes,Low,Preclinical
+420928ca-3a9d-4813-9937-fe0afca84b32,Salvia nhqmuyi,Calming Atlas Salvia Resin (Metabolic),Zingiberaceae,African Traditional,Diabetes,High,Traditional
+74bcba46-a259-4b16-8cce-ff6665562d34,Boswellia nbhzkbw,Vital Bengal Boswellia Fruit (Digestive),Lamiaceae,African Traditional,Cardiovascular,Low,Clinical
+f0d59a62-7cc5-400d-8b7d-60a92e5729c8,Harpagophytum mzlcdlo,Vital Andean Harpagophytum Resin (Skin),Poaceae,Western Herbal,Digestive,High,Clinical
+093597a6-7d44-4b19-99ee-310d91e556c2,Taraxacum wxqdbdv,Resilient Yunnan Taraxacum Rhizome (Liver),Apiaceae,Unani,Liver,High,Clinical
+38b18884-875d-4870-9ff4-de661ff4ec50,Artemisia acogfoz,Golden Nile Artemisia Infusion (Inflammation),Fabaceae,Western Herbal,Immune,Moderate,Clinical
+75a11a76-3102-4338-8127-ed024b7f324d,Echinacea qfuynit,Vital Andean Echinacea Root (Skin),Rutaceae,Unani,Liver,High,Preclinical
+0fd198ed-d5aa-492c-aaa5-baab4491be5f,Thymus ukqqvbu,Desert Sichuan Thymus Flower (Sleep),Rutaceae,Western Herbal,Liver,Low,Clinical
+158f616e-0ef2-45a2-9d5d-20ca9425dbd1,Ephedra ahldpyt,Sacred Sichuan Ephedra Fruit (Digestive),Euphorbiaceae,TCM,Diabetes,Moderate,Traditional
+6123c8f7-4df8-47a1-b5f3-c4dfef6b8be7,Cinnamomum skwclng,White Saharan Cinnamomum Bark (Digestive),Apiaceae,Ayurveda,Sleep,Low,Traditional
+91eba18c-b55e-400e-b217-1e31ff700086,Hypericum gqykdug,Calming Amazon Hypericum Elixir (Inflammation),Asteraceae,TCM,Inflammation,Low,Clinical
+bb2bf212-5d70-427d-ae49-fe88e40621e5,Trigonella xvgbuwj,Green Yunnan Trigonella Rhizome (Inflammation),Lamiaceae,Unani,Immune,Moderate,Preclinical
+79383871-8d32-4e41-a772-07f895e3a343,Acorus mfswbph,Resilient Bengal Acorus Leaf (Liver),Zingiberaceae,TCM,Respiratory,Moderate,Preclinical
+14106dee-5e35-467d-837d-0420478db879,Cassia jutwsfn,Bitter Andean Cassia Fruit (Diabetes),Zingiberaceae,TCM,Inflammation,High,Preclinical
+bf78c838-686f-49bf-a3aa-0011401915ec,Ephedra wqcdpzm,Strong Bengal Ephedra Powder (Stress),Rosaceae,Unani,Cardiovascular,High,Preclinical
+9de82fcd-bf5a-4253-9795-20434550377c,Plantago gpmehcq,Forest Sichuan Plantago Elixir (Stress),Rosaceae,Western Herbal,Skin,Low,Preclinical
+51a5c6ff-4243-4178-8f7d-79bd186225cf,Angelica htvxxkg,Forest Atlas Angelica Tonic (Metabolic),Euphorbiaceae,Amazonian,Cardiovascular,High,Preclinical
+1f182552-4237-4944-9ff1-53397ef7c82c,Rhodiola xxqvoth,Rare Mediterranean Rhodiola Fruit (Inflammation),Apiaceae,Unani,Sleep,Moderate,Clinical
+7405b669-2406-413b-9f1f-c8de0159e272,Centella vucwtdt,Gentle Himalayan Centella Root (Cardiovascular),Solanaceae,Unani,Cognitive,Moderate,Traditional
+67914b43-de34-4c10-9157-3301e951bbff,Hypericum yfpxwaa,Black Sichuan Hypericum Seed (Sleep),Asteraceae,TCM,Cardiovascular,Moderate,Preclinical
+b5cf6368-2a3c-4931-8003-55051bf226f2,Ginkgo vlhrqcx,Rare Himalayan Ginkgo Elixir (Cognitive),Zingiberaceae,Amazonian,Liver,High,Traditional
+284bae7d-7fc0-4080-ba27-c66b15272171,Mentha bpfgwwu,Strong Balkan Mentha Powder (Metabolic),Rosaceae,African Traditional,Diabetes,High,Traditional
+b2377fb5-7efa-4da1-936a-405ffe3cb54d,Inula fyjnree,Vital Bengal Inula Essence (Skin),Rutaceae,Amazonian,Digestive,High,Preclinical
+2b2a00c8-afdf-48d3-ab3f-0d35acc5eb79,Ephedra rcwhqim,Soothing Andean Ephedra Resin (Immune),Araliaceae,TCM,Cardiovascular,High,Traditional
+94b46408-930b-4a14-93f8-d9ec17cd8796,Trigonella yrosccj,Bright Amazon Trigonella Extract (Sleep),Euphorbiaceae,TCM,Stress,High,Clinical
+e43fe569-9dee-4fdb-b8f7-f747fa1eec35,Salvia jetmivw,Sacred Saharan Salvia Extract (Diabetes),Rosaceae,Unani,Metabolic,Moderate,Traditional
+66dff394-679e-444e-92a8-67266cba043b,Polygonum zbhuiqs,Green Mediterranean Polygonum Rhizome (Inflammation),Rutaceae,Unani,Cognitive,High,Clinical
+cbfa73cb-32e8-4c1f-bfe1-1badca1c3a7c,Rhodiola neyqdbd,Resilient Andean Rhodiola Extract (Inflammation),Euphorbiaceae,Amazonian,Digestive,High,Traditional
+ace11d59-dab2-414f-8d6a-89200ed7d627,Camellia dqdfjqx,Desert Andean Camellia Leaf (Cardiovascular),Asteraceae,Unani,Skin,Moderate,Preclinical
+ee69e645-39a9-4218-937f-9c10c012deed,Zingiber dcqnhwn,Gentle Nile Zingiber Tonic (Immune),Lamiaceae,Amazonian,Sleep,Low,Preclinical
+ea93023d-3356-4d1e-ab14-c333093a8e49,Salvia cisknvp,Golden Yunnan Salvia Powder (Metabolic),Zingiberaceae,TCM,Diabetes,High,Traditional
+4ed47da7-2741-4c2c-8dcd-002fe982b600,Ficus lbpvayu,Bright Sichuan Ficus Rhizome (Skin),Rutaceae,TCM,Sleep,High,Clinical
+4f977777-3920-4e00-9fc1-33edde677866,Rhodiola xjsoiml,Black Atlas Rhodiola Essence (Cognitive),Apiaceae,Amazonian,Immune,Low,Clinical
+fa3d1b32-ec32-4e75-9276-413d9c6fe2df,Artemisia lgzbgmw,Desert Kerala Artemisia Powder (Cognitive),Araliaceae,Ayurveda,Sleep,Low,Traditional
+0e304aa9-b4e4-4107-9d6f-7368cd5ca9fe,Curcuma zaaerwd,Black Mediterranean Curcuma Bark (Sleep),Solanaceae,African Traditional,Stress,Moderate,Preclinical
+5c0b9981-4e8c-4c8e-a886-a1ae6b88695c,Uncaria vjxazoa,Green Yunnan Uncaria Fruit (Sleep),Asteraceae,Western Herbal,Cardiovascular,Moderate,Traditional
+d5d04dc2-71f7-45d2-82f5-aaadcfc5cdb5,Ficus gbhoqaz,Golden Mediterranean Ficus Resin (Sleep),Zingiberaceae,Ayurveda,Inflammation,High,Clinical
+eb16a91f-51d0-44f6-9700-f0706e2f9f6f,Artemisia snmaagn,Black Yunnan Artemisia Resin (Respiratory),Fabaceae,Western Herbal,Cardiovascular,Low,Preclinical
+6b915087-fd5a-4a64-b78d-f6e19b0a4162,Aegle ejaxchg,White Mediterranean Aegle Extract (Immune),Rutaceae,Amazonian,Stress,High,Traditional
+c6593119-e01a-4ac6-aa26-ef0e3971ac06,Echinacea luwxzcd,Black Amazon Echinacea Fruit (Cardiovascular),Asteraceae,Amazonian,Inflammation,Low,Preclinical
+757c6a61-eb71-43a1-8f7c-4a8991fd52f4,Terminalia eqdpnzl,Green Yunnan Terminalia Flower (Metabolic),Rutaceae,Western Herbal,Liver,Moderate,Clinical
+caea201d-613f-455f-a6ca-4575238c62e8,Lavandula sudcdoy,Purifying Saharan Lavandula Resin (Digestive),Apiaceae,Unani,Metabolic,Low,Traditional
+251cb37c-ef22-4c8e-a3e7-51801c6eb1c0,Inula qlrnafy,Ancient Balkan Inula Fruit (Digestive),Araliaceae,Amazonian,Sleep,High,Clinical
+e54f5118-e21b-4e58-a957-c228326fa055,Acacia kanvvkl,Restorative Sichuan Acacia Rhizome (Immune),Euphorbiaceae,Unani,Respiratory,Low,Clinical
+7dcdb1ea-dbae-4793-8a69-ac4a843ebecd,Berberis opclqzf,Green Himalayan Berberis Root (Immune),Araliaceae,African Traditional,Diabetes,Moderate,Traditional
+6265f52a-8534-40ad-b59e-49e62c5d87e7,Achillea jrlbfwt,Restorative Atlas Achillea Extract (Respiratory),Poaceae,Western Herbal,Digestive,Low,Clinical
+d06bfc39-9593-4db4-8976-10f395cb7e0b,Acacia qjbpwix,Ancient Bengal Acacia Bark (Digestive),Lamiaceae,Western Herbal,Respiratory,High,Clinical
+e28fb92b-9079-4c61-804e-920874b842cc,Acacia wdldbnj,Wild Bengal Acacia Rhizome (Cognitive),Rosaceae,Ayurveda,Digestive,Moderate,Clinical
+a79f712b-f512-4619-9cae-339687480ee1,Asparagus dahvdnw,Ancient Nile Asparagus Flower (Digestive),Rutaceae,Amazonian,Inflammation,High,Preclinical
+32d8b4d5-2986-4509-946b-12fca40d9286,Aegle eevnypc,Mountain Yunnan Aegle Elixir (Immune),Zingiberaceae,Amazonian,Diabetes,Moderate,Preclinical
+f2641430-2bde-4dbf-9502-b25ebe010fbb,Curcuma crdcuge,Mountain Bengal Curcuma Elixir (Digestive),Euphorbiaceae,TCM,Liver,High,Preclinical
+18a3a3cb-1031-48ff-b2ef-1ef688ed0214,Inula ehkisde,Vital Bengal Inula Leaf (Cardiovascular),Araliaceae,Unani,Immune,Moderate,Clinical
+6d78575b-6e4c-45a3-88e0-ead0af17261e,Curcuma zaqsrde,Golden Balkan Curcuma Extract (Immune),Rutaceae,Amazonian,Stress,High,Preclinical
+5404d139-24a3-47b0-b8c6-aa713df9382b,Berberis tlgueaq,Sacred Amazon Berberis Flower (Cognitive),Fabaceae,Ayurveda,Liver,High,Clinical
+11085341-15ce-499e-9976-4a83e9a04d1c,Alpinia cacuxnt,Forest Kerala Alpinia Seed (Metabolic),Euphorbiaceae,Ayurveda,Liver,High,Preclinical
+859e2e48-e3b1-4e8c-8a25-119bcff4e074,Glycyrrhiza ukasowp,Forest Himalayan Glycyrrhiza Resin (Immune),Rosaceae,African Traditional,Inflammation,High,Clinical
+6938723b-7c35-4723-82ae-4dd38b848282,Inula ivzmaro,Fragrant Amazon Inula Flower (Cognitive),Zingiberaceae,Amazonian,Metabolic,Low,Clinical
+df92f540-9d98-4e06-a1eb-4c25f980cc78,Taraxacum swavpkp,White Andean Taraxacum Elixir (Skin),Euphorbiaceae,TCM,Inflammation,Moderate,Preclinical
+391c4257-44d8-4237-868e-3294b17999c1,Acacia klarkht,Cooling Bengal Acacia Bark (Immune),Asteraceae,Ayurveda,Stress,High,Preclinical
+22321646-21ff-4106-bc03-3d51bef5e685,Aloe ipxnnar,Golden Mediterranean Aloe Bark (Liver),Rosaceae,TCM,Liver,Low,Preclinical
+3711d6c0-01c2-401c-9e59-dc761f30cb51,Rauwolfia kfvygnb,Bitter Balkan Rauwolfia Root (Digestive),Asteraceae,Unani,Cardiovascular,Moderate,Preclinical
+e3df7820-1f1f-4628-bce5-a12a67b3d254,Gymnema hrtflmm,Vital Andean Gymnema Bark (Respiratory),Fabaceae,Amazonian,Sleep,Moderate,Preclinical
+ab60512e-ea85-42f2-876b-2747c874a929,Ginkgo brrzlkl,Green Mediterranean Ginkgo Essence (Inflammation),Asteraceae,Unani,Cognitive,Low,Clinical
+af8d1d24-0299-4e87-9225-d818f1c21aa7,Rauwolfia sulvsai,River Saharan Rauwolfia Leaf (Cognitive),Zingiberaceae,Amazonian,Immune,Low,Traditional
+934ba072-c82a-40d5-aa52-1ae6398b2f6e,Terminalia fezcpyl,Black Atlas Terminalia Powder (Liver),Apiaceae,African Traditional,Metabolic,Low,Clinical
+66b4e3de-9162-41a5-890f-32e2ade2a994,Aloe edwluqo,Sacred Saharan Aloe Essence (Cognitive),Solanaceae,African Traditional,Skin,Low,Preclinical
+090ab98c-28cd-4de9-b8d8-41c25d4ced55,Passiflora xjydivy,Healing Yunnan Passiflora Essence (Inflammation),Zingiberaceae,Amazonian,Digestive,High,Preclinical
+b54ae46d-bea0-4a56-8dea-17c0a448eee0,Camellia rotywuo,Vital Nile Camellia Resin (Inflammation),Araliaceae,TCM,Stress,Moderate,Traditional
+7547a8f6-f299-473a-9e58-1cf9899d915d,Silybum yaqsvll,Resilient Amazon Silybum Bark (Diabetes),Euphorbiaceae,Ayurveda,Digestive,Low,Clinical
+93d64801-7b9e-4947-9fa5-377c50dd8844,Cinnamomum wvmqjct,Healing Kerala Cinnamomum Extract (Stress),Apiaceae,TCM,Diabetes,Moderate,Traditional
+84ec30d2-7947-4de8-9ad2-5e0d087a9b0b,Glycyrrhiza nwxfbyc,Ancient Yunnan Glycyrrhiza Powder (Respiratory),Zingiberaceae,Unani,Stress,High,Traditional
+dd6e881f-2e98-4d60-9e88-6fa26191a8c2,Plantago kuqcfcd,Ancient Sichuan Plantago Resin (Liver),Solanaceae,Amazonian,Metabolic,Moderate,Clinical
+424f5b56-086b-4cbe-bf87-8708e0f73c15,Zingiber tqtenfs,Black Himalayan Zingiber Elixir (Liver),Poaceae,Western Herbal,Inflammation,High,Clinical
+06d8c315-6d6a-4be2-bf99-0d72e0e577fe,Centella csaczog,Ancient Andean Centella Resin (Cognitive),Solanaceae,Amazonian,Metabolic,Low,Traditional
+d18b1010-b322-482b-ab80-ffb42c696008,Berberis huwmqzl,Golden Bengal Berberis Fruit (Respiratory),Lamiaceae,African Traditional,Respiratory,High,Traditional
+4c655b2e-1ba2-4afb-9284-56a3d3ce78fd,Trigonella wqaxkuw,Gentle Amazon Trigonella Fruit (Sleep),Zingiberaceae,Ayurveda,Cognitive,Moderate,Preclinical
+a20e4322-2baf-45d4-ae23-23c20f6d04c9,Centella pbaovpo,Cooling Sichuan Centella Extract (Cardiovascular),Araliaceae,Western Herbal,Cognitive,Moderate,Preclinical
+a21e7ce5-2d4c-4091-b145-27acb2e32bc0,Phyllanthus tqirtdg,River Saharan Phyllanthus Root (Stress),Solanaceae,Amazonian,Immune,High,Clinical
+8500a6db-4db6-470d-8361-0690728cc632,Valeriana uynfrmk,Black Balkan Valeriana Fruit (Sleep),Araliaceae,TCM,Cognitive,Low,Preclinical
+dbbe435d-5e17-460d-9456-7f86b263cac2,Zingiber jnmkefs,Fragrant Kerala Zingiber Extract (Diabetes),Araliaceae,Ayurveda,Liver,High,Traditional
+ba909aab-8761-41e7-8eca-b298fb3bb49b,Achillea lasgdsn,Wild Mediterranean Achillea Elixir (Liver),Euphorbiaceae,Amazonian,Sleep,Low,Preclinical
+15c0c86d-4f9b-4d60-95c4-47f3cb7dce9e,Azadirachta mwoyccm,Sacred Saharan Azadirachta Essence (Respiratory),Euphorbiaceae,Western Herbal,Respiratory,High,Traditional
+12988add-4389-4074-a10a-e63a607327c5,Taraxacum isfintj,Sacred Bengal Taraxacum Fruit (Cardiovascular),Rutaceae,Ayurveda,Diabetes,High,Traditional
+cf3edb3c-4c72-4d83-9c58-f4e023680476,Harpagophytum rcuhngt,Wild Bengal Harpagophytum Leaf (Digestive),Asteraceae,Western Herbal,Sleep,Moderate,Preclinical
+8e4d2642-5b42-448f-9e1c-a764ebce0a22,Ficus ynjlwut,Calming Saharan Ficus Powder (Respiratory),Rutaceae,Ayurveda,Cognitive,Moderate,Clinical
+317ec856-01a0-4c66-aa29-3c95054182f3,Scutellaria dwkbezj,Vital Saharan Scutellaria Fruit (Digestive),Fabaceae,Unani,Metabolic,Low,Traditional
+95ab4f63-b29f-4554-8710-8f8fa4ca51a1,Valeriana hfovryt,Wild Bengal Valeriana Root (Liver),Fabaceae,Amazonian,Stress,Low,Clinical
+f6c0e67a-a8c9-4d02-9934-d13acd39a734,Terminalia aqbcfqm,Bright Bengal Terminalia Leaf (Immune),Euphorbiaceae,Amazonian,Stress,Moderate,Traditional
+57d91487-cd3d-42b8-8bfd-3de7e1aecf37,Berberis kgdptgc,Bright Sichuan Berberis Fruit (Immune),Araliaceae,African Traditional,Skin,Moderate,Traditional
+5580023a-1844-4caa-8f61-4d4780c00ae3,Moringa dtahirc,Wild Kerala Moringa Leaf (Cardiovascular),Apiaceae,African Traditional,Diabetes,High,Clinical
+362ca9f9-d492-4fd2-9b98-61d65dd2d8f2,Echinacea wgukbnq,River Balkan Echinacea Root (Diabetes),Euphorbiaceae,Ayurveda,Diabetes,Moderate,Preclinical
+e578f7ec-2069-41cc-88df-624f1d8fc935,Zingiber jbccylz,Gentle Andean Zingiber Fruit (Metabolic),Rutaceae,Ayurveda,Immune,Moderate,Preclinical
+a9b02244-4d88-4ef2-99fa-3b78f1fc2bfc,Andrographis yqjtmhp,Cooling Balkan Andrographis Fruit (Inflammation),Solanaceae,Amazonian,Cardiovascular,Moderate,Traditional
+3ec60d8f-7d7a-4d42-85eb-0841ccf0ad21,Alpinia pdvyohy,Purifying Amazon Alpinia Resin (Cardiovascular),Zingiberaceae,Unani,Metabolic,High,Clinical
+a8d830db-1b99-41f6-951b-591c561a9b4d,Thymus eqaavsq,Bitter Himalayan Thymus Powder (Skin),Euphorbiaceae,Unani,Liver,Moderate,Preclinical
+cd25c108-ea5c-4649-8cb8-c4f4cf9b0910,Centella msrsnsj,Cooling Atlas Centella Tonic (Digestive),Araliaceae,Ayurveda,Stress,Moderate,Traditional
+84ea9655-b99c-4719-8068-b3bafbd0809e,Passiflora rpcdzsd,Purifying Nile Passiflora Resin (Metabolic),Euphorbiaceae,Ayurveda,Immune,Moderate,Clinical
+696a6d6d-c255-4e5c-afbb-8465f9600ec4,Ginkgo rwcscor,Purifying Himalayan Ginkgo Extract (Liver),Rutaceae,TCM,Liver,High,Traditional
+fc45b5c6-51f2-4509-9317-9508496594bb,Ginkgo zfweuow,Silver Kerala Ginkgo Elixir (Inflammation),Asteraceae,TCM,Respiratory,High,Traditional
+3c461b7f-82ce-4a66-9a27-ef56eac4d2b8,Inula fpavoeu,Purifying Balkan Inula Powder (Inflammation),Araliaceae,Amazonian,Cognitive,Moderate,Traditional
+ac9cea3f-babb-460d-91d9-4ab99685bf45,Trigonella vecuhmy,Purifying Amazon Trigonella Extract (Cardiovascular),Zingiberaceae,Western Herbal,Diabetes,Low,Clinical
+9a14e4f2-7874-4c68-8d82-7573ff4afdce,Zingiber yukwhfo,Soothing Nile Zingiber Root (Cardiovascular),Solanaceae,Amazonian,Cognitive,High,Traditional
+d1250f18-a61d-4cdf-9abd-bdb9af4571ea,Ginkgo obclcwl,Bitter Mediterranean Ginkgo Bark (Cognitive),Asteraceae,Western Herbal,Respiratory,High,Clinical
+2746bc9d-4669-4b80-ab79-d5c9f3b356a2,Camellia tbkfcei,Cooling Himalayan Camellia Powder (Sleep),Solanaceae,Ayurveda,Inflammation,High,Clinical
+3a1e2580-9701-4797-adcb-bbd2f5f7924b,Lavandula vkdncvs,Desert Saharan Lavandula Flower (Cognitive),Euphorbiaceae,Amazonian,Digestive,Moderate,Preclinical
+3b98175e-d3e7-4b3e-a8cd-8bdada5533a7,Aloe vwcbidk,Calming Yunnan Aloe Seed (Liver),Apiaceae,Unani,Diabetes,Moderate,Clinical
+903d8a84-5bfe-4430-9dca-785b2eec2d95,Phyllanthus ruafvcq,Bitter Yunnan Phyllanthus Extract (Stress),Solanaceae,Ayurveda,Cardiovascular,High,Clinical
+ff0dcfea-3327-4776-a7c4-c46027c8763c,Cinnamomum efzuvki,Silver Saharan Cinnamomum Seed (Stress),Euphorbiaceae,African Traditional,Digestive,High,Clinical
+e3edb173-fb56-43e4-8426-256c5160f852,Zingiber axshxou,Silver Balkan Zingiber Leaf (Immune),Poaceae,African Traditional,Sleep,High,Clinical
+528a416b-65ea-4e9c-94cd-82cb59bb3126,Ephedra torxgko,Rare Himalayan Ephedra Essence (Inflammation),Euphorbiaceae,Amazonian,Immune,High,Traditional
+b64e8eba-32fe-402d-b7bb-3f8d45b6e903,Aegle zoxjafb,Mountain Yunnan Aegle Resin (Liver),Euphorbiaceae,Ayurveda,Sleep,Moderate,Preclinical
+89dc6091-c9a3-44cb-8842-c2c0a4af0999,Ephedra ehdrazs,Calming Himalayan Ephedra Tonic (Digestive),Asteraceae,Unani,Sleep,Low,Traditional
+86e2b9b9-cb01-4ffa-a698-303caeaaa814,Scutellaria ffelths,Cooling Kerala Scutellaria Tonic (Sleep),Solanaceae,Western Herbal,Cognitive,Moderate,Traditional
+74457bed-2d4c-4cdf-b72a-6961b6900ebd,Calendula lapveoz,Golden Yunnan Calendula Fruit (Inflammation),Asteraceae,Western Herbal,Immune,Low,Traditional
+7459e68a-d54a-470a-a1cb-33e5c8805d21,Uncaria kflagxe,Bitter Andean Uncaria Rhizome (Liver),Asteraceae,Western Herbal,Skin,Low,Traditional
+80824c74-2f61-4da7-a13b-653da210f5d3,Ocimum kggiill,Silver Atlas Ocimum Infusion (Inflammation),Lamiaceae,Western Herbal,Cardiovascular,High,Preclinical
+e70a9eb2-6e28-4ad0-b356-10e9b910fa80,Adhatoda cbapaxg,Gentle Balkan Adhatoda Bark (Diabetes),Zingiberaceae,Amazonian,Diabetes,High,Clinical
+3d61203f-b26a-4218-bac8-faa20591027e,Glycyrrhiza siplhkn,Strong Saharan Glycyrrhiza Fruit (Liver),Araliaceae,Western Herbal,Inflammation,Low,Preclinical
+2b2a5629-9b1f-4f97-9e3e-f3a7b6870ebc,Tinospora ktjovrp,Restorative Andean Tinospora Tonic (Cardiovascular),Fabaceae,Amazonian,Respiratory,High,Preclinical
+66f0de05-7f76-41f4-a2e4-39daa0593a86,Achillea dvdicog,Purifying Atlas Achillea Leaf (Metabolic),Euphorbiaceae,African Traditional,Immune,Moderate,Clinical
+41ab7c25-db78-476f-ad10-4edc6fc752ff,Harpagophytum lrddhrb,Wild Amazon Harpagophytum Powder (Metabolic),Asteraceae,Western Herbal,Sleep,Low,Preclinical
+cf243ea6-7e54-4efc-a987-f8422916713a,Harpagophytum cmgvpal,Black Mediterranean Harpagophytum Powder (Cognitive),Rosaceae,Amazonian,Cardiovascular,Low,Traditional
+7bbbd637-4665-465f-a521-505fdc3603dc,Ephedra zmhxxax,Green Amazon Ephedra Rhizome (Diabetes),Araliaceae,Amazonian,Skin,High,Preclinical
+d4e01b84-1c04-4dfe-b032-026070fd42ec,Withania upgzxbc,Restorative Andean Withania Leaf (Diabetes),Solanaceae,TCM,Sleep,High,Preclinical
+14778881-d7f6-46bd-8e7d-f94ca286a053,Ginkgo itfhdjs,Healing Kerala Ginkgo Bark (Skin),Solanaceae,Amazonian,Skin,High,Traditional
+c7956c13-da22-46ed-83b0-a2d50725b5e9,Ocimum cwnyldh,Bitter Sichuan Ocimum Seed (Metabolic),Asteraceae,Western Herbal,Stress,High,Preclinical
+3055d5a5-0b08-49ec-aeb6-0d18e29be178,Boswellia xaatfnl,Rare Nile Boswellia Seed (Inflammation),Zingiberaceae,Unani,Stress,High,Preclinical
+63c89b50-1b84-418f-87af-576fb5f7e0b6,Achillea sehkjpo,Black Saharan Achillea Extract (Inflammation),Rutaceae,Ayurveda,Immune,Moderate,Clinical
+8b63c8a6-203c-4eff-b0b3-2b3ba8904c26,Tinospora xkqiwae,Wild Amazon Tinospora Tonic (Metabolic),Euphorbiaceae,African Traditional,Cardiovascular,Moderate,Preclinical
+98de83eb-da11-4298-b1c3-f3e12dfc3203,Aegle ueuyukq,Ancient Amazon Aegle Powder (Sleep),Apiaceae,Unani,Diabetes,High,Traditional
+d2fe4e3d-4be5-4186-867c-ef5206209cd5,Scutellaria kbuorxu,Mountain Himalayan Scutellaria Leaf (Immune),Poaceae,Ayurveda,Diabetes,High,Preclinical
+3ce7c349-abc0-4403-bcb5-0f96ef6d593a,Acacia xetmuvf,Vital Yunnan Acacia Extract (Stress),Lamiaceae,Western Herbal,Sleep,High,Preclinical
+11e8dd18-66bf-4e0d-bf60-ed7886658713,Cassia xzzexdk,White Yunnan Cassia Fruit (Metabolic),Fabaceae,Western Herbal,Immune,High,Preclinical
+680794ee-dca9-4204-8248-51e337559efd,Andrographis dntcnnr,Desert Yunnan Andrographis Seed (Respiratory),Araliaceae,Amazonian,Inflammation,High,Preclinical
+c5bbb1cd-0b96-4106-8e4c-3e4edcc97145,Ephedra ztwpkzt,Sacred Amazon Ephedra Flower (Immune),Apiaceae,Western Herbal,Respiratory,High,Preclinical
+a1584984-9b8c-432c-9f14-eb9443cb3548,Ocimum gkohwpj,Silver Atlas Ocimum Flower (Cardiovascular),Rutaceae,Ayurveda,Digestive,Low,Traditional
+422a3ed4-d0f1-4f8d-afbe-66184e6cf0b3,Polygonum jojyixa,Red Kerala Polygonum Seed (Metabolic),Poaceae,African Traditional,Immune,Moderate,Preclinical
+d6ca7300-f739-4d49-8776-9601e12f5216,Valeriana jftpeea,Bright Bengal Valeriana Tonic (Liver),Zingiberaceae,Ayurveda,Liver,Low,Traditional
+d0c99839-b326-4238-890f-51edded7c1db,Thymus mioodxo,Green Balkan Thymus Fruit (Cardiovascular),Apiaceae,Amazonian,Immune,High,Preclinical
+528c053c-32ab-41c4-8424-97655ecc8688,Trigonella zwfdwlm,Mountain Kerala Trigonella Infusion (Diabetes),Araliaceae,TCM,Liver,Moderate,Clinical
+9aa61483-5082-416d-9329-97e979e77e2a,Passiflora boygcdp,Vital Yunnan Passiflora Essence (Skin),Rutaceae,Ayurveda,Immune,Low,Traditional
+cb5ba647-685b-4ce8-a27a-25229d62dada,Scutellaria rthaccz,Bright Mediterranean Scutellaria Rhizome (Cardiovascular),Poaceae,Unani,Skin,Low,Traditional
+78d455da-81da-4728-a53b-29cbc7786ecc,Gymnema hgclxhh,Calming Bengal Gymnema Tonic (Liver),Solanaceae,African Traditional,Cardiovascular,High,Preclinical
+4888c08c-1c29-412e-bad5-8c978718b90b,Scutellaria oqhdduq,Soothing Yunnan Scutellaria Extract (Sleep),Poaceae,Unani,Cognitive,Low,Clinical
+adca1d3f-9a68-43e2-96bd-f897b3ba5b04,Withania himfsap,Ancient Kerala Withania Infusion (Cardiovascular),Euphorbiaceae,African Traditional,Metabolic,Low,Clinical
+b8ef3ba0-41b5-4676-b8e0-b1d774aebf60,Berberis sfouvmt,Cooling Balkan Berberis Seed (Diabetes),Araliaceae,African Traditional,Respiratory,Moderate,Preclinical
+4dc15c7d-a59d-4e95-b774-81d9cb8e626a,Acacia egvchzx,Cooling Atlas Acacia Resin (Stress),Lamiaceae,Ayurveda,Diabetes,Low,Preclinical
+60ee9d7d-2035-4c66-96ca-dc1b18466bbc,Curcuma cfozwrn,Silver Amazon Curcuma Rhizome (Digestive),Apiaceae,African Traditional,Liver,Low,Clinical
+5d7e634a-902b-4ec0-a269-be6215a79c07,Ginkgo iekweij,Resilient Yunnan Ginkgo Rhizome (Cognitive),Solanaceae,Ayurveda,Inflammation,Low,Traditional
+06d5252c-bbf1-44cb-8f77-e095c2ff9509,Ginkgo tjgeehg,Cooling Bengal Ginkgo Seed (Cardiovascular),Zingiberaceae,African Traditional,Cardiovascular,Moderate,Traditional
+c1832b1a-8859-4c44-a8b6-8f1e7c3bd707,Cassia bkltfjw,Green Bengal Cassia Rhizome (Digestive),Poaceae,TCM,Immune,Moderate,Preclinical
+0df4820d-b95d-424b-b851-08e10f87be12,Berberis jogcvjp,Purifying Bengal Berberis Infusion (Inflammation),Araliaceae,Ayurveda,Skin,Low,Clinical
+17da2558-365a-4926-bedf-80c874bd6775,Phyllanthus uvrsstx,River Andean Phyllanthus Extract (Skin),Fabaceae,TCM,Stress,Low,Clinical
+df4cec94-cabb-4c64-9ef7-479312376997,Artemisia nfozeik,Green Nile Artemisia Root (Respiratory),Asteraceae,TCM,Cardiovascular,Low,Traditional
+6258f139-c240-4ca0-93f4-cf20ed69d0d0,Angelica zrbnznq,Mountain Balkan Angelica Essence (Cardiovascular),Araliaceae,African Traditional,Sleep,Moderate,Clinical
+a256e991-7383-4e2c-815f-c9bf37a7c1e9,Moringa mhxwdwg,Calming Andean Moringa Fruit (Liver),Euphorbiaceae,Amazonian,Respiratory,High,Traditional
+8f59534a-338a-47d9-b287-2c8d06675bd9,Centella huqkwdr,Calming Bengal Centella Extract (Diabetes),Asteraceae,Ayurveda,Diabetes,Moderate,Traditional
+51a9fa15-4a97-4e55-ae2d-999dcfeda931,Achillea vujeqhz,Soothing Bengal Achillea Rhizome (Cognitive),Lamiaceae,TCM,Immune,Moderate,Clinical
+33482625-eacd-4643-a527-214bb667eb0f,Aegle cusruuk,Wild Balkan Aegle Essence (Skin),Asteraceae,Ayurveda,Stress,Moderate,Clinical
+19127f7e-ce60-4bee-a93d-f093af94e934,Calendula slglwfx,Resilient Amazon Calendula Rhizome (Diabetes),Rosaceae,Amazonian,Sleep,Moderate,Clinical
+3e2a36ab-4162-4e66-9816-d9f4a3afa2c7,Plantago fqwxtwf,Golden Balkan Plantago Bark (Digestive),Euphorbiaceae,Western Herbal,Sleep,Moderate,Traditional
+81fc6e89-d937-4ce4-8e90-ba68248dfc9d,Polygonum qtcxaai,Soothing Balkan Polygonum Infusion (Sleep),Zingiberaceae,Amazonian,Cardiovascular,Low,Traditional
+e36022da-65f5-4f81-9c3b-07415717e7bb,Echinacea xzgyqfp,Fragrant Bengal Echinacea Essence (Immune),Araliaceae,TCM,Cardiovascular,Moderate,Traditional
+997c76e2-fd1f-4587-8303-e1c7a8f5a88d,Boswellia yynxlbe,Strong Atlas Boswellia Resin (Stress),Rutaceae,Amazonian,Metabolic,Moderate,Traditional
+0511d8f4-02c4-49d3-b551-76aa1d44fe38,Taraxacum ojwwopp,Forest Bengal Taraxacum Root (Sleep),Rutaceae,TCM,Respiratory,Moderate,Clinical
+4193a95f-044f-4fa3-9ec0-0d649ca66781,Adhatoda agjxqft,Fragrant Nile Adhatoda Essence (Liver),Rutaceae,Ayurveda,Liver,High,Clinical
+9e5b733e-b919-4d3d-8f41-d267875cc3f2,Glycyrrhiza oggktnt,Cooling Andean Glycyrrhiza Leaf (Sleep),Fabaceae,Amazonian,Metabolic,Low,Preclinical
+d5727186-b874-45c7-9563-828ef58d8e1c,Moringa esfmgzy,Rare Andean Moringa Powder (Liver),Euphorbiaceae,Western Herbal,Digestive,Moderate,Preclinical
+bfddd6f3-7b2f-4664-a6ba-a51d0a0c5844,Calendula yjfqmht,Rare Balkan Calendula Flower (Liver),Solanaceae,Unani,Sleep,Low,Clinical
+a618108b-6be7-4161-a9f4-325256dd6aee,Harpagophytum ywoebgw,Restorative Saharan Harpagophytum Powder (Cognitive),Fabaceae,Ayurveda,Inflammation,High,Traditional
+0c55538e-1535-4164-aaa9-5f70ce9d303d,Bacopa vvgxenq,Ancient Mediterranean Bacopa Rhizome (Stress),Poaceae,Ayurveda,Cognitive,High,Clinical
+89f10c57-cc7b-4160-972f-6ac25faef708,Curcuma ycrvtmq,Green Sichuan Curcuma Elixir (Liver),Rutaceae,African Traditional,Respiratory,High,Clinical
+86d0d4d9-04f1-4120-92b5-d064562ae66c,Hypericum cxbceob,Forest Nile Hypericum Tonic (Immune),Zingiberaceae,Unani,Respiratory,Low,Preclinical
+00a6e8bc-3567-47b1-a800-59cb8cae62d9,Trigonella ecfsygf,Desert Kerala Trigonella Extract (Diabetes),Rutaceae,TCM,Sleep,High,Preclinical
+74cfdc52-751c-4ccd-ac22-a6bba76adaa3,Gymnema glcekcf,Calming Yunnan Gymnema Rhizome (Liver),Rutaceae,Ayurveda,Stress,High,Clinical
+760f66b5-a95e-4c6f-b636-a1135e39fcc8,Trigonella dtgfgnc,Golden Kerala Trigonella Tonic (Skin),Araliaceae,Unani,Liver,High,Preclinical
+84686c89-d7f6-46bf-ac42-32bae7d83e44,Lavandula hsbersp,Mountain Saharan Lavandula Resin (Diabetes),Solanaceae,Unani,Liver,High,Preclinical
+fe6cf26b-5975-4282-a3d6-85b5bc34c60f,Aloe shvahco,Strong Sichuan Aloe Root (Cardiovascular),Solanaceae,Ayurveda,Diabetes,Moderate,Traditional
+0017cf0f-61fa-48fc-86cb-bf5b7d530a4b,Panax vpsthke,Black Saharan Panax Rhizome (Stress),Zingiberaceae,African Traditional,Cardiovascular,High,Clinical
+dbe14e63-4d6b-4539-b645-db71071fc484,Trigonella gchyhbg,River Andean Trigonella Bark (Cognitive),Zingiberaceae,African Traditional,Liver,High,Clinical
+90ef6b75-ab63-46d5-b0b0-cb2e1dc256fb,Adhatoda shmkqkt,Fragrant Sichuan Adhatoda Rhizome (Inflammation),Rutaceae,TCM,Skin,High,Preclinical
+45c6f175-d199-4f70-b69c-362e03c41970,Artemisia lyrobky,Vital Sichuan Artemisia Infusion (Inflammation),Asteraceae,TCM,Cardiovascular,Moderate,Preclinical
+ac773e47-d7f1-48ed-8829-ff6150a66052,Cinnamomum egvhddf,Ancient Sichuan Cinnamomum Tonic (Digestive),Lamiaceae,African Traditional,Cardiovascular,Moderate,Traditional
+d16969b8-b8a6-44ed-afa9-4129f251af67,Harpagophytum qkucvql,Restorative Sichuan Harpagophytum Flower (Cardiovascular),Rosaceae,Unani,Digestive,Moderate,Preclinical
+6c5f9363-5c0c-4d86-910e-982a77b534a6,Acorus zlqdxjt,Golden Saharan Acorus Powder (Stress),Lamiaceae,Ayurveda,Digestive,High,Preclinical
+43dc0f9d-d5be-47d3-9acd-cea81b6adb36,Salvia okkjgan,Resilient Amazon Salvia Powder (Immune),Asteraceae,Amazonian,Immune,Moderate,Traditional
+17cab4df-1551-4467-b4f8-b28bde76a6a9,Taraxacum jiroaqy,Resilient Nile Taraxacum Bark (Immune),Poaceae,Ayurveda,Stress,Moderate,Preclinical
+c18867e7-6b4a-416b-beae-e5f40f2cd5fc,Aegle qmqznft,Vital Atlas Aegle Resin (Cardiovascular),Apiaceae,African Traditional,Diabetes,Low,Clinical
+e4f39e58-d0bd-45c7-a720-062752128cf7,Cassia saiglud,Silver Mediterranean Cassia Root (Sleep),Poaceae,African Traditional,Cardiovascular,Low,Clinical
+2778b7ac-b091-4bf5-8c05-484ae875d2e3,Valeriana cxybqgs,Ancient Nile Valeriana Root (Skin),Solanaceae,Western Herbal,Liver,Moderate,Clinical
+e47fa583-32ef-47b1-99e9-e5a0c05e7963,Acorus wyuakcj,Wild Kerala Acorus Fruit (Sleep),Poaceae,Unani,Inflammation,Low,Clinical
+db2df65a-4564-4b37-9373-614a29208b13,Lavandula ciwxpjc,Black Saharan Lavandula Rhizome (Skin),Lamiaceae,Unani,Liver,Low,Preclinical
+6c5ce76f-83e3-49a8-9298-6111ffc19e66,Ocimum jalweqa,Bitter Amazon Ocimum Infusion (Cognitive),Araliaceae,African Traditional,Diabetes,Low,Preclinical
+467deac8-bc40-4ee1-8e94-fce2abb19133,Rauwolfia vjayxwi,Wild Sichuan Rauwolfia Essence (Diabetes),Poaceae,African Traditional,Cognitive,Low,Preclinical
+ca914a46-0795-4c7d-a90a-4bb0bb9815bd,Bacopa rqturjx,Purifying Yunnan Bacopa Root (Metabolic),Rosaceae,Ayurveda,Inflammation,Low,Traditional
+76c41e5d-2ff6-44f8-899c-bf13c5954b63,Rhodiola tqxrmyy,Gentle Balkan Rhodiola Powder (Cardiovascular),Zingiberaceae,Ayurveda,Respiratory,High,Traditional
+157428c6-c226-4da6-9212-efa4985a4990,Polygonum jfzizrd,River Atlas Polygonum Extract (Respiratory),Euphorbiaceae,Ayurveda,Metabolic,Moderate,Clinical
+660bff62-f5bb-4bb1-9f97-a49a4ca1264f,Terminalia escsqco,Wild Sichuan Terminalia Flower (Skin),Asteraceae,African Traditional,Immune,Low,Clinical
+e858d810-f765-47e1-98d2-e3cb16b4dd16,Hypericum ubdgavo,Red Mediterranean Hypericum Bark (Metabolic),Araliaceae,Ayurveda,Digestive,Low,Preclinical
+dc008754-69bc-4266-9be5-c25a258a9ad4,Harpagophytum osszxym,Red Atlas Harpagophytum Elixir (Cardiovascular),Poaceae,African Traditional,Metabolic,Moderate,Preclinical
+46a0416d-f080-4c10-87c7-d48bb4974f65,Polygonum orywtvb,White Kerala Polygonum Leaf (Metabolic),Rosaceae,TCM,Cognitive,High,Preclinical
+1d9e63bf-3575-43c4-bdcf-d40b1fe85bfb,Boswellia koqpnaq,Red Yunnan Boswellia Powder (Skin),Rosaceae,Western Herbal,Cardiovascular,High,Traditional
+c327e11a-ef36-4f94-ba55-8ed78148e69d,Alpinia csrevit,Vital Bengal Alpinia Extract (Respiratory),Poaceae,Amazonian,Cognitive,High,Clinical
+4d7707b9-12e4-4b71-a371-657590e1ec88,Hypericum pzdbmak,Vital Bengal Hypericum Essence (Immune),Lamiaceae,African Traditional,Skin,Moderate,Clinical
+00fc8f2c-6cf8-4a3f-8f98-b9460e474f03,Aegle giqiplh,Golden Amazon Aegle Powder (Metabolic),Asteraceae,Western Herbal,Cardiovascular,High,Preclinical
+f0656367-3857-40c8-b8f9-7dc6186b4d3e,Aloe yiobqtv,Vital Nile Aloe Bark (Inflammation),Rosaceae,Western Herbal,Stress,Moderate,Traditional
+f9e4bd18-c5cd-4eec-b061-0f3f4f1036fb,Rhodiola iudrhat,Mountain Atlas Rhodiola Powder (Metabolic),Solanaceae,African Traditional,Stress,Moderate,Clinical
+4b2a3cee-95da-46a4-aa83-3d08dc5caeb2,Gymnema stggfav,Resilient Nile Gymnema Resin (Skin),Apiaceae,Unani,Skin,Moderate,Clinical
+4cbf447b-aea7-4cb1-9fe1-cb86dee13611,Rauwolfia lnkftea,Sacred Yunnan Rauwolfia Flower (Liver),Lamiaceae,African Traditional,Inflammation,Moderate,Traditional
+0878e3c9-2f6e-484f-ba56-eb0298c27dc0,Centella zqlwkme,Wild Atlas Centella Powder (Cardiovascular),Zingiberaceae,Amazonian,Stress,Low,Clinical
+313dcabc-a8c0-4260-ab9e-020e252e02fb,Bacopa amcdwcv,Resilient Himalayan Bacopa Bark (Liver),Apiaceae,Unani,Diabetes,Moderate,Clinical
+de0f75bc-417f-4a5f-85b7-6d79f81b2ec9,Thymus hkptrjt,Red Himalayan Thymus Rhizome (Sleep),Apiaceae,Unani,Stress,High,Preclinical
+099e519d-a93a-4008-9fea-d56523f1346e,Taraxacum kvbmjnn,Wild Saharan Taraxacum Seed (Cardiovascular),Fabaceae,Unani,Digestive,Low,Preclinical
+399e566c-25a7-4ce0-a0a8-4f2b1c076d05,Azadirachta zxqswkb,Gentle Amazon Azadirachta Resin (Inflammation),Rosaceae,Ayurveda,Digestive,Low,Preclinical
+9c5f29a8-8030-4eb5-9532-9e38d34de695,Centella dficqbr,Calming Saharan Centella Leaf (Metabolic),Lamiaceae,Western Herbal,Cardiovascular,Low,Traditional
+852a996f-a76c-4c53-bd86-95a5d26bbe70,Acorus gahxoix,Bitter Amazon Acorus Bark (Sleep),Poaceae,Amazonian,Cardiovascular,Moderate,Preclinical
+6f9798ff-2443-4f24-9fe4-7195ae336616,Phyllanthus umenhgq,Black Himalayan Phyllanthus Resin (Immune),Araliaceae,TCM,Skin,Moderate,Traditional
+95c54822-6bbe-42d2-9060-26753034ac2a,Rhodiola swhqdbl,Gentle Saharan Rhodiola Extract (Cognitive),Rutaceae,African Traditional,Metabolic,Moderate,Traditional
+b0d4de1e-d8ef-4207-bcd6-4128fc889aa4,Asparagus ugrvjrr,Vital Kerala Asparagus Rhizome (Inflammation),Fabaceae,Amazonian,Respiratory,Low,Traditional
+7b108769-fc1a-4e93-b897-f821a30701ed,Hypericum nhlzbhi,Bitter Kerala Hypericum Essence (Liver),Rosaceae,Unani,Respiratory,High,Traditional
+d90cfe4f-1cd6-4c8e-b284-064c85ccfe79,Bacopa nxfktbs,Golden Balkan Bacopa Elixir (Sleep),Fabaceae,Unani,Diabetes,Moderate,Traditional
+965a6524-63dc-47c5-88ba-7a44eca35550,Azadirachta gdpflem,Ancient Amazon Azadirachta Fruit (Skin),Fabaceae,Unani,Metabolic,Low,Preclinical
+08c6f8f2-48f2-43db-ba36-5e9878af1b27,Rhodiola stlzpct,Wild Atlas Rhodiola Leaf (Sleep),Rosaceae,Unani,Respiratory,Moderate,Preclinical
+81bddbfe-0e5a-41b8-b343-816177779871,Lavandula nwqlcpu,Purifying Himalayan Lavandula Seed (Immune),Zingiberaceae,African Traditional,Diabetes,Low,Clinical
+43ca5c46-7c0f-4f18-aec5-d4bcf727d0b2,Achillea nofuuni,Sacred Bengal Achillea Flower (Cognitive),Apiaceae,Amazonian,Liver,Moderate,Preclinical
+63bc6a62-8d57-4d3f-85c4-17a4150a09a0,Rauwolfia cvyuqsq,River Nile Rauwolfia Resin (Inflammation),Apiaceae,Unani,Skin,Moderate,Preclinical
+6cc0c4ac-bb74-49cb-a4b0-6ca27eb4cb20,Adhatoda iuteojm,Calming Andean Adhatoda Powder (Stress),Solanaceae,Ayurveda,Skin,Moderate,Preclinical
+8478a5e0-0127-4174-af72-3530c6a89e8d,Acacia qixbreb,Cooling Kerala Acacia Leaf (Metabolic),Zingiberaceae,Unani,Skin,Low,Clinical
+e11d4ede-9926-4963-9928-b90fa2aa1f27,Aloe mtbxnjg,Gentle Atlas Aloe Bark (Cardiovascular),Lamiaceae,Amazonian,Skin,High,Preclinical
+a3d4df6c-797c-4898-8e42-1f79dba85393,Berberis qukyhkc,Cooling Balkan Berberis Fruit (Metabolic),Rutaceae,Unani,Diabetes,Moderate,Clinical
+71d94072-cb8c-4c89-9453-0fdb3fe84779,Scutellaria wzljxua,Golden Nile Scutellaria Flower (Immune),Lamiaceae,TCM,Inflammation,Moderate,Traditional
+81c2922a-c23f-4e87-b963-670157c02119,Zingiber svqptca,Ancient Yunnan Zingiber Tonic (Respiratory),Lamiaceae,African Traditional,Digestive,Low,Traditional
+af551ce7-8509-4568-b959-3d210aa67fc3,Trigonella glnfafv,Resilient Amazon Trigonella Infusion (Skin),Poaceae,Amazonian,Metabolic,High,Traditional
+d4af19a2-69b2-415e-9dcb-269c9bbc0d22,Passiflora zebziak,Wild Mediterranean Passiflora Root (Liver),Poaceae,Western Herbal,Skin,Moderate,Preclinical
+c90f560f-6f3e-40e4-84b6-9afd4565879f,Andrographis iuzkcxr,Fragrant Himalayan Andrographis Leaf (Liver),Lamiaceae,Western Herbal,Cognitive,High,Clinical
+92f17df5-771e-44d6-9380-c45878c2c828,Aegle molppde,White Andean Aegle Extract (Sleep),Apiaceae,African Traditional,Stress,Low,Clinical
+c5b8561a-2b0a-4d63-bd1b-a6b16a701fab,Withania uqelqge,Resilient Mediterranean Withania Bark (Diabetes),Fabaceae,Amazonian,Immune,Low,Traditional
+034dede7-68a5-45a7-896c-132ac20d3b5c,Andrographis gocaxvi,Resilient Andean Andrographis Rhizome (Cardiovascular),Apiaceae,Ayurveda,Cognitive,High,Traditional
+f52a9978-50d9-44bc-8a7c-d34a2e8d721d,Centella nxglhqx,Vital Bengal Centella Resin (Diabetes),Apiaceae,Unani,Metabolic,Low,Traditional
+a1782644-8cbe-45c6-a371-64b24ce80d9e,Moringa ashegvv,Strong Yunnan Moringa Seed (Sleep),Rutaceae,African Traditional,Sleep,Low,Traditional
+ad9dae19-68bf-449a-9bed-740bddc76134,Achillea qfzsdyb,Silver Nile Achillea Essence (Skin),Poaceae,Amazonian,Liver,High,Preclinical
+e683837d-04e1-4971-8b8c-f2c9c68f323f,Camellia nglkcfq,Fragrant Amazon Camellia Infusion (Immune),Araliaceae,TCM,Inflammation,Moderate,Preclinical
+b69cf5d6-a174-4570-9dae-17f26a0de9b9,Curcuma ymrjmgu,Bright Saharan Curcuma Essence (Skin),Lamiaceae,Amazonian,Immune,Low,Preclinical
+77e72538-d0c8-479d-9edf-c8f899ea56b5,Plantago xccvnbh,Gentle Sichuan Plantago Seed (Digestive),Euphorbiaceae,TCM,Cardiovascular,Low,Clinical
+2b881cc9-fb60-4a0a-8d81-e6a54230fb0c,Phyllanthus lecylto,Rare Saharan Phyllanthus Infusion (Skin),Asteraceae,African Traditional,Inflammation,Low,Traditional
+22e82a5b-8db0-4f41-b893-e3a8c2b8d92d,Silybum fkfrbey,Silver Nile Silybum Flower (Cardiovascular),Zingiberaceae,Ayurveda,Respiratory,High,Preclinical
+94a8be3e-9f40-45ce-8f88-7c5301265f6e,Ginkgo frmvxje,Black Atlas Ginkgo Bark (Respiratory),Araliaceae,African Traditional,Metabolic,Moderate,Traditional
+089a1589-91d9-41c6-bb60-cbed8342edc1,Phyllanthus lcbofyw,Silver Nile Phyllanthus Extract (Cardiovascular),Euphorbiaceae,Unani,Cardiovascular,Moderate,Traditional
+19222c0f-0544-4e88-b0c9-89579e387b9a,Hypericum goifjwc,Soothing Balkan Hypericum Essence (Cardiovascular),Apiaceae,Ayurveda,Sleep,High,Preclinical
+60d42564-5471-4a13-af22-86f9a9ded78c,Lavandula iagewfm,Red Kerala Lavandula Resin (Sleep),Zingiberaceae,Amazonian,Digestive,Low,Clinical
+32b7f4a9-c9ab-4528-a426-b88fbe16c310,Mentha augeyyi,Mountain Amazon Mentha Leaf (Sleep),Zingiberaceae,Ayurveda,Inflammation,Low,Traditional
+cd8ab9c0-a86d-4b7a-8815-6aa5c7c28b7f,Aegle kbwskhn,Fragrant Amazon Aegle Fruit (Immune),Fabaceae,TCM,Liver,Low,Preclinical
+67d23dfb-6849-48e3-8772-8241420d6bd3,Harpagophytum hboeebr,Red Nile Harpagophytum Extract (Sleep),Rutaceae,African Traditional,Diabetes,Low,Preclinical
+c03406d2-f671-404c-b8ce-d8da1c55ef9d,Passiflora seiosob,Fragrant Atlas Passiflora Fruit (Metabolic),Fabaceae,Western Herbal,Cardiovascular,Low,Preclinical
+17033674-42d5-4b33-b3eb-5ecfa7222205,Acacia jlwrovh,Forest Mediterranean Acacia Resin (Diabetes),Euphorbiaceae,TCM,Cardiovascular,Low,Traditional
+3f5181e5-08eb-4003-a1c3-280d8fe4e3b7,Ficus exdapyx,Gentle Amazon Ficus Seed (Sleep),Rosaceae,Western Herbal,Stress,Low,Traditional
+3e2c5bcc-cccd-4bb8-934f-c202c6e66197,Passiflora irhmxug,Desert Andean Passiflora Leaf (Sleep),Solanaceae,African Traditional,Immune,High,Clinical
+0781cff9-5dfb-4c3d-a7b3-3820043757a8,Mentha fngfwwo,White Atlas Mentha Resin (Skin),Araliaceae,TCM,Diabetes,Moderate,Traditional
+14c8a5a2-e285-48fa-854d-6da6eb47f327,Ginkgo bftpquf,Wild Bengal Ginkgo Extract (Stress),Rosaceae,TCM,Diabetes,High,Clinical
+97b125a8-dc6f-4917-9d7b-3b9c8031ba88,Curcuma hgnujxn,Resilient Mediterranean Curcuma Extract (Sleep),Apiaceae,Unani,Inflammation,Moderate,Clinical
+bee90f32-2e6d-4a7d-9ccc-4eade4e6e051,Passiflora ivhwrnd,Silver Kerala Passiflora Bark (Inflammation),Asteraceae,Western Herbal,Liver,Low,Preclinical
+7330a310-5767-4973-8d51-8987e26a1c72,Camellia vzptzcz,Healing Bengal Camellia Seed (Immune),Euphorbiaceae,Western Herbal,Stress,High,Traditional
+508eb5db-33ba-4e70-bf02-932e6658f0e4,Boswellia zqupmyv,Purifying Bengal Boswellia Fruit (Metabolic),Rosaceae,TCM,Sleep,Low,Clinical
+ae78ae66-9b7d-46b6-bac0-ac1d8778e490,Rhodiola xmglnmi,Calming Kerala Rhodiola Essence (Stress),Araliaceae,African Traditional,Cardiovascular,High,Traditional
+390e381f-0f94-42ea-831c-e37668217519,Angelica cigajvs,Healing Nile Angelica Rhizome (Inflammation),Asteraceae,African Traditional,Stress,High,Clinical
+6834f406-cb38-4e87-bbbc-d25eb5bb96a8,Achillea tjvqwor,Resilient Saharan Achillea Essence (Sleep),Asteraceae,Amazonian,Skin,Moderate,Clinical
+8ba527ce-119e-4df9-bc84-c514071fb601,Silybum omiaijb,Green Atlas Silybum Bark (Immune),Rosaceae,Unani,Skin,Low,Clinical
+8ce17f9c-795d-477c-807c-82fe39cc9e2e,Asparagus hdcgyqx,Soothing Himalayan Asparagus Seed (Skin),Euphorbiaceae,Amazonian,Diabetes,Low,Preclinical
+bcd9e654-d2f1-45f9-bedc-b2e0b715f5d1,Valeriana gpuihzx,Rare Saharan Valeriana Seed (Cardiovascular),Zingiberaceae,Amazonian,Skin,High,Preclinical
+7e1d9c7a-4136-4994-bb74-bfd2e0badceb,Valeriana iuflzcs,Silver Saharan Valeriana Essence (Cognitive),Euphorbiaceae,Amazonian,Immune,Moderate,Preclinical
+057e2a20-de61-4dac-8023-44acfafe90ec,Silybum hldtrgh,Cooling Kerala Silybum Tonic (Liver),Solanaceae,Ayurveda,Metabolic,Moderate,Traditional
+175b4c6d-ed59-4a0b-a8be-c467c162bb0c,Artemisia xtgajyl,Sacred Mediterranean Artemisia Tonic (Cardiovascular),Rutaceae,Western Herbal,Liver,Low,Preclinical
+e101eea9-857d-46a8-8648-d5e144cb04e0,Ginkgo fpsaiud,Restorative Yunnan Ginkgo Resin (Diabetes),Poaceae,Western Herbal,Metabolic,Moderate,Clinical
+d8783d99-0028-460f-b47f-a922b345ddcb,Inula ioijbik,Black Amazon Inula Resin (Immune),Fabaceae,TCM,Inflammation,Low,Clinical
+9e9cfbb3-1308-4228-bbf4-6bbe03221be1,Cassia fgstvzs,Purifying Nile Cassia Fruit (Liver),Zingiberaceae,Amazonian,Cardiovascular,Moderate,Preclinical
+4406c971-122a-49e9-acd9-6715cac51a1b,Aegle fjyfveb,Fragrant Balkan Aegle Elixir (Cardiovascular),Rosaceae,Western Herbal,Stress,High,Preclinical
+69262400-e178-459f-ae72-f392808cb00f,Berberis ofptmmd,Soothing Nile Berberis Resin (Skin),Rosaceae,Ayurveda,Inflammation,Moderate,Preclinical
+caa591c0-9c5b-426f-9bfa-596fe6d4c22d,Zingiber zeevafl,Red Kerala Zingiber Powder (Metabolic),Asteraceae,TCM,Stress,Moderate,Clinical
+b5bd59f4-c58f-4252-93b7-6351d8c1508c,Lavandula iuhxpft,Calming Balkan Lavandula Bark (Inflammation),Zingiberaceae,African Traditional,Metabolic,Low,Preclinical
+aae964ed-8a7b-49b0-adba-ebcb300e8121,Trigonella doclzpl,Gentle Mediterranean Trigonella Flower (Liver),Zingiberaceae,Ayurveda,Cardiovascular,Moderate,Clinical
+6a21b566-e698-43e3-8a78-f162c9bdf786,Trigonella ghsyrsl,Golden Nile Trigonella Flower (Digestive),Apiaceae,Western Herbal,Diabetes,Moderate,Traditional
+1155fbe5-ddca-42ac-b088-445997e3349e,Artemisia tbyplxi,Black Himalayan Artemisia Rhizome (Immune),Rutaceae,African Traditional,Immune,Moderate,Clinical
+6869e100-14d3-46fd-8af7-443778f1356d,Passiflora bqlapbw,Healing Nile Passiflora Bark (Digestive),Asteraceae,African Traditional,Diabetes,High,Traditional
+c2adb0de-5ef5-458b-ab05-421ca386b19a,Scutellaria xphzvbs,Vital Sichuan Scutellaria Powder (Respiratory),Zingiberaceae,Western Herbal,Cardiovascular,Low,Preclinical
+6cb57bd5-01cb-458c-a073-db7d2b0909e6,Rauwolfia zugmypc,Vital Kerala Rauwolfia Fruit (Inflammation),Zingiberaceae,Unani,Immune,Low,Clinical
+c04c0f2b-9be2-476a-8846-2161db891120,Asparagus ftquqcy,Silver Saharan Asparagus Flower (Cognitive),Rutaceae,Amazonian,Diabetes,High,Preclinical
+6bc1a5b8-0aee-4796-b7ec-4ad70bbdec60,Berberis cembhwg,Vital Sichuan Berberis Tonic (Metabolic),Asteraceae,African Traditional,Stress,High,Preclinical
+98284355-fc97-4d10-9e7b-f8ed92495c1f,Ocimum dysfdxf,Bright Andean Ocimum Fruit (Metabolic),Fabaceae,Western Herbal,Sleep,Low,Traditional
+c6822443-6346-462b-87b9-297f889bdc4e,Hypericum snkvvcb,Desert Himalayan Hypericum Fruit (Diabetes),Solanaceae,Ayurveda,Respiratory,High,Preclinical
+a25e9b91-dee9-4cd2-b7e7-01f957e3cc21,Camellia ddhibpk,Vital Andean Camellia Tonic (Sleep),Rutaceae,Amazonian,Sleep,Moderate,Preclinical
+f8e3730a-c377-44c4-8d5f-bb9a37811811,Silybum zyipaby,Vital Bengal Silybum Tonic (Respiratory),Lamiaceae,African Traditional,Metabolic,Moderate,Clinical
+4152978d-045d-4fa6-ab4d-4fa285f2993b,Angelica bosctws,Bitter Yunnan Angelica Leaf (Diabetes),Fabaceae,Ayurveda,Stress,High,Traditional
+0af0007e-dbbb-40eb-9997-a436d8db52ef,Angelica lufmnld,Black Yunnan Angelica Infusion (Diabetes),Lamiaceae,Unani,Diabetes,Moderate,Traditional
+f8a21243-06a8-47d7-b428-7f72c302a355,Berberis ayjspmj,Wild Atlas Berberis Infusion (Inflammation),Rutaceae,Ayurveda,Respiratory,Low,Traditional
+3d172bcf-54ca-4d99-ac56-3d8e2593231c,Ephedra raopnzy,Red Nile Ephedra Leaf (Digestive),Rutaceae,Unani,Cardiovascular,Low,Clinical
+18fea4e2-e6f1-4618-8273-26a7bc9b5d7b,Taraxacum dpbdwgh,Mountain Atlas Taraxacum Bark (Respiratory),Asteraceae,Ayurveda,Cardiovascular,High,Traditional
+e274d04d-ee10-4a8c-a572-8d7aca799402,Angelica olnadgq,Bright Saharan Angelica Root (Sleep),Zingiberaceae,Western Herbal,Skin,High,Traditional
+1cbf83c0-b23f-4989-af93-499cfa568e5c,Aloe zxowdbn,Black Amazon Aloe Extract (Respiratory),Zingiberaceae,Western Herbal,Diabetes,High,Traditional
+6af822c6-3457-4613-8ad7-3f28637d46e2,Trigonella nbauwoz,Silver Balkan Trigonella Root (Inflammation),Araliaceae,Unani,Sleep,High,Traditional
+53f085c2-751e-4074-beea-9070bfce4310,Bacopa poykgvl,Restorative Bengal Bacopa Leaf (Respiratory),Zingiberaceae,Amazonian,Diabetes,Low,Traditional
+8344dbe4-02d5-48b9-b2d6-067e04b71392,Boswellia qftvsje,Red Yunnan Boswellia Extract (Metabolic),Apiaceae,Amazonian,Inflammation,High,Preclinical
+c6f2db13-d3b4-41b1-a037-c1b9f2c476ec,Salvia mnpdzji,Bright Nile Salvia Root (Liver),Fabaceae,African Traditional,Diabetes,Low,Traditional
+75960f8f-bed8-45dd-a348-e21ed35d369e,Mentha lvysigs,Silver Balkan Mentha Seed (Metabolic),Araliaceae,African Traditional,Diabetes,High,Traditional
+78119aa7-6db3-49be-a153-0b2ea87efbb8,Mentha dnumodw,Mountain Balkan Mentha Flower (Inflammation),Poaceae,Unani,Cognitive,Low,Preclinical
+bd1648f2-7c4c-45f8-9273-0f9a7559d298,Azadirachta xmkwndm,Silver Mediterranean Azadirachta Extract (Liver),Poaceae,Unani,Respiratory,Moderate,Traditional
+c9e18491-ceb5-4f7d-9eb6-d17ade0b8066,Hypericum vgszzcn,Green Nile Hypericum Powder (Cognitive),Solanaceae,Ayurveda,Inflammation,High,Preclinical
+86058145-f211-418c-8b90-7df34771558d,Centella nozycnw,Forest Amazon Centella Extract (Inflammation),Asteraceae,Western Herbal,Respiratory,Moderate,Preclinical
+ba57e269-b658-4c0d-baa9-acb1ab458592,Phyllanthus zfknils,Soothing Himalayan Phyllanthus Elixir (Cardiovascular),Rosaceae,Unani,Digestive,Moderate,Preclinical
+d48fbd61-57dd-4170-b567-cd4ffd8f4982,Scutellaria hgnhelc,Purifying Balkan Scutellaria Resin (Digestive),Lamiaceae,Amazonian,Respiratory,High,Clinical
+8ad7ff7e-e652-4c82-926c-1cfcdebc8506,Gymnema yaaypye,Cooling Atlas Gymnema Flower (Diabetes),Asteraceae,Western Herbal,Immune,High,Preclinical
+cd221ef2-2bb5-480b-8ed4-310e7ee95162,Lavandula fwscjhx,Strong Balkan Lavandula Flower (Cardiovascular),Zingiberaceae,Unani,Cardiovascular,Low,Preclinical
+69cb0052-eb3f-4162-a9c4-8e7f30f99867,Rauwolfia lwnyypj,Healing Saharan Rauwolfia Rhizome (Skin),Asteraceae,African Traditional,Diabetes,Low,Traditional
+d3dcc6da-ccdb-4ee8-9caf-81a39bcd7888,Angelica ymaiujs,Resilient Yunnan Angelica Extract (Digestive),Asteraceae,Western Herbal,Metabolic,Low,Clinical
+b322d10e-78b0-46c9-9488-c9cd37552053,Moringa wyrarjw,Vital Saharan Moringa Powder (Inflammation),Lamiaceae,African Traditional,Cardiovascular,Low,Preclinical
+dba43115-e628-419e-8c7c-55d7917b2d0f,Ginkgo lddwkoe,River Amazon Ginkgo Essence (Skin),Apiaceae,African Traditional,Liver,Low,Traditional
+e78dc811-dea2-409d-a4bf-a36c8f48aa33,Curcuma pwyhtum,Desert Amazon Curcuma Extract (Inflammation),Poaceae,African Traditional,Immune,High,Clinical
+10c754a3-ab48-4aa9-8f85-967596f394a9,Polygonum rydyhkw,Strong Saharan Polygonum Fruit (Cardiovascular),Lamiaceae,TCM,Skin,Low,Traditional
+c7bf7bae-2866-444d-bdb8-88d8a3efd6d7,Thymus mttqhpd,Silver Mediterranean Thymus Tonic (Skin),Solanaceae,African Traditional,Respiratory,High,Clinical
+827a2a82-7bef-4481-813e-cfa86252ea67,Mentha uljvigw,Black Himalayan Mentha Leaf (Metabolic),Lamiaceae,TCM,Sleep,Low,Clinical
+fae32fe5-4c94-4acc-9cd8-324be6665a9a,Uncaria hkxskmd,Soothing Sichuan Uncaria Flower (Cognitive),Poaceae,Amazonian,Immune,Low,Preclinical
+1a5414bd-0ecc-4cc9-8ade-88af02454eb2,Inula cbwnqfq,Restorative Mediterranean Inula Flower (Respiratory),Fabaceae,African Traditional,Inflammation,Moderate,Preclinical
+1c1d6cb3-3243-4153-9e49-481959c15b4b,Moringa agsyccm,Red Atlas Moringa Leaf (Metabolic),Apiaceae,Western Herbal,Immune,Moderate,Clinical
+7184c51c-37e0-43f8-a257-1ad834cd3dd2,Ocimum isnhytt,Sacred Sichuan Ocimum Tonic (Stress),Lamiaceae,Amazonian,Stress,Low,Clinical
+82aaadec-3303-48f9-ae31-a7610af485a4,Bacopa kbmwfjt,Restorative Andean Bacopa Tonic (Respiratory),Fabaceae,Amazonian,Diabetes,Moderate,Traditional
+92de4ed1-c0e3-4166-a4a1-650b64e77ee7,Ocimum fqphnxu,Desert Balkan Ocimum Essence (Stress),Araliaceae,TCM,Digestive,Low,Traditional
+6b9bb9bf-f5e4-4c25-afb2-3efbbbe18344,Calendula bnibysb,Wild Balkan Calendula Seed (Inflammation),Euphorbiaceae,African Traditional,Skin,Moderate,Clinical
+9efbab6a-97d6-4294-83e7-00d1f75344dd,Asparagus figdmar,Resilient Nile Asparagus Resin (Skin),Rosaceae,Western Herbal,Cognitive,High,Traditional
+d5f4d76c-ff10-4113-96c6-20dc22bc5c4d,Harpagophytum yzffwhc,Silver Mediterranean Harpagophytum Leaf (Inflammation),Araliaceae,Amazonian,Cardiovascular,High,Traditional
+82203df1-0d4c-42c8-981b-5a34cfb3867f,Camellia fmjpgww,Black Sichuan Camellia Leaf (Cognitive),Araliaceae,Unani,Cognitive,Low,Traditional
+ddf8f8ca-06b3-42d9-9861-d3f80bcc8464,Lavandula leowdie,Cooling Himalayan Lavandula Powder (Inflammation),Asteraceae,African Traditional,Inflammation,Low,Clinical
+6a27d577-8e43-4cda-a602-54f2dd068aa5,Centella xheettr,Mountain Sichuan Centella Extract (Stress),Solanaceae,Amazonian,Cognitive,Moderate,Preclinical
+7ff43f42-eede-4b63-9fbe-85699a42b1ac,Inula xuqvjhf,Fragrant Kerala Inula Resin (Diabetes),Araliaceae,TCM,Skin,High,Preclinical
+1be93f2a-140b-41d7-9ea8-22da291d4c67,Boswellia ogbsflm,Wild Saharan Boswellia Infusion (Immune),Apiaceae,Ayurveda,Liver,Moderate,Traditional
+b374b51c-487a-41e9-aa3e-9f565220acab,Calendula jwfbkeu,Restorative Andean Calendula Root (Sleep),Solanaceae,Ayurveda,Inflammation,Moderate,Preclinical
+2408350d-e9ec-4d32-b992-191cc92b4057,Ocimum snduuic,Forest Atlas Ocimum Infusion (Diabetes),Lamiaceae,African Traditional,Digestive,Moderate,Clinical
+4642f651-c3db-4cb9-a4bc-051ead732f7d,Valeriana frgcxov,Vital Mediterranean Valeriana Seed (Cognitive),Asteraceae,TCM,Skin,Low,Clinical
+2d62cca9-f3a3-4a80-b003-1eb5a35530a7,Aegle ctrbvmh,Strong Amazon Aegle Extract (Liver),Rosaceae,Ayurveda,Cardiovascular,Moderate,Preclinical
+b6ac5155-415d-4250-a19c-d9e9df6f6c38,Hypericum ifraclt,White Yunnan Hypericum Infusion (Diabetes),Rosaceae,TCM,Diabetes,High,Clinical
+dfe0698a-a427-44e1-a76b-a017ffeb623a,Thymus cvbuifs,White Andean Thymus Leaf (Immune),Asteraceae,Amazonian,Skin,Moderate,Clinical
+08ff0875-4e45-4c5d-9915-a0e40f94c43d,Alpinia lndzxmb,Purifying Nile Alpinia Fruit (Stress),Apiaceae,Ayurveda,Stress,High,Traditional
+9b9151c5-8026-485b-a230-f2076ee44fe7,Gymnema qtzdwzm,River Andean Gymnema Extract (Inflammation),Araliaceae,TCM,Liver,Low,Clinical
+78b9b872-21c1-4270-bc96-5861cb0c5f51,Lavandula jcawwaa,Bitter Atlas Lavandula Rhizome (Metabolic),Euphorbiaceae,Western Herbal,Stress,Low,Preclinical
+ae8e2b1a-6e67-4286-bfbe-e82b427a996c,Valeriana ltuuaan,Strong Bengal Valeriana Elixir (Metabolic),Solanaceae,Ayurveda,Sleep,High,Traditional
+9aa78296-8863-48bb-8da4-b7689d869f24,Angelica cbpbilv,Desert Bengal Angelica Rhizome (Respiratory),Lamiaceae,TCM,Sleep,High,Preclinical
+f562504a-9f6c-4f68-9af2-b71022297073,Terminalia nqutwut,Calming Yunnan Terminalia Resin (Respiratory),Araliaceae,Amazonian,Sleep,High,Clinical
+1e5d7950-ce34-4ed4-95df-f5cd660a97d4,Valeriana jgxhceh,Green Mediterranean Valeriana Bark (Cognitive),Lamiaceae,Unani,Digestive,Low,Preclinical
+ad664341-8551-4a5d-a822-721540947bb0,Acorus wegjnxx,Ancient Andean Acorus Bark (Respiratory),Rutaceae,Unani,Cardiovascular,High,Clinical
+cd021fa7-b4b3-493a-bb2f-70bc0269f1bc,Plantago qonqamo,Gentle Kerala Plantago Leaf (Sleep),Araliaceae,TCM,Skin,Low,Clinical
+1f849285-eea1-4829-8517-37f594b2ede6,Plantago vecltwm,Red Himalayan Plantago Tonic (Metabolic),Solanaceae,Ayurveda,Liver,Low,Traditional
+73eebbd0-706b-4452-a780-2180568d48a5,Artemisia tzulljo,Green Saharan Artemisia Flower (Stress),Rosaceae,Western Herbal,Digestive,Moderate,Traditional
+5fa9fc39-551e-474d-949a-98acd840706a,Tinospora gljerit,Green Atlas Tinospora Flower (Sleep),Solanaceae,TCM,Respiratory,High,Preclinical
+81051cb4-bdcd-45f4-be9f-4766cef2b447,Uncaria ndbnkjm,Silver Andean Uncaria Flower (Cognitive),Rutaceae,Unani,Digestive,High,Traditional
+97bca33f-73f3-4f35-b564-ece306e5cf2f,Echinacea lrylcxa,Rare Saharan Echinacea Tonic (Liver),Poaceae,Amazonian,Liver,Moderate,Traditional
+cba66dff-58dd-4ccb-b701-26368b2bfd73,Acorus rvejrtv,Wild Andean Acorus Infusion (Cardiovascular),Solanaceae,Amazonian,Cardiovascular,High,Preclinical
+8fa5cf44-d330-4070-84a7-10c977c9c5fb,Asparagus znisaba,Red Saharan Asparagus Seed (Inflammation),Rosaceae,Western Herbal,Stress,Low,Clinical
+8535b1d6-54a5-4295-8ee6-ddd87ec498aa,Cinnamomum elnsowp,Restorative Andean Cinnamomum Rhizome (Liver),Zingiberaceae,African Traditional,Diabetes,Moderate,Preclinical
+1aa34b7f-360d-424a-8717-00ea45820100,Ocimum gkutqwx,Bitter Andean Ocimum Flower (Skin),Araliaceae,African Traditional,Cognitive,Moderate,Traditional
+40485f46-d0ea-4e27-87aa-8a38b0cfff8b,Zingiber fjkmdkn,Restorative Atlas Zingiber Flower (Immune),Rosaceae,Unani,Skin,Moderate,Traditional
+71bd3c2c-9245-4c42-b9bf-3709c5211a67,Withania mloxrce,Rare Amazon Withania Seed (Liver),Euphorbiaceae,Western Herbal,Cardiovascular,Low,Preclinical
+97e61f4c-6a77-4dd8-979e-5b5a3f4ca57c,Withania jsfvmth,Ancient Andean Withania Leaf (Diabetes),Fabaceae,Amazonian,Metabolic,High,Clinical
+2dbbcdf8-e531-4220-9bb6-9d53dfe9a685,Withania dvaxtrw,Green Himalayan Withania Resin (Cognitive),Asteraceae,TCM,Cognitive,High,Traditional
+aee7173c-cc23-48a5-829e-6951b0db5d79,Andrographis phnduht,Sacred Sichuan Andrographis Flower (Liver),Zingiberaceae,Ayurveda,Diabetes,Low,Traditional
+ac4233c7-0e51-4543-881a-60febbf4c6e9,Phyllanthus tbtbsix,Bright Balkan Phyllanthus Rhizome (Digestive),Apiaceae,Amazonian,Diabetes,Low,Clinical
+a483a765-87ae-4b34-85ad-62786177e758,Bacopa kqdlxho,Rare Mediterranean Bacopa Seed (Metabolic),Apiaceae,African Traditional,Cognitive,Moderate,Preclinical
+d5bc9295-8b22-47d4-8bc8-a58fdb3c507d,Calendula ffdlxvm,Bitter Amazon Calendula Bark (Immune),Euphorbiaceae,African Traditional,Sleep,High,Preclinical
+518b8fd3-8371-43e5-a027-bde1da4899d2,Rhodiola occapyp,Rare Mediterranean Rhodiola Resin (Liver),Rosaceae,TCM,Inflammation,Low,Traditional
+cee70b7a-53e9-4a14-a7cf-857c492e9879,Harpagophytum jmnxjdg,Wild Saharan Harpagophytum Bark (Sleep),Poaceae,TCM,Liver,Low,Traditional
+23c2310b-0b34-42af-9741-0cc2dc098506,Bacopa zdzsfpy,Cooling Mediterranean Bacopa Tonic (Sleep),Solanaceae,Western Herbal,Liver,Low,Preclinical
+a6e45007-a64e-403c-a435-fc1c26b6ccd6,Bacopa mhvoely,Sacred Himalayan Bacopa Resin (Respiratory),Zingiberaceae,Western Herbal,Inflammation,Moderate,Preclinical
+fcde1165-ddca-4dff-95f8-336949e01d47,Trigonella xcvpkax,Resilient Saharan Trigonella Flower (Stress),Poaceae,TCM,Liver,Low,Clinical
+4403fb4a-d169-4040-9391-4d6aa1b51be0,Moringa buxhple,Sacred Kerala Moringa Flower (Stress),Rosaceae,Amazonian,Stress,Low,Clinical
+9fcd3dc8-2167-40e5-83df-22882831e91f,Valeriana iubddef,Wild Sichuan Valeriana Elixir (Respiratory),Asteraceae,Unani,Respiratory,Low,Clinical
+3ee05b37-3d5b-4d87-b5f7-3a8c2cc06fa5,Cassia ixtpjdh,Calming Mediterranean Cassia Tonic (Stress),Poaceae,Western Herbal,Cognitive,Moderate,Preclinical
+47420fdf-bf5d-4a00-9c8e-54aecf7d2427,Acacia qptznkv,River Bengal Acacia Seed (Inflammation),Asteraceae,African Traditional,Cardiovascular,Low,Preclinical
+24c4cb9f-8e2b-4d18-a446-fe5fe9cfe53a,Valeriana cixbevz,Red Himalayan Valeriana Essence (Digestive),Zingiberaceae,Ayurveda,Respiratory,Moderate,Traditional
+fdfaf6ce-4a5a-4dcf-9e95-72c866bb1a3d,Curcuma iedmsyp,Desert Balkan Curcuma Leaf (Cardiovascular),Solanaceae,TCM,Cardiovascular,High,Clinical
+f12135f5-2b68-466e-8966-ed68ce25be67,Silybum aluifdr,Soothing Himalayan Silybum Bark (Cognitive),Apiaceae,Western Herbal,Respiratory,Moderate,Clinical
+b38be366-cb2a-426a-a227-6387e4ddba20,Achillea ypvvhjf,Wild Atlas Achillea Extract (Respiratory),Poaceae,Amazonian,Immune,Moderate,Traditional
+e2df096c-26a2-47fd-95c9-44687fbe51f8,Angelica fyyubqa,Desert Amazon Angelica Resin (Metabolic),Euphorbiaceae,TCM,Sleep,High,Clinical
+655b1904-2b64-4660-b565-ab1e73ae0ec9,Trigonella kbiltqv,Gentle Balkan Trigonella Tonic (Digestive),Solanaceae,African Traditional,Liver,Moderate,Preclinical
+06b75d7c-1b4f-4cf2-ad9c-9b46983533e0,Ficus aotayoa,Desert Balkan Ficus Infusion (Immune),Fabaceae,Ayurveda,Sleep,Moderate,Traditional
+08bb28b7-94af-4cf2-90ec-b84b6d876e12,Lavandula pxoogrx,Black Mediterranean Lavandula Rhizome (Liver),Fabaceae,Western Herbal,Cognitive,High,Preclinical
+a6301590-5194-4c1c-9c80-d1605a0b77c1,Moringa hlmhejq,Golden Nile Moringa Flower (Sleep),Rosaceae,Unani,Immune,Moderate,Clinical
+c16f2cb2-7cea-41f5-901d-9c392a79c93b,Harpagophytum fhtwhxl,Wild Himalayan Harpagophytum Extract (Cardiovascular),Asteraceae,African Traditional,Stress,High,Preclinical
+de71b5e8-6510-4887-b9fc-dd9ce7012761,Camellia kyyvjxv,Red Saharan Camellia Rhizome (Sleep),Euphorbiaceae,Ayurveda,Immune,High,Preclinical
+adee317c-5350-4629-9663-6832befbbdfd,Ocimum hubirig,Restorative Sichuan Ocimum Extract (Liver),Poaceae,Ayurveda,Immune,Low,Clinical
+b1ff29cf-8faa-4a55-b32d-c34e58ae07ab,Boswellia vjxpqxt,Resilient Amazon Boswellia Tonic (Skin),Lamiaceae,Western Herbal,Diabetes,Moderate,Clinical
+025494c2-5ce5-4609-8da4-d540679f648e,Salvia cnjxjme,Resilient Balkan Salvia Tonic (Stress),Araliaceae,Amazonian,Skin,High,Preclinical
+6d949c5b-3353-4674-8f73-6a4322696d62,Zingiber oghypdv,Cooling Balkan Zingiber Powder (Sleep),Asteraceae,Amazonian,Metabolic,Moderate,Preclinical
+2f0928d4-1a25-48f8-8923-ac197be5af1e,Acorus dwamwin,Ancient Atlas Acorus Infusion (Cardiovascular),Rosaceae,Western Herbal,Sleep,High,Traditional
+c0a816a8-4f55-4479-b04c-357d8f952213,Adhatoda pudwfmr,Cooling Sichuan Adhatoda Resin (Cognitive),Zingiberaceae,Ayurveda,Stress,Low,Preclinical
+6aecc06b-5fe6-43de-b105-12a19e93a241,Boswellia xuujptn,Black Amazon Boswellia Resin (Skin),Rosaceae,Western Herbal,Cardiovascular,Low,Traditional
+f6fb2ddc-a47c-40ad-b917-50180c4d8828,Rauwolfia okcbbfx,Bright Himalayan Rauwolfia Resin (Inflammation),Asteraceae,Amazonian,Digestive,High,Clinical
+c240fd7f-0838-4df7-8707-e0d135863f1f,Camellia sakbluh,Healing Andean Camellia Flower (Respiratory),Araliaceae,Ayurveda,Cognitive,High,Clinical
+5b647993-c1e9-4e31-a3fe-24d0b947a452,Scutellaria sssrexf,Rare Balkan Scutellaria Flower (Liver),Araliaceae,Amazonian,Inflammation,High,Traditional
+4a39a9e2-6fb1-415c-b10b-40bdc7003025,Taraxacum wxzhmdi,Soothing Balkan Taraxacum Leaf (Skin),Rosaceae,Ayurveda,Stress,Moderate,Preclinical
+1df8fdb8-f2d5-4372-892d-53b497b17e2e,Ephedra yetwdfo,Bitter Atlas Ephedra Seed (Respiratory),Poaceae,TCM,Stress,High,Traditional
+ed9cd3d6-85ed-402f-85d5-cb2b63e89e7a,Terminalia gpuwgfm,Gentle Saharan Terminalia Seed (Inflammation),Asteraceae,Western Herbal,Inflammation,High,Clinical
+74b63190-d2f1-46fd-8a30-f8ff7028cf4f,Azadirachta lwtjbqb,Vital Saharan Azadirachta Root (Liver),Solanaceae,Unani,Liver,Low,Clinical
+f4e7d24f-fa17-42ae-b4a7-f87fac6f4149,Rauwolfia rdoytlp,Gentle Atlas Rauwolfia Fruit (Diabetes),Rutaceae,Unani,Metabolic,Low,Traditional
